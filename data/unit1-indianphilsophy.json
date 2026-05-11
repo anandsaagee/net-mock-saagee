@@ -1,102 +1,1402 @@
 [
-  { "id": 1,  "paper": 2, "topic": "Indian Philosophy",     "question": "According to the Charvaka school, the only valid source of knowledge is:", "options": ["Inference","Perception","Comparison","Testimony"], "answer": 1 },
-  { "id": 2,  "paper": 2, "topic": "Indian Philosophy",     "question": "The doctrine of Syadvada is associated with:", "options": ["Buddhism","Nyaya","Jainism","Vedanta"], "answer": 2 },
-  { "id": 3,  "paper": 2, "topic": "Indian Philosophy",     "question": "Who propounded the theory of momentariness (Ksanikavada)?", "options": ["Samkhya","Buddhism","Nyaya","Mimamsa"], "answer": 1 },
-  { "id": 4,  "paper": 2, "topic": "Indian Philosophy",     "question": "The founder of the Nyaya school is:", "options": ["Kapila","Kanada","Gautama","Jaimini"], "answer": 2 },
-  { "id": 5,  "paper": 2, "topic": "Indian Philosophy",     "question": "According to Advaita Vedanta, Brahman is:", "options": ["Qualified","Saguna only","Non-dual","Atomic"], "answer": 2 },
-  { "id": 6,  "paper": 2, "topic": "Indian Philosophy",     "question": "Who wrote the Brahma Sutra Bhashya?", "options": ["Ramanuja","Madhva","Shankaracharya","Nimbarka"], "answer": 2 },
-  { "id": 7,  "paper": 2, "topic": "Indian Philosophy",     "question": "In Samkhya philosophy, Purusha is:", "options": ["Material cause","Pure consciousness","Mind","Body"], "answer": 1 },
-  { "id": 8,  "paper": 2, "topic": "Indian Philosophy",     "question": "The Vaisheshika category dealing with inherence is:", "options": ["Samanya","Vishesa","Samavaya","Dravya"], "answer": 2 },
-  { "id": 9,  "paper": 2, "topic": "Indian Philosophy",     "question": "The concept of Anatta belongs to:", "options": ["Jainism","Vedanta","Buddhism","Yoga"], "answer": 2 },
-  { "id": 10, "paper": 2, "topic": "Indian Philosophy",     "question": "The Yoga system of Patanjali accepts how many limbs of Yoga?", "options": ["Six","Eight","Ten","Twelve"], "answer": 1 },
-  { "id": 11, "paper": 2, "topic": "Western Philosophy",    "question": "Who among the following is known for the theory of Forms?", "options": ["Aristotle","Plato","Socrates","Epicurus"], "answer": 1 },
-  { "id": 12, "paper": 2, "topic": "Western Philosophy",    "question": "Aristotle explained change through:", "options": ["Dialectics","Four causes","Monads","Atoms"], "answer": 1 },
-  { "id": 13, "paper": 2, "topic": "Western Philosophy",    "question": "The statement 'Cogito, ergo sum' was given by:", "options": ["Locke","Descartes","Hume","Spinoza"], "answer": 1 },
-  { "id": 14, "paper": 2, "topic": "Western Philosophy",    "question": "According to Hume, causation is based on:", "options": ["Reason","Substance","Habit","Innate ideas"], "answer": 2 },
-  { "id": 15, "paper": 2, "topic": "Western Philosophy",    "question": "Kant described synthetic a priori judgments in his:", "options": ["Critique of Pure Reason","Republic","Meditations","Phenomenology of Spirit"], "answer": 0 },
-  { "id": 16, "paper": 2, "topic": "Western Philosophy",    "question": "Who developed the dialectical method in German Idealism?", "options": ["Kant","Hegel","Fichte","Schelling"], "answer": 1 },
-  { "id": 17, "paper": 2, "topic": "Western Philosophy",    "question": "Leibniz is associated with the theory of:", "options": ["Monads","Ideas","Substance dualism","Materialism"], "answer": 0 },
-  { "id": 18, "paper": 2, "topic": "Western Philosophy",    "question": "Berkeley denied the existence of:", "options": ["Mind","God","Material substance","Ideas"], "answer": 2 },
-  { "id": 19, "paper": 2, "topic": "Western Philosophy",    "question": "Who among the following is a utilitarian philosopher?", "options": ["Bentham","Kant","Hegel","Plato"], "answer": 0 },
-  { "id": 20, "paper": 2, "topic": "Western Philosophy",    "question": "Nietzsche advocated the idea of:", "options": ["Categorical imperative","Übermensch","Utility","Monads"], "answer": 1 },
-  { "id": 21, "paper": 2, "topic": "Logic",                 "question": "The fallacy of affirming the consequent is:", "options": ["If P then Q; Q; therefore P","If P then Q; P; therefore Q","P or Q; not P; therefore Q","P and Q; therefore P"], "answer": 0 },
-  { "id": 22, "paper": 2, "topic": "Logic",                 "question": "A proposition that is always true is called:", "options": ["Contradiction","Contingent","Tautology","Invalid"], "answer": 2 },
-  { "id": 23, "paper": 2, "topic": "Logic",                 "question": "In Aristotelian logic, a syllogism contains:", "options": ["Two terms","Three terms","Four terms","Five terms"], "answer": 1 },
-  { "id": 24, "paper": 2, "topic": "Logic",                 "question": "Which of the following is a valid argument form?", "options": ["Denying the antecedent","Affirming the consequent","Modus ponens","Equivocation"], "answer": 2 },
-  { "id": 25, "paper": 2, "topic": "Logic",                 "question": "The relation between contradictory propositions is that:", "options": ["Both can be true","Both can be false","One must be true and the other false","Neither can be determined"], "answer": 2 },
-  { "id": 26, "paper": 2, "topic": "Logic",                 "question": "In symbolic logic, '~P' denotes:", "options": ["Conjunction","Negation","Disjunction","Implication"], "answer": 1 },
-  { "id": 27, "paper": 2, "topic": "Logic",                 "question": "The square of opposition was developed in:", "options": ["Indian logic","Modern logic","Traditional logic","Symbolic logic"], "answer": 2 },
-  { "id": 28, "paper": 2, "topic": "Logic",                 "question": "Which fallacy arises from ambiguity in language?", "options": ["Ad hominem","Equivocation","Petitio principii","Post hoc"], "answer": 1 },
-  { "id": 29, "paper": 2, "topic": "Logic",                 "question": "The Nyaya syllogism consists of how many members?", "options": ["Three","Four","Five","Six"], "answer": 2 },
-  { "id": 30, "paper": 2, "topic": "Logic",                 "question": "Hetvabhasa in Indian logic refers to:", "options": ["Perception","Inference","Fallacy","Testimony"], "answer": 2 },
-  { "id": 31, "paper": 2, "topic": "Ethics",                "question": "Virtue ethics was developed most fully by:", "options": ["Kant","Bentham","Aristotle","Nietzsche"], "answer": 2 },
-  { "id": 32, "paper": 2, "topic": "Ethics",                "question": "The categorical imperative is central to the ethics of:", "options": ["Mill","Kant","Aristotle","Moore"], "answer": 1 },
-  { "id": 33, "paper": 2, "topic": "Ethics",                "question": "Utilitarianism judges actions by their:", "options": ["Intentions","Consequences","Divine origin","Universality"], "answer": 1 },
-  { "id": 34, "paper": 2, "topic": "Ethics",                "question": "The term 'Eudaimonia' in Aristotle means:", "options": ["Pleasure","Duty","Flourishing","Salvation"], "answer": 2 },
-  { "id": 35, "paper": 2, "topic": "Ethics",                "question": "Who wrote 'Principia Ethica'?", "options": ["G.E. Moore","A.J. Ayer","Hume","Sidgwick"], "answer": 0 },
-  { "id": 36, "paper": 2, "topic": "Ethics",                "question": "The doctrine that pleasure is the highest good is:", "options": ["Asceticism","Hedonism","Altruism","Stoicism"], "answer": 1 },
-  { "id": 37, "paper": 2, "topic": "Ethics",                "question": "Ahimsa is most prominently emphasized in:", "options": ["Jainism","Nyaya","Charvaka","Vaisheshika"], "answer": 0 },
-  { "id": 38, "paper": 2, "topic": "Ethics",                "question": "The doctrine of the golden mean belongs to:", "options": ["Plato","Kant","Aristotle","Mill"], "answer": 2 },
-  { "id": 39, "paper": 2, "topic": "Ethics",                "question": "Who among the following defended emotivism?", "options": ["A.J. Ayer","Kant","Aristotle","Rawls"], "answer": 0 },
-  { "id": 40, "paper": 2, "topic": "Ethics",                "question": "Nishkama Karma is advocated in the:", "options": ["Yoga Sutra","Bhagavad Gita","Nyaya Sutra","Manusmriti"], "answer": 1 },
-  { "id": 41, "paper": 2, "topic": "Social & Political",    "question": "Who wrote 'A Theory of Justice'?", "options": ["Rawls","Nozick","Marx","Locke"], "answer": 0 },
-  { "id": 42, "paper": 2, "topic": "Social & Political",    "question": "The social contract theory is associated with:", "options": ["Hobbes","Russell","Moore","Hegel"], "answer": 0 },
-  { "id": 43, "paper": 2, "topic": "Social & Political",    "question": "Karl Marx explained history in terms of:", "options": ["Idealism","Historical materialism","Existentialism","Empiricism"], "answer": 1 },
-  { "id": 44, "paper": 2, "topic": "Social & Political",    "question": "The concept of General Will was proposed by:", "options": ["Rousseau","Locke","Bentham","Mill"], "answer": 0 },
-  { "id": 45, "paper": 2, "topic": "Social & Political",    "question": "Who defended libertarianism in modern political philosophy?", "options": ["Rawls","Nozick","Marx","Habermas"], "answer": 1 },
-  { "id": 46, "paper": 2, "topic": "Philosophy of Religion","question": "The ontological argument for God's existence was formulated by:", "options": ["Anselm","Aquinas","Paley","Hume"], "answer": 0 },
-  { "id": 47, "paper": 2, "topic": "Philosophy of Religion","question": "The problem of evil is especially discussed by:", "options": ["Augustine","Russell","Carnap","Frege"], "answer": 0 },
-  { "id": 48, "paper": 2, "topic": "Philosophy of Religion","question": "William James is associated with:", "options": ["Pragmatism","Logical positivism","Phenomenology","Structuralism"], "answer": 0 },
-  { "id": 49, "paper": 2, "topic": "Philosophy of Religion","question": "The cosmological argument depends on the principle of:", "options": ["Utility","Causation","Verification","Negation"], "answer": 1 },
-  { "id": 50, "paper": 2, "topic": "Philosophy of Religion","question": "Pascal's wager is an argument concerning:", "options": ["Ethics","Religion","Politics","Aesthetics"], "answer": 1 },
-  { "id": 51, "paper": 2, "topic": "Epistemology",          "question": "According to Descartes, the foundation of certainty is:", "options": ["Sense experience","Cogito","Substance","Language"], "answer": 1 },
-  { "id": 52, "paper": 2, "topic": "Epistemology",          "question": "John Locke described the mind at birth as:", "options": ["Innate structure","Tabula rasa","Pure reason","Monadic substance"], "answer": 1 },
-  { "id": 53, "paper": 2, "topic": "Epistemology",          "question": "The coherence theory of truth defines truth in terms of:", "options": ["Practical success","Correspondence with facts","Systematic consistency","Divine revelation"], "answer": 2 },
-  { "id": 54, "paper": 2, "topic": "Epistemology",          "question": "Who is known for radical skepticism regarding causation?", "options": ["Kant","Hume","Leibniz","Spinoza"], "answer": 1 },
-  { "id": 55, "paper": 2, "topic": "Epistemology",          "question": "The pragmatic theory of truth is closely associated with:", "options": ["William James","Plato","Descartes","Frege"], "answer": 0 },
-  { "id": 56, "paper": 2, "topic": "Metaphysics",           "question": "The doctrine that reality consists ultimately of matter is:", "options": ["Idealism","Materialism","Dualism","Phenomenalism"], "answer": 1 },
-  { "id": 57, "paper": 2, "topic": "Metaphysics",           "question": "Who developed the theory of pre-established harmony?", "options": ["Descartes","Leibniz","Hegel","Locke"], "answer": 1 },
-  { "id": 58, "paper": 2, "topic": "Metaphysics",           "question": "In Aristotle, substance is primarily identified with:", "options": ["Universal","Form alone","Individual entity","Matter alone"], "answer": 2 },
-  { "id": 59, "paper": 2, "topic": "Metaphysics",           "question": "The Buddhist doctrine denying permanent self is called:", "options": ["Atman","Anatta","Moksha","Prakriti"], "answer": 1 },
-  { "id": 60, "paper": 2, "topic": "Metaphysics",           "question": "The existentialist slogan 'existence precedes essence' is associated with:", "options": ["Heidegger","Sartre","Kierkegaard","Nietzsche"], "answer": 1 },
-  { "id": 61, "paper": 2, "topic": "Analytic Philosophy",   "question": "Logical atomism is associated with:", "options": ["Russell","Hegel","Rawls","Husserl"], "answer": 0 },
-  { "id": 62, "paper": 2, "topic": "Analytic Philosophy",   "question": "Who authored the Tractatus Logico-Philosophicus?", "options": ["Frege","Russell","Wittgenstein","Moore"], "answer": 2 },
-  { "id": 63, "paper": 2, "topic": "Analytic Philosophy",   "question": "The verification principle was defended by:", "options": ["Logical positivists","Existentialists","Phenomenologists","Idealists"], "answer": 0 },
-  { "id": 64, "paper": 2, "topic": "Analytic Philosophy",   "question": "Frege is best known for contributions to:", "options": ["Phenomenology","Symbolic logic","Existentialism","Utilitarianism"], "answer": 1 },
-  { "id": 65, "paper": 2, "topic": "Analytic Philosophy",   "question": "According to early Wittgenstein, language pictures:", "options": ["Values","Emotions","Facts","Universals"], "answer": 2 },
-  { "id": 66, "paper": 2, "topic": "Phenomenology",         "question": "Phenomenology was founded by:", "options": ["Heidegger","Husserl","Sartre","Merleau-Ponty"], "answer": 1 },
-  { "id": 67, "paper": 2, "topic": "Phenomenology",         "question": "Intentionality in phenomenology refers to:", "options": ["Moral intention","Directedness of consciousness","Religious faith","Political action"], "answer": 1 },
-  { "id": 68, "paper": 2, "topic": "Existentialism",        "question": "Who wrote Being and Nothingness?", "options": ["Heidegger","Camus","Sartre","Jaspers"], "answer": 2 },
-  { "id": 69, "paper": 2, "topic": "Existentialism",        "question": "The concept of 'bad faith' is associated with:", "options": ["Sartre","Kant","Russell","Locke"], "answer": 0 },
-  { "id": 70, "paper": 2, "topic": "Existentialism",        "question": "Who is regarded as the father of existentialism?", "options": ["Nietzsche","Kierkegaard","Sartre","Camus"], "answer": 1 },
-  { "id": 71, "paper": 2, "topic": "Contemporary Philosophy","question": "Deconstruction is mainly associated with:", "options": ["Foucault","Derrida","Habermas","Rorty"], "answer": 1 },
-  { "id": 72, "paper": 2, "topic": "Contemporary Philosophy","question": "Michel Foucault analyzed the relation between:", "options": ["Power and knowledge","Faith and reason","Mind and body","Matter and form"], "answer": 0 },
-  { "id": 73, "paper": 2, "topic": "Contemporary Philosophy","question": "The concept of language games belongs to:", "options": ["Russell","Frege","Later Wittgenstein","Carnap"], "answer": 2 },
-  { "id": 74, "paper": 2, "topic": "Contemporary Philosophy","question": "Communicative action is a concept developed by:", "options": ["Habermas","Derrida","Heidegger","Sartre"], "answer": 0 },
-  { "id": 75, "paper": 2, "topic": "Contemporary Philosophy","question": "Postmodernism generally questions:", "options": ["Empirical observation","Grand narratives","Ethical reasoning","Deductive logic"], "answer": 1 },
-  { "id": 76, "paper": 2, "topic": "Philosophy of Language","question": "The theory of descriptions was proposed by:", "options": ["Frege","Russell","Wittgenstein","Austin"], "answer": 1 },
-  { "id": 77, "paper": 2, "topic": "Philosophy of Language","question": "Speech act theory was mainly developed by:", "options": ["Austin","Carnap","Moore","Quine"], "answer": 0 },
-  { "id": 78, "paper": 2, "topic": "Philosophy of Language","question": "The distinction between sense and reference was introduced by:", "options": ["Frege","Russell","Ayer","Strawson"], "answer": 0 },
-  { "id": 79, "paper": 2, "topic": "Philosophy of Language","question": "According to Wittgenstein, meaning is determined by:", "options": ["Reference","Verification","Use","Intuition"], "answer": 2 },
-  { "id": 80, "paper": 2, "topic": "Philosophy of Language","question": "Who criticized the analytic-synthetic distinction?", "options": ["Carnap","Quine","Frege","Russell"], "answer": 1 },
-  { "id": 81, "paper": 2, "topic": "Aesthetics",            "question": "The theory of catharsis is associated with:", "options": ["Plato","Aristotle","Longinus","Croce"], "answer": 1 },
-  { "id": 82, "paper": 2, "topic": "Aesthetics",            "question": "Rasa theory in Indian aesthetics was developed by:", "options": ["Bharata","Abhinavagupta","Anandavardhana","Mammata"], "answer": 0 },
-  { "id": 83, "paper": 2, "topic": "Aesthetics",            "question": "The concept of Dhvani was propounded by:", "options": ["Bharata","Mammata","Anandavardhana","Bhamaha"], "answer": 2 },
-  { "id": 84, "paper": 2, "topic": "Aesthetics",            "question": "According to Plato, art is:", "options": ["Imitation","Pure intuition","Self-expression","Catharsis"], "answer": 0 },
-  { "id": 85, "paper": 2, "topic": "Aesthetics",            "question": "Who emphasized art as expression?", "options": ["Croce","Aristotle","Plato","Kant"], "answer": 0 },
-  { "id": 86, "paper": 2, "topic": "Philosophy of Science", "question": "Karl Popper is known for the principle of:", "options": ["Verification","Falsification","Induction","Reduction"], "answer": 1 },
-  { "id": 87, "paper": 2, "topic": "Philosophy of Science", "question": "Thomas Kuhn introduced the concept of:", "options": ["Paradigm shift","Language game","Deconstruction","Dialectic"], "answer": 0 },
-  { "id": 88, "paper": 2, "topic": "Philosophy of Science", "question": "Inductive reasoning proceeds from:", "options": ["General to particular","Particular to general","Cause to effect","Effect to cause"], "answer": 1 },
-  { "id": 89, "paper": 2, "topic": "Philosophy of Science", "question": "The problem of induction was raised by:", "options": ["Hume","Kant","Mill","Russell"], "answer": 0 },
-  { "id": 90, "paper": 2, "topic": "Philosophy of Science", "question": "Logical positivism emphasized:", "options": ["Metaphysics","Verification","Existential freedom","Dialectics"], "answer": 1 },
-  { "id": 91, "paper": 2, "topic": "Indian Philosophy",     "question": "The doctrine of dependent origination in Buddhism is called:", "options": ["Pratityasamutpada","Anekantavada","Vivartavada","Satkaryavada"], "answer": 0 },
-  { "id": 92, "paper": 2, "topic": "Indian Philosophy",     "question": "Ramanuja advocated:", "options": ["Dvaita","Advaita","Vishishtadvaita","Shuddhadvaita"], "answer": 2 },
-  { "id": 93, "paper": 2, "topic": "Indian Philosophy",     "question": "Madhvacharya is associated with:", "options": ["Advaita","Dvaita","Vishishtadvaita","Yoga"], "answer": 1 },
-  { "id": 94, "paper": 2, "topic": "Indian Philosophy",     "question": "The Mimamsa school primarily deals with:", "options": ["Logic","Meditation","Vedic ritual","Atomism"], "answer": 2 },
-  { "id": 95, "paper": 2, "topic": "Indian Philosophy",     "question": "The concept of Maya is central to:", "options": ["Nyaya","Advaita Vedanta","Jainism","Charvaka"], "answer": 1 },
-  { "id": 96, "paper": 2, "topic": "Western Philosophy",    "question": "The allegory of the cave appears in:", "options": ["Republic","Nicomachean Ethics","Meditations","Leviathan"], "answer": 0 },
-  { "id": 97, "paper": 2, "topic": "Western Philosophy",    "question": "Who wrote Leviathan?", "options": ["Locke","Hobbes","Rousseau","Mill"], "answer": 1 },
-  { "id": 98, "paper": 2, "topic": "Western Philosophy",    "question": "The idea of the will to power is associated with:", "options": ["Nietzsche","Kant","Hegel","Marx"], "answer": 0 },
-  { "id": 99, "paper": 2, "topic": "Western Philosophy",    "question": "Phenomenology seeks to study:", "options": ["Economic systems","Structures of consciousness","Political institutions","Religious rituals"], "answer": 1 },
-  { "id": 100,"paper": 2, "topic": "Western Philosophy",    "question": "Who authored Being and Time?", "options": ["Sartre","Heidegger","Husserl","Jaspers"], "answer": 1 }
+  {
+    "id": "u1q1",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "According to the Charvaka school, the only valid source of knowledge is:",
+    "options": [
+      "Inference",
+      "Perception",
+      "Comparison",
+      "Testimony"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q2",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The doctrine of Syadvada is associated with:",
+    "options": [
+      "Buddhism",
+      "Nyaya",
+      "Jainism",
+      "Vedanta"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q3",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "Who propounded the theory of momentariness (Ksanikavada)?",
+    "options": [
+      "Samkhya",
+      "Buddhism",
+      "Nyaya",
+      "Mimamsa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q4",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The founder of the Nyaya school is:",
+    "options": [
+      "Kapila",
+      "Kanada",
+      "Gautama",
+      "Jaimini"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q5",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "According to Advaita Vedanta, Brahman is:",
+    "options": [
+      "Qualified",
+      "Saguna only",
+      "Non-dual",
+      "Atomic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q6",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "Who wrote the Brahma Sutra Bhashya?",
+    "options": [
+      "Ramanuja",
+      "Madhva",
+      "Shankaracharya",
+      "Nimbarka"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q7",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "In Samkhya philosophy, Purusha is:",
+    "options": [
+      "Material cause",
+      "Pure consciousness",
+      "Mind",
+      "Body"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q8",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The Vaisheshika category dealing with inherence is:",
+    "options": [
+      "Samanya",
+      "Vishesa",
+      "Samavaya",
+      "Dravya"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q9",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The concept of Anatta belongs to:",
+    "options": [
+      "Jainism",
+      "Vedanta",
+      "Buddhism",
+      "Yoga"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q10",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The Yoga system of Patanjali accepts how many limbs of Yoga?",
+    "options": [
+      "Six",
+      "Eight",
+      "Ten",
+      "Twelve"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q11",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Who among the following is known for the theory of Forms?",
+    "options": [
+      "Aristotle",
+      "Plato",
+      "Socrates",
+      "Epicurus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q12",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Aristotle explained change through:",
+    "options": [
+      "Dialectics",
+      "Four causes",
+      "Monads",
+      "Atoms"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q13",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "The statement 'Cogito, ergo sum' was given by:",
+    "options": [
+      "Locke",
+      "Descartes",
+      "Hume",
+      "Spinoza"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q14",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "According to Hume, causation is based on:",
+    "options": [
+      "Reason",
+      "Substance",
+      "Habit",
+      "Innate ideas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q15",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Kant described synthetic a priori judgments in his:",
+    "options": [
+      "Critique of Pure Reason",
+      "Republic",
+      "Meditations",
+      "Phenomenology of Spirit"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q16",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Who developed the dialectical method in German Idealism?",
+    "options": [
+      "Kant",
+      "Hegel",
+      "Fichte",
+      "Schelling"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q17",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Leibniz is associated with the theory of:",
+    "options": [
+      "Monads",
+      "Ideas",
+      "Substance dualism",
+      "Materialism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q18",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Berkeley denied the existence of:",
+    "options": [
+      "Mind",
+      "God",
+      "Material substance",
+      "Ideas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q19",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Who among the following is a utilitarian philosopher?",
+    "options": [
+      "Bentham",
+      "Kant",
+      "Hegel",
+      "Plato"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q20",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Nietzsche advocated the idea of:",
+    "options": [
+      "Categorical imperative",
+      "Übermensch",
+      "Utility",
+      "Monads"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q21",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "The fallacy of affirming the consequent is:",
+    "options": [
+      "If P then Q; Q; therefore P",
+      "If P then Q; P; therefore Q",
+      "P or Q; not P; therefore Q",
+      "P and Q; therefore P"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q22",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "A proposition that is always true is called:",
+    "options": [
+      "Contradiction",
+      "Contingent",
+      "Tautology",
+      "Invalid"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q23",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "In Aristotelian logic, a syllogism contains:",
+    "options": [
+      "Two terms",
+      "Three terms",
+      "Four terms",
+      "Five terms"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q24",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "Which of the following is a valid argument form?",
+    "options": [
+      "Denying the antecedent",
+      "Affirming the consequent",
+      "Modus ponens",
+      "Equivocation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q25",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "The relation between contradictory propositions is that:",
+    "options": [
+      "Both can be true",
+      "Both can be false",
+      "One must be true and the other false",
+      "Neither can be determined"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q26",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "In symbolic logic, '~P' denotes:",
+    "options": [
+      "Conjunction",
+      "Negation",
+      "Disjunction",
+      "Implication"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q27",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "The square of opposition was developed in:",
+    "options": [
+      "Indian logic",
+      "Modern logic",
+      "Traditional logic",
+      "Symbolic logic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q28",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "Which fallacy arises from ambiguity in language?",
+    "options": [
+      "Ad hominem",
+      "Equivocation",
+      "Petitio principii",
+      "Post hoc"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q29",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "The Nyaya syllogism consists of how many members?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q30",
+    "paper": 2,
+    "topic": "Logic",
+    "difficulty": "medium",
+    "question": "Hetvabhasa in Indian logic refers to:",
+    "options": [
+      "Perception",
+      "Inference",
+      "Fallacy",
+      "Testimony"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q31",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Virtue ethics was developed most fully by:",
+    "options": [
+      "Kant",
+      "Bentham",
+      "Aristotle",
+      "Nietzsche"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q32",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The categorical imperative is central to the ethics of:",
+    "options": [
+      "Mill",
+      "Kant",
+      "Aristotle",
+      "Moore"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q33",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Utilitarianism judges actions by their:",
+    "options": [
+      "Intentions",
+      "Consequences",
+      "Divine origin",
+      "Universality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q34",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The term 'Eudaimonia' in Aristotle means:",
+    "options": [
+      "Pleasure",
+      "Duty",
+      "Flourishing",
+      "Salvation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q35",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Who wrote 'Principia Ethica'?",
+    "options": [
+      "G.E. Moore",
+      "A.J. Ayer",
+      "Hume",
+      "Sidgwick"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q36",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The doctrine that pleasure is the highest good is:",
+    "options": [
+      "Asceticism",
+      "Hedonism",
+      "Altruism",
+      "Stoicism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q37",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Ahimsa is most prominently emphasized in:",
+    "options": [
+      "Jainism",
+      "Nyaya",
+      "Charvaka",
+      "Vaisheshika"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q38",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The doctrine of the golden mean belongs to:",
+    "options": [
+      "Plato",
+      "Kant",
+      "Aristotle",
+      "Mill"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q39",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Who among the following defended emotivism?",
+    "options": [
+      "A.J. Ayer",
+      "Kant",
+      "Aristotle",
+      "Rawls"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q40",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Nishkama Karma is advocated in the:",
+    "options": [
+      "Yoga Sutra",
+      "Bhagavad Gita",
+      "Nyaya Sutra",
+      "Manusmriti"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q41",
+    "paper": 2,
+    "topic": "Social & Political",
+    "difficulty": "medium",
+    "question": "Who wrote 'A Theory of Justice'?",
+    "options": [
+      "Rawls",
+      "Nozick",
+      "Marx",
+      "Locke"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q42",
+    "paper": 2,
+    "topic": "Social & Political",
+    "difficulty": "medium",
+    "question": "The social contract theory is associated with:",
+    "options": [
+      "Hobbes",
+      "Russell",
+      "Moore",
+      "Hegel"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q43",
+    "paper": 2,
+    "topic": "Social & Political",
+    "difficulty": "medium",
+    "question": "Karl Marx explained history in terms of:",
+    "options": [
+      "Idealism",
+      "Historical materialism",
+      "Existentialism",
+      "Empiricism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q44",
+    "paper": 2,
+    "topic": "Social & Political",
+    "difficulty": "medium",
+    "question": "The concept of General Will was proposed by:",
+    "options": [
+      "Rousseau",
+      "Locke",
+      "Bentham",
+      "Mill"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q45",
+    "paper": 2,
+    "topic": "Social & Political",
+    "difficulty": "medium",
+    "question": "Who defended libertarianism in modern political philosophy?",
+    "options": [
+      "Rawls",
+      "Nozick",
+      "Marx",
+      "Habermas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q46",
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "difficulty": "medium",
+    "question": "The ontological argument for God's existence was formulated by:",
+    "options": [
+      "Anselm",
+      "Aquinas",
+      "Paley",
+      "Hume"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q47",
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "difficulty": "medium",
+    "question": "The problem of evil is especially discussed by:",
+    "options": [
+      "Augustine",
+      "Russell",
+      "Carnap",
+      "Frege"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q48",
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "difficulty": "medium",
+    "question": "William James is associated with:",
+    "options": [
+      "Pragmatism",
+      "Logical positivism",
+      "Phenomenology",
+      "Structuralism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q49",
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "difficulty": "medium",
+    "question": "The cosmological argument depends on the principle of:",
+    "options": [
+      "Utility",
+      "Causation",
+      "Verification",
+      "Negation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q50",
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "difficulty": "medium",
+    "question": "Pascal's wager is an argument concerning:",
+    "options": [
+      "Ethics",
+      "Religion",
+      "Politics",
+      "Aesthetics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q51",
+    "paper": 2,
+    "topic": "Epistemology",
+    "difficulty": "medium",
+    "question": "According to Descartes, the foundation of certainty is:",
+    "options": [
+      "Sense experience",
+      "Cogito",
+      "Substance",
+      "Language"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q52",
+    "paper": 2,
+    "topic": "Epistemology",
+    "difficulty": "medium",
+    "question": "John Locke described the mind at birth as:",
+    "options": [
+      "Innate structure",
+      "Tabula rasa",
+      "Pure reason",
+      "Monadic substance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q53",
+    "paper": 2,
+    "topic": "Epistemology",
+    "difficulty": "medium",
+    "question": "The coherence theory of truth defines truth in terms of:",
+    "options": [
+      "Practical success",
+      "Correspondence with facts",
+      "Systematic consistency",
+      "Divine revelation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q54",
+    "paper": 2,
+    "topic": "Epistemology",
+    "difficulty": "medium",
+    "question": "Who is known for radical skepticism regarding causation?",
+    "options": [
+      "Kant",
+      "Hume",
+      "Leibniz",
+      "Spinoza"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q55",
+    "paper": 2,
+    "topic": "Epistemology",
+    "difficulty": "medium",
+    "question": "The pragmatic theory of truth is closely associated with:",
+    "options": [
+      "William James",
+      "Plato",
+      "Descartes",
+      "Frege"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q56",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "The doctrine that reality consists ultimately of matter is:",
+    "options": [
+      "Idealism",
+      "Materialism",
+      "Dualism",
+      "Phenomenalism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q57",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "Who developed the theory of pre-established harmony?",
+    "options": [
+      "Descartes",
+      "Leibniz",
+      "Hegel",
+      "Locke"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q58",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "In Aristotle, substance is primarily identified with:",
+    "options": [
+      "Universal",
+      "Form alone",
+      "Individual entity",
+      "Matter alone"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q59",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "The Buddhist doctrine denying permanent self is called:",
+    "options": [
+      "Atman",
+      "Anatta",
+      "Moksha",
+      "Prakriti"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q60",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "The existentialist slogan 'existence precedes essence' is associated with:",
+    "options": [
+      "Heidegger",
+      "Sartre",
+      "Kierkegaard",
+      "Nietzsche"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q61",
+    "paper": 2,
+    "topic": "Analytic Philosophy",
+    "difficulty": "medium",
+    "question": "Logical atomism is associated with:",
+    "options": [
+      "Russell",
+      "Hegel",
+      "Rawls",
+      "Husserl"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q62",
+    "paper": 2,
+    "topic": "Analytic Philosophy",
+    "difficulty": "medium",
+    "question": "Who authored the Tractatus Logico-Philosophicus?",
+    "options": [
+      "Frege",
+      "Russell",
+      "Wittgenstein",
+      "Moore"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q63",
+    "paper": 2,
+    "topic": "Analytic Philosophy",
+    "difficulty": "medium",
+    "question": "The verification principle was defended by:",
+    "options": [
+      "Logical positivists",
+      "Existentialists",
+      "Phenomenologists",
+      "Idealists"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q64",
+    "paper": 2,
+    "topic": "Analytic Philosophy",
+    "difficulty": "medium",
+    "question": "Frege is best known for contributions to:",
+    "options": [
+      "Phenomenology",
+      "Symbolic logic",
+      "Existentialism",
+      "Utilitarianism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q65",
+    "paper": 2,
+    "topic": "Analytic Philosophy",
+    "difficulty": "medium",
+    "question": "According to early Wittgenstein, language pictures:",
+    "options": [
+      "Values",
+      "Emotions",
+      "Facts",
+      "Universals"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q66",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "Phenomenology was founded by:",
+    "options": [
+      "Heidegger",
+      "Husserl",
+      "Sartre",
+      "Merleau-Ponty"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q67",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "Intentionality in phenomenology refers to:",
+    "options": [
+      "Moral intention",
+      "Directedness of consciousness",
+      "Religious faith",
+      "Political action"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q68",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Who wrote Being and Nothingness?",
+    "options": [
+      "Heidegger",
+      "Camus",
+      "Sartre",
+      "Jaspers"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q69",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "The concept of 'bad faith' is associated with:",
+    "options": [
+      "Sartre",
+      "Kant",
+      "Russell",
+      "Locke"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q70",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Who is regarded as the father of existentialism?",
+    "options": [
+      "Nietzsche",
+      "Kierkegaard",
+      "Sartre",
+      "Camus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q71",
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "difficulty": "medium",
+    "question": "Deconstruction is mainly associated with:",
+    "options": [
+      "Foucault",
+      "Derrida",
+      "Habermas",
+      "Rorty"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q72",
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "difficulty": "medium",
+    "question": "Michel Foucault analyzed the relation between:",
+    "options": [
+      "Power and knowledge",
+      "Faith and reason",
+      "Mind and body",
+      "Matter and form"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q73",
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "difficulty": "medium",
+    "question": "The concept of language games belongs to:",
+    "options": [
+      "Russell",
+      "Frege",
+      "Later Wittgenstein",
+      "Carnap"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q74",
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "difficulty": "medium",
+    "question": "Communicative action is a concept developed by:",
+    "options": [
+      "Habermas",
+      "Derrida",
+      "Heidegger",
+      "Sartre"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q75",
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "difficulty": "medium",
+    "question": "Postmodernism generally questions:",
+    "options": [
+      "Empirical observation",
+      "Grand narratives",
+      "Ethical reasoning",
+      "Deductive logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q76",
+    "paper": 2,
+    "topic": "Philosophy of Language",
+    "difficulty": "medium",
+    "question": "The theory of descriptions was proposed by:",
+    "options": [
+      "Frege",
+      "Russell",
+      "Wittgenstein",
+      "Austin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q77",
+    "paper": 2,
+    "topic": "Philosophy of Language",
+    "difficulty": "medium",
+    "question": "Speech act theory was mainly developed by:",
+    "options": [
+      "Austin",
+      "Carnap",
+      "Moore",
+      "Quine"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q78",
+    "paper": 2,
+    "topic": "Philosophy of Language",
+    "difficulty": "medium",
+    "question": "The distinction between sense and reference was introduced by:",
+    "options": [
+      "Frege",
+      "Russell",
+      "Ayer",
+      "Strawson"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q79",
+    "paper": 2,
+    "topic": "Philosophy of Language",
+    "difficulty": "medium",
+    "question": "According to Wittgenstein, meaning is determined by:",
+    "options": [
+      "Reference",
+      "Verification",
+      "Use",
+      "Intuition"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q80",
+    "paper": 2,
+    "topic": "Philosophy of Language",
+    "difficulty": "medium",
+    "question": "Who criticized the analytic-synthetic distinction?",
+    "options": [
+      "Carnap",
+      "Quine",
+      "Frege",
+      "Russell"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q81",
+    "paper": 2,
+    "topic": "Aesthetics",
+    "difficulty": "medium",
+    "question": "The theory of catharsis is associated with:",
+    "options": [
+      "Plato",
+      "Aristotle",
+      "Longinus",
+      "Croce"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q82",
+    "paper": 2,
+    "topic": "Aesthetics",
+    "difficulty": "medium",
+    "question": "Rasa theory in Indian aesthetics was developed by:",
+    "options": [
+      "Bharata",
+      "Abhinavagupta",
+      "Anandavardhana",
+      "Mammata"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q83",
+    "paper": 2,
+    "topic": "Aesthetics",
+    "difficulty": "medium",
+    "question": "The concept of Dhvani was propounded by:",
+    "options": [
+      "Bharata",
+      "Mammata",
+      "Anandavardhana",
+      "Bhamaha"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q84",
+    "paper": 2,
+    "topic": "Aesthetics",
+    "difficulty": "medium",
+    "question": "According to Plato, art is:",
+    "options": [
+      "Imitation",
+      "Pure intuition",
+      "Self-expression",
+      "Catharsis"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q85",
+    "paper": 2,
+    "topic": "Aesthetics",
+    "difficulty": "medium",
+    "question": "Who emphasized art as expression?",
+    "options": [
+      "Croce",
+      "Aristotle",
+      "Plato",
+      "Kant"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q86",
+    "paper": 2,
+    "topic": "Philosophy of Science",
+    "difficulty": "medium",
+    "question": "Karl Popper is known for the principle of:",
+    "options": [
+      "Verification",
+      "Falsification",
+      "Induction",
+      "Reduction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q87",
+    "paper": 2,
+    "topic": "Philosophy of Science",
+    "difficulty": "medium",
+    "question": "Thomas Kuhn introduced the concept of:",
+    "options": [
+      "Paradigm shift",
+      "Language game",
+      "Deconstruction",
+      "Dialectic"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q88",
+    "paper": 2,
+    "topic": "Philosophy of Science",
+    "difficulty": "medium",
+    "question": "Inductive reasoning proceeds from:",
+    "options": [
+      "General to particular",
+      "Particular to general",
+      "Cause to effect",
+      "Effect to cause"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q89",
+    "paper": 2,
+    "topic": "Philosophy of Science",
+    "difficulty": "medium",
+    "question": "The problem of induction was raised by:",
+    "options": [
+      "Hume",
+      "Kant",
+      "Mill",
+      "Russell"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q90",
+    "paper": 2,
+    "topic": "Philosophy of Science",
+    "difficulty": "medium",
+    "question": "Logical positivism emphasized:",
+    "options": [
+      "Metaphysics",
+      "Verification",
+      "Existential freedom",
+      "Dialectics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q91",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The doctrine of dependent origination in Buddhism is called:",
+    "options": [
+      "Pratityasamutpada",
+      "Anekantavada",
+      "Vivartavada",
+      "Satkaryavada"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q92",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "Ramanuja advocated:",
+    "options": [
+      "Dvaita",
+      "Advaita",
+      "Vishishtadvaita",
+      "Shuddhadvaita"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q93",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "Madhvacharya is associated with:",
+    "options": [
+      "Advaita",
+      "Dvaita",
+      "Vishishtadvaita",
+      "Yoga"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q94",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The Mimamsa school primarily deals with:",
+    "options": [
+      "Logic",
+      "Meditation",
+      "Vedic ritual",
+      "Atomism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u1q95",
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "difficulty": "medium",
+    "question": "The concept of Maya is central to:",
+    "options": [
+      "Nyaya",
+      "Advaita Vedanta",
+      "Jainism",
+      "Charvaka"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q96",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "The allegory of the cave appears in:",
+    "options": [
+      "Republic",
+      "Nicomachean Ethics",
+      "Meditations",
+      "Leviathan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q97",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Who wrote Leviathan?",
+    "options": [
+      "Locke",
+      "Hobbes",
+      "Rousseau",
+      "Mill"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q98",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "The idea of the will to power is associated with:",
+    "options": [
+      "Nietzsche",
+      "Kant",
+      "Hegel",
+      "Marx"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u1q99",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Phenomenology seeks to study:",
+    "options": [
+      "Economic systems",
+      "Structures of consciousness",
+      "Political institutions",
+      "Religious rituals"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u1q100",
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "difficulty": "medium",
+    "question": "Who authored Being and Time?",
+    "options": [
+      "Sartre",
+      "Heidegger",
+      "Husserl",
+      "Jaspers"
+    ],
+    "answer": 1
+  }
 ]

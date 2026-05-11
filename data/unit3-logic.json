@@ -1,8 +1,9 @@
 [
   {
-    "id": 1,
+    "id": "u3q1",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "An argument is valid if:",
     "options": [
       "Its premises are true",
@@ -13,9 +14,10 @@
     "answer": 2
   },
   {
-    "id": 2,
+    "id": "u3q2",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A sound argument is one that is:",
     "options": [
       "Valid with true premises",
@@ -26,9 +28,10 @@
     "answer": 0
   },
   {
-    "id": 3,
+    "id": "u3q3",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Deductive reasoning moves from:",
     "options": [
       "Particular to general",
@@ -39,9 +42,10 @@
     "answer": 1
   },
   {
-    "id": 4,
+    "id": "u3q4",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Inductive arguments are generally evaluated in terms of:",
     "options": [
       "Validity",
@@ -52,9 +56,10 @@
     "answer": 1
   },
   {
-    "id": 5,
+    "id": "u3q5",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A proposition is:",
     "options": [
       "A command",
@@ -65,9 +70,10 @@
     "answer": 2
   },
   {
-    "id": 6,
+    "id": "u3q6",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The conclusion of an argument is the statement that:",
     "options": [
       "Provides evidence",
@@ -78,9 +84,10 @@
     "answer": 1
   },
   {
-    "id": 7,
+    "id": "u3q7",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A categorical syllogism contains:",
     "options": [
       "Two propositions",
@@ -91,9 +98,10 @@
     "answer": 1
   },
   {
-    "id": 8,
+    "id": "u3q8",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The middle term in a syllogism appears in:",
     "options": [
       "Conclusion only",
@@ -104,9 +112,10 @@
     "answer": 2
   },
   {
-    "id": 9,
+    "id": "u3q9",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of attacking the person instead of the argument is:",
     "options": [
       "Ad hominem",
@@ -117,9 +126,10 @@
     "answer": 0
   },
   {
-    "id": 10,
+    "id": "u3q10",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Begging the question is also known as:",
     "options": [
       "Ad populum",
@@ -130,9 +140,10 @@
     "answer": 1
   },
   {
-    "id": 11,
+    "id": "u3q11",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A tautology is a proposition that is:",
     "options": [
       "Always false",
@@ -143,9 +154,10 @@
     "answer": 2
   },
   {
-    "id": 12,
+    "id": "u3q12",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A contradiction is a proposition that is:",
     "options": [
       "Always true",
@@ -156,9 +168,10 @@
     "answer": 1
   },
   {
-    "id": 13,
+    "id": "u3q13",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Truth tables are mainly used in:",
     "options": [
       "Inductive logic",
@@ -169,9 +182,10 @@
     "answer": 1
   },
   {
-    "id": 14,
+    "id": "u3q14",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The symbol '~P' denotes:",
     "options": [
       "Conjunction",
@@ -182,9 +196,10 @@
     "answer": 2
   },
   {
-    "id": 15,
+    "id": "u3q15",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "In symbolic logic, 'P ∧ Q' means:",
     "options": [
       "P or Q",
@@ -195,9 +210,10 @@
     "answer": 3
   },
   {
-    "id": 16,
+    "id": "u3q16",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The symbol '→' represents:",
     "options": [
       "Conjunction",
@@ -208,9 +224,10 @@
     "answer": 1
   },
   {
-    "id": 17,
+    "id": "u3q17",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Predicate logic differs from propositional logic because it analyzes:",
     "options": [
       "Whole propositions only",
@@ -221,9 +238,10 @@
     "answer": 2
   },
   {
-    "id": 18,
+    "id": "u3q18",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The universal quantifier is represented by:",
     "options": [
       "∃",
@@ -234,9 +252,10 @@
     "answer": 1
   },
   {
-    "id": 19,
+    "id": "u3q19",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The existential quantifier means:",
     "options": [
       "For all",
@@ -247,9 +266,10 @@
     "answer": 2
   },
   {
-    "id": 20,
+    "id": "u3q20",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of false cause is commonly called:",
     "options": [
       "Post hoc ergo propter hoc",
@@ -260,9 +280,10 @@
     "answer": 0
   },
   {
-    "id": 21,
+    "id": "u3q21",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Meta ethics is concerned primarily with:",
     "options": [
       "Practical moral problems",
@@ -273,9 +294,10 @@
     "answer": 1
   },
   {
-    "id": 22,
+    "id": "u3q22",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Normative ethics studies:",
     "options": [
       "What morality ought to be",
@@ -286,9 +308,10 @@
     "answer": 0
   },
   {
-    "id": 23,
+    "id": "u3q23",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Applied ethics deals with:",
     "options": [
       "Symbolic logic",
@@ -299,9 +322,10 @@
     "answer": 1
   },
   {
-    "id": 24,
+    "id": "u3q24",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Kant’s ethics is fundamentally based on:",
     "options": [
       "Pleasure",
@@ -312,9 +336,10 @@
     "answer": 1
   },
   {
-    "id": 25,
+    "id": "u3q25",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Bentham is most closely associated with:",
     "options": [
       "Virtue ethics",
@@ -323,13 +348,12 @@
       "Phenomenology"
     ],
     "answer": 2
-  }
-]
-[
+  },
   {
-    "id": 26,
+    "id": "u3q26",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "John Stuart Mill modified utilitarianism by emphasizing:",
     "options": [
       "Quantity of pleasures only",
@@ -340,9 +364,10 @@
     "answer": 1
   },
   {
-    "id": 27,
+    "id": "u3q27",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Aristotle’s ethical theory is known as:",
     "options": [
       "Utilitarianism",
@@ -353,9 +378,10 @@
     "answer": 1
   },
   {
-    "id": 28,
+    "id": "u3q28",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "G.E. Moore argued that 'good' is:",
     "options": [
       "Natural",
@@ -366,9 +392,10 @@
     "answer": 1
   },
   {
-    "id": 29,
+    "id": "u3q29",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The categorical imperative requires actions to be:",
     "options": [
       "Useful",
@@ -379,9 +406,10 @@
     "answer": 2
   },
   {
-    "id": 30,
+    "id": "u3q30",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "According to Bentham, moral actions maximize:",
     "options": [
       "Virtue",
@@ -392,9 +420,10 @@
     "answer": 2
   },
   {
-    "id": 31,
+    "id": "u3q31",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Mill distinguished between higher and lower:",
     "options": [
       "Virtues",
@@ -405,9 +434,10 @@
     "answer": 1
   },
   {
-    "id": 32,
+    "id": "u3q32",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The doctrine that pleasure is the highest good is called:",
     "options": [
       "Stoicism",
@@ -418,9 +448,10 @@
     "answer": 1
   },
   {
-    "id": 33,
+    "id": "u3q33",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Virtue ethics emphasizes:",
     "options": [
       "Rules alone",
@@ -431,9 +462,10 @@
     "answer": 2
   },
   {
-    "id": 34,
+    "id": "u3q34",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Moral responsibility generally presupposes:",
     "options": [
       "Freedom of action",
@@ -444,9 +476,10 @@
     "answer": 0
   },
   {
-    "id": 35,
+    "id": "u3q35",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The study of ethical issues in medicine is called:",
     "options": [
       "Environmental ethics",
@@ -457,9 +490,10 @@
     "answer": 2
   },
   {
-    "id": 36,
+    "id": "u3q36",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Environmental ethics concerns the moral relation between humans and:",
     "options": [
       "Technology",
@@ -470,9 +504,10 @@
     "answer": 1
   },
   {
-    "id": 37,
+    "id": "u3q37",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "An invalid deductive argument may have:",
     "options": [
       "True premises and false conclusion",
@@ -483,9 +518,10 @@
     "answer": 3
   },
   {
-    "id": 38,
+    "id": "u3q38",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The statement 'Either P or Q' is called:",
     "options": [
       "Negation",
@@ -496,9 +532,10 @@
     "answer": 2
   },
   {
-    "id": 39,
+    "id": "u3q39",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Modus ponens has the form:",
     "options": [
       "If P then Q; P; therefore Q",
@@ -509,9 +546,10 @@
     "answer": 0
   },
   {
-    "id": 40,
+    "id": "u3q40",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of affirming the consequent has the pattern:",
     "options": [
       "If P then Q; P; therefore Q",
@@ -522,9 +560,10 @@
     "answer": 1
   },
   {
-    "id": 41,
+    "id": "u3q41",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A contingent proposition is one that is:",
     "options": [
       "Always true",
@@ -535,9 +574,10 @@
     "answer": 2
   },
   {
-    "id": 42,
+    "id": "u3q42",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The law of non-contradiction states that:",
     "options": [
       "Every statement is false",
@@ -548,9 +588,10 @@
     "answer": 1
   },
   {
-    "id": 43,
+    "id": "u3q43",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The symbol '↔' denotes:",
     "options": [
       "Negation",
@@ -561,9 +602,10 @@
     "answer": 2
   },
   {
-    "id": 44,
+    "id": "u3q44",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "In predicate logic, predicates generally represent:",
     "options": [
       "Objects",
@@ -574,9 +616,10 @@
     "answer": 1
   },
   {
-    "id": 45,
+    "id": "u3q45",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The expression '∀x Px' means:",
     "options": [
       "Some x are P",
@@ -587,9 +630,10 @@
     "answer": 2
   },
   {
-    "id": 46,
+    "id": "u3q46",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A valid argument with a false premise can have:",
     "options": [
       "Only false conclusions",
@@ -600,9 +644,10 @@
     "answer": 2
   },
   {
-    "id": 47,
+    "id": "u3q47",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of equivocation arises from:",
     "options": [
       "Emotional appeal",
@@ -613,9 +658,10 @@
     "answer": 1
   },
   {
-    "id": 48,
+    "id": "u3q48",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Deontological ethics emphasizes:",
     "options": [
       "Consequences",
@@ -626,9 +672,10 @@
     "answer": 1
   },
   {
-    "id": 49,
+    "id": "u3q49",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Utilitarianism is a form of:",
     "options": [
       "Consequentialism",
@@ -639,9 +686,10 @@
     "answer": 0
   },
   {
-    "id": 50,
+    "id": "u3q50",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The doctrine of the golden mean was proposed by:",
     "options": [
       "Kant",
@@ -650,13 +698,12 @@
       "Aristotle"
     ],
     "answer": 3
-  }
-]
-[
+  },
   {
-    "id": 51,
+    "id": "u3q51",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The conclusion of a deductive argument claims to follow with:",
     "options": [
       "Probability",
@@ -667,9 +714,10 @@
     "answer": 1
   },
   {
-    "id": 52,
+    "id": "u3q52",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Inductive generalization proceeds from:",
     "options": [
       "General principles to instances",
@@ -680,9 +728,10 @@
     "answer": 1
   },
   {
-    "id": 53,
+    "id": "u3q53",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "An argument with true premises and false conclusion is:",
     "options": [
       "Valid",
@@ -693,9 +742,10 @@
     "answer": 2
   },
   {
-    "id": 54,
+    "id": "u3q54",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of false dilemma assumes:",
     "options": [
       "Too many alternatives",
@@ -706,9 +756,10 @@
     "answer": 1
   },
   {
-    "id": 55,
+    "id": "u3q55",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A statement that is neither tautological nor contradictory is:",
     "options": [
       "Necessary",
@@ -719,9 +770,10 @@
     "answer": 2
   },
   {
-    "id": 56,
+    "id": "u3q56",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The conjunction 'P ∧ Q' is true only when:",
     "options": [
       "Both P and Q are true",
@@ -732,9 +784,10 @@
     "answer": 0
   },
   {
-    "id": 57,
+    "id": "u3q57",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The negation of a tautology is always:",
     "options": [
       "Contingent",
@@ -745,9 +798,10 @@
     "answer": 2
   },
   {
-    "id": 58,
+    "id": "u3q58",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The relation between contradictory propositions is that:",
     "options": [
       "Both may be true",
@@ -758,9 +812,10 @@
     "answer": 2
   },
   {
-    "id": 59,
+    "id": "u3q59",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "Predicate logic is sometimes called:",
     "options": [
       "Term logic",
@@ -771,9 +826,10 @@
     "answer": 1
   },
   {
-    "id": 60,
+    "id": "u3q60",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The existential quantifier is symbolized by:",
     "options": [
       "∀",
@@ -784,9 +840,10 @@
     "answer": 2
   },
   {
-    "id": 61,
+    "id": "u3q61",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A syllogism with two negative premises commits:",
     "options": [
       "No fallacy",
@@ -797,9 +854,10 @@
     "answer": 3
   },
   {
-    "id": 62,
+    "id": "u3q62",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The statement 'If P then Q' is false only when:",
     "options": [
       "P and Q are both true",
@@ -810,9 +868,10 @@
     "answer": 1
   },
   {
-    "id": 63,
+    "id": "u3q63",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of composition assumes that what is true of parts is true of:",
     "options": [
       "Causes",
@@ -823,9 +882,10 @@
     "answer": 2
   },
   {
-    "id": 64,
+    "id": "u3q64",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The law of excluded middle states that:",
     "options": [
       "Every proposition is either true or false",
@@ -836,9 +896,10 @@
     "answer": 0
   },
   {
-    "id": 65,
+    "id": "u3q65",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "An argument intended to persuade emotionally rather than logically commits:",
     "options": [
       "Ad populum",
@@ -849,9 +910,10 @@
     "answer": 0
   },
   {
-    "id": 66,
+    "id": "u3q66",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Meta ethics investigates the:",
     "options": [
       "Meaning of moral judgments",
@@ -862,9 +924,10 @@
     "answer": 0
   },
   {
-    "id": 67,
+    "id": "u3q67",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "According to Kant, moral worth depends primarily on:",
     "options": [
       "Consequences",
@@ -875,9 +938,10 @@
     "answer": 1
   },
   {
-    "id": 68,
+    "id": "u3q68",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Bentham’s utilitarianism is often described as:",
     "options": [
       "Qualitative hedonism",
@@ -888,9 +952,10 @@
     "answer": 2
   },
   {
-    "id": 69,
+    "id": "u3q69",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Mill defended individual liberty in his work:",
     "options": [
       "Groundwork of the Metaphysics of Morals",
@@ -901,9 +966,10 @@
     "answer": 1
   },
   {
-    "id": 70,
+    "id": "u3q70",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Aristotle believed virtue is acquired through:",
     "options": [
       "Divine grace",
@@ -914,9 +980,10 @@
     "answer": 1
   },
   {
-    "id": 71,
+    "id": "u3q71",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Moore criticized attempts to define good in natural terms as:",
     "options": [
       "Empiricism",
@@ -927,9 +994,10 @@
     "answer": 1
   },
   {
-    "id": 72,
+    "id": "u3q72",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The principle 'greatest happiness of the greatest number' is associated with:",
     "options": [
       "Virtue ethics",
@@ -940,9 +1008,10 @@
     "answer": 2
   },
   {
-    "id": 73,
+    "id": "u3q73",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Environmental ethics questions humanity’s moral relation to:",
     "options": [
       "Language",
@@ -953,9 +1022,10 @@
     "answer": 2
   },
   {
-    "id": 74,
+    "id": "u3q74",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Bioethics commonly discusses issues related to:",
     "options": [
       "Medical practice",
@@ -966,9 +1036,10 @@
     "answer": 0
   },
   {
-    "id": 75,
+    "id": "u3q75",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Moral responsibility is weakened when actions are performed under:",
     "options": [
       "Freedom",
@@ -977,13 +1048,12 @@
       "Reflection"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
-    "id": 76,
+    "id": "u3q76",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "An inductive argument may be strong even if:",
     "options": [
       "Its conclusion is false",
@@ -994,9 +1064,10 @@
     "answer": 2
   },
   {
-    "id": 77,
+    "id": "u3q77",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The converse error in logic is another name for:",
     "options": [
       "Modus tollens",
@@ -1007,9 +1078,10 @@
     "answer": 1
   },
   {
-    "id": 78,
+    "id": "u3q78",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The denial of the antecedent has the form:",
     "options": [
       "If P then Q; not P; therefore not Q",
@@ -1020,9 +1092,10 @@
     "answer": 0
   },
   {
-    "id": 79,
+    "id": "u3q79",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A tautology in propositional logic is true under:",
     "options": [
       "Some interpretations only",
@@ -1033,9 +1106,10 @@
     "answer": 2
   },
   {
-    "id": 80,
+    "id": "u3q80",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The contradiction 'P ∧ ~P' is:",
     "options": [
       "Always true",
@@ -1046,9 +1120,10 @@
     "answer": 1
   },
   {
-    "id": 81,
+    "id": "u3q81",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The square of opposition traditionally concerns:",
     "options": [
       "Modal propositions",
@@ -1059,9 +1134,10 @@
     "answer": 1
   },
   {
-    "id": 82,
+    "id": "u3q82",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "In a standard categorical proposition, the predicate of an affirmative proposition is:",
     "options": [
       "Distributed",
@@ -1072,9 +1148,10 @@
     "answer": 1
   },
   {
-    "id": 83,
+    "id": "u3q83",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The fallacy of division assumes that what is true of the whole is true of:",
     "options": [
       "Its causes",
@@ -1085,9 +1162,10 @@
     "answer": 2
   },
   {
-    "id": 84,
+    "id": "u3q84",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The truth-functional connective that requires both propositions to have the same truth value is:",
     "options": [
       "Conjunction",
@@ -1098,9 +1176,10 @@
     "answer": 2
   },
   {
-    "id": 85,
+    "id": "u3q85",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "A proposition that is false under every interpretation is called:",
     "options": [
       "Contingent",
@@ -1111,9 +1190,10 @@
     "answer": 2
   },
   {
-    "id": 86,
+    "id": "u3q86",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The statement 'Some philosophers are logicians' is:",
     "options": [
       "Universal affirmative",
@@ -1124,9 +1204,10 @@
     "answer": 1
   },
   {
-    "id": 87,
+    "id": "u3q87",
     "paper": 2,
     "topic": "Logic",
+    "difficulty": "medium",
     "question": "The symbolization of 'Not both P and Q' is:",
     "options": [
       "~(P ∧ Q)",
@@ -1137,9 +1218,10 @@
     "answer": 0
   },
   {
-    "id": 88,
+    "id": "u3q88",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Kant believed persons should always be treated as:",
     "options": [
       "Means only",
@@ -1150,9 +1232,10 @@
     "answer": 1
   },
   {
-    "id": 89,
+    "id": "u3q89",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Bentham’s felicific calculus was designed to measure:",
     "options": [
       "Virtue",
@@ -1163,9 +1246,10 @@
     "answer": 2
   },
   {
-    "id": 90,
+    "id": "u3q90",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "According to Mill, it is better to be:",
     "options": [
       "A satisfied fool than Socrates dissatisfied",
@@ -1176,9 +1260,10 @@
     "answer": 1
   },
   {
-    "id": 91,
+    "id": "u3q91",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Aristotle regarded the highest human good as:",
     "options": [
       "Power",
@@ -1189,9 +1274,10 @@
     "answer": 2
   },
   {
-    "id": 92,
+    "id": "u3q92",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The open question argument was proposed by:",
     "options": [
       "Bentham",
@@ -1202,9 +1288,10 @@
     "answer": 2
   },
   {
-    "id": 93,
+    "id": "u3q93",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Hedonism identifies the good life primarily with:",
     "options": [
       "Knowledge",
@@ -1215,9 +1302,10 @@
     "answer": 1
   },
   {
-    "id": 94,
+    "id": "u3q94",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Virtue ethics focuses more on moral character than on:",
     "options": [
       "Habits",
@@ -1228,9 +1316,10 @@
     "answer": 1
   },
   {
-    "id": 95,
+    "id": "u3q95",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The principle of informed consent is central to:",
     "options": [
       "Environmental ethics",
@@ -1241,9 +1330,10 @@
     "answer": 1
   },
   {
-    "id": 96,
+    "id": "u3q96",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Deep ecology argues for:",
     "options": [
       "Human superiority over nature",
@@ -1254,9 +1344,10 @@
     "answer": 1
   },
   {
-    "id": 97,
+    "id": "u3q97",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "An action performed from fear rather than choice reduces:",
     "options": [
       "Legality",
@@ -1267,9 +1358,10 @@
     "answer": 2
   },
   {
-    "id": 98,
+    "id": "u3q98",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "Consequentialist ethics judges actions primarily by their:",
     "options": [
       "Intentions",
@@ -1280,9 +1372,10 @@
     "answer": 1
   },
   {
-    "id": 99,
+    "id": "u3q99",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "According to Aristotle, moral virtue is generally a mean between:",
     "options": [
       "Truth and falsehood",
@@ -1293,9 +1386,10 @@
     "answer": 1
   },
   {
-    "id": 100,
+    "id": "u3q100",
     "paper": 2,
     "topic": "Ethics",
+    "difficulty": "medium",
     "question": "The branch of ethics dealing with abortion and euthanasia is:",
     "options": [
       "Meta ethics",

@@ -1,8 +1,9 @@
 [
   {
-    "id": 1,
+    "id": "u2q1",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Socrates claimed that virtue is:",
     "options": [
       "Pleasure",
@@ -13,9 +14,10 @@
     "answer": 1
   },
   {
-    "id": 2,
+    "id": "u2q2",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The Socratic method is also known as:",
     "options": [
       "Dialectic",
@@ -26,9 +28,10 @@
     "answer": 0
   },
   {
-    "id": 3,
+    "id": "u2q3",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Plato’s theory of Forms primarily deals with:",
     "options": [
       "Material objects",
@@ -39,9 +42,10 @@
     "answer": 1
   },
   {
-    "id": 4,
+    "id": "u2q4",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The allegory of the cave appears in Plato’s:",
     "options": [
       "Phaedo",
@@ -52,9 +56,10 @@
     "answer": 2
   },
   {
-    "id": 5,
+    "id": "u2q5",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Plato, philosopher kings should rule because they possess:",
     "options": [
       "Military power",
@@ -65,9 +70,10 @@
     "answer": 2
   },
   {
-    "id": 6,
+    "id": "u2q6",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Aristotle explained causation through:",
     "options": [
       "Two causes",
@@ -78,9 +84,10 @@
     "answer": 2
   },
   {
-    "id": 7,
+    "id": "u2q7",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The doctrine of the golden mean belongs to:",
     "options": [
       "Plato",
@@ -91,9 +98,10 @@
     "answer": 1
   },
   {
-    "id": 8,
+    "id": "u2q8",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Aristotle regarded man as a:",
     "options": [
       "Rational animal",
@@ -104,9 +112,10 @@
     "answer": 1
   },
   {
-    "id": 9,
+    "id": "u2q9",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The statement 'Cogito, ergo sum' was proposed by:",
     "options": [
       "Spinoza",
@@ -117,9 +126,10 @@
     "answer": 2
   },
   {
-    "id": 10,
+    "id": "u2q10",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Descartes is regarded as the father of:",
     "options": [
       "Empiricism",
@@ -130,9 +140,10 @@
     "answer": 2
   },
   {
-    "id": 11,
+    "id": "u2q11",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Descartes accepted which type of dualism?",
     "options": [
       "Mind-body dualism",
@@ -143,9 +154,10 @@
     "answer": 0
   },
   {
-    "id": 12,
+    "id": "u2q12",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Spinoza held that there is only one substance, namely:",
     "options": [
       "Matter",
@@ -156,9 +168,10 @@
     "answer": 2
   },
   {
-    "id": 13,
+    "id": "u2q13",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Spinoza’s philosophy is generally described as:",
     "options": [
       "Dualism",
@@ -169,9 +182,10 @@
     "answer": 2
   },
   {
-    "id": 14,
+    "id": "u2q14",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Leibniz explained reality through:",
     "options": [
       "Atoms",
@@ -182,9 +196,10 @@
     "answer": 1
   },
   {
-    "id": 15,
+    "id": "u2q15",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The theory of pre-established harmony was proposed by:",
     "options": [
       "Spinoza",
@@ -195,9 +210,10 @@
     "answer": 2
   },
   {
-    "id": 16,
+    "id": "u2q16",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "John Locke described the mind as:",
     "options": [
       "A monad",
@@ -208,9 +224,10 @@
     "answer": 1
   },
   {
-    "id": 17,
+    "id": "u2q17",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Locke is primarily associated with:",
     "options": [
       "Rationalism",
@@ -221,9 +238,10 @@
     "answer": 1
   },
   {
-    "id": 18,
+    "id": "u2q18",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Berkeley’s philosophy is known as:",
     "options": [
       "Absolute idealism",
@@ -234,9 +252,10 @@
     "answer": 1
   },
   {
-    "id": 19,
+    "id": "u2q19",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Berkeley denied the existence of:",
     "options": [
       "God",
@@ -247,9 +266,10 @@
     "answer": 2
   },
   {
-    "id": 20,
+    "id": "u2q20",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hume argued that causation is based on:",
     "options": [
       "Reason",
@@ -260,9 +280,10 @@
     "answer": 2
   },
   {
-    "id": 21,
+    "id": "u2q21",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "David Hume is best known for his philosophical:",
     "options": [
       "Skepticism",
@@ -273,9 +294,10 @@
     "answer": 0
   },
   {
-    "id": 22,
+    "id": "u2q22",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Kant attempted to synthesize:",
     "options": [
       "Idealism and materialism",
@@ -286,9 +308,10 @@
     "answer": 1
   },
   {
-    "id": 23,
+    "id": "u2q23",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The categorical imperative is central to the ethics of:",
     "options": [
       "Hegel",
@@ -299,9 +322,10 @@
     "answer": 1
   },
   {
-    "id": 24,
+    "id": "u2q24",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Kant, space and time are:",
     "options": [
       "Empirical realities",
@@ -312,9 +336,10 @@
     "answer": 2
   },
   {
-    "id": 25,
+    "id": "u2q25",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hegel explained reality through the process of:",
     "options": [
       "Verification",
@@ -323,13 +348,12 @@
       "Meditation"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
-    "id": 26,
+    "id": "u2q26",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Hegel, reality is ultimately:",
     "options": [
       "Material",
@@ -340,9 +364,10 @@
     "answer": 2
   },
   {
-    "id": 27,
+    "id": "u2q27",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The Absolute Spirit is a concept associated with:",
     "options": [
       "Kant",
@@ -353,9 +378,10 @@
     "answer": 1
   },
   {
-    "id": 28,
+    "id": "u2q28",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "G.E. Moore is known for criticizing:",
     "options": [
       "Empiricism",
@@ -366,9 +392,10 @@
     "answer": 1
   },
   {
-    "id": 29,
+    "id": "u2q29",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The naturalistic fallacy was identified by:",
     "options": [
       "Russell",
@@ -379,9 +406,10 @@
     "answer": 1
   },
   {
-    "id": 30,
+    "id": "u2q30",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Bertrand Russell contributed significantly to:",
     "options": [
       "Phenomenology",
@@ -392,9 +420,10 @@
     "answer": 1
   },
   {
-    "id": 31,
+    "id": "u2q31",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Logical atomism is associated with:",
     "options": [
       "Heidegger",
@@ -405,9 +434,10 @@
     "answer": 1
   },
   {
-    "id": 32,
+    "id": "u2q32",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Who wrote Tractatus Logico-Philosophicus?",
     "options": [
       "Russell",
@@ -418,9 +448,10 @@
     "answer": 2
   },
   {
-    "id": 33,
+    "id": "u2q33",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to later Wittgenstein, meaning depends on:",
     "options": [
       "Reference",
@@ -431,9 +462,10 @@
     "answer": 1
   },
   {
-    "id": 34,
+    "id": "u2q34",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The concept of language games belongs to:",
     "options": [
       "Russell",
@@ -444,9 +476,10 @@
     "answer": 1
   },
   {
-    "id": 35,
+    "id": "u2q35",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Heidegger’s major work is:",
     "options": [
       "Being and Time",
@@ -457,9 +490,10 @@
     "answer": 0
   },
   {
-    "id": 36,
+    "id": "u2q36",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The term 'Dasein' is associated with:",
     "options": [
       "Sartre",
@@ -470,9 +504,10 @@
     "answer": 1
   },
   {
-    "id": 37,
+    "id": "u2q37",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Jean-Paul Sartre is a major representative of:",
     "options": [
       "Empiricism",
@@ -483,9 +518,10 @@
     "answer": 1
   },
   {
-    "id": 38,
+    "id": "u2q38",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The statement 'Existence precedes essence' is associated with:",
     "options": [
       "Russell",
@@ -496,9 +532,10 @@
     "answer": 1
   },
   {
-    "id": 39,
+    "id": "u2q39",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Sartre’s concept of 'bad faith' refers to:",
     "options": [
       "Religious belief",
@@ -509,9 +546,10 @@
     "answer": 1
   },
   {
-    "id": 40,
+    "id": "u2q40",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Phenomenology was founded by:",
     "options": [
       "Husserl",
@@ -522,9 +560,10 @@
     "answer": 0
   },
   {
-    "id": 41,
+    "id": "u2q41",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Intentionality in phenomenology means:",
     "options": [
       "Moral choice",
@@ -535,9 +574,10 @@
     "answer": 1
   },
   {
-    "id": 42,
+    "id": "u2q42",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Rationalism emphasizes:",
     "options": [
       "Experience",
@@ -548,9 +588,10 @@
     "answer": 2
   },
   {
-    "id": 43,
+    "id": "u2q43",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Empiricism regards ______ as the primary source of knowledge.",
     "options": [
       "Reason",
@@ -561,9 +602,10 @@
     "answer": 1
   },
   {
-    "id": 44,
+    "id": "u2q44",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Absolute idealism is mainly associated with:",
     "options": [
       "Locke",
@@ -574,9 +616,10 @@
     "answer": 1
   },
   {
-    "id": 45,
+    "id": "u2q45",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Existentialism gives primary importance to:",
     "options": [
       "Abstract systems",
@@ -587,9 +630,10 @@
     "answer": 1
   },
   {
-    "id": 46,
+    "id": "u2q46",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Analytic philosophy mainly focuses on:",
     "options": [
       "Mysticism",
@@ -600,9 +644,10 @@
     "answer": 1
   },
   {
-    "id": 47,
+    "id": "u2q47",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Russell and Moore reacted strongly against:",
     "options": [
       "Existentialism",
@@ -613,9 +658,10 @@
     "answer": 1
   },
   {
-    "id": 48,
+    "id": "u2q48",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "For Hume, impressions are:",
     "options": [
       "Less vivid than ideas",
@@ -626,9 +672,10 @@
     "answer": 1
   },
   {
-    "id": 49,
+    "id": "u2q49",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Berkeley, 'Esse est percipi' means:",
     "options": [
       "To be is to perceive",
@@ -639,9 +686,10 @@
     "answer": 1
   },
   {
-    "id": 50,
+    "id": "u2q50",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Kant described his philosophy as a:",
     "options": [
       "Scientific revolution",
@@ -650,13 +698,12 @@
       "Religious reform"
     ],
     "answer": 1
-  }
-]
-[
+  },
   {
-    "id": 51,
+    "id": "u2q51",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Socrates, an unexamined life is:",
     "options": [
       "Pleasurable",
@@ -667,9 +714,10 @@
     "answer": 2
   },
   {
-    "id": 52,
+    "id": "u2q52",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Plato’s highest Form is the Form of:",
     "options": [
       "Beauty",
@@ -680,9 +728,10 @@
     "answer": 3
   },
   {
-    "id": 53,
+    "id": "u2q53",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Aristotle’s work on ethics is titled:",
     "options": [
       "Republic",
@@ -693,9 +742,10 @@
     "answer": 1
   },
   {
-    "id": 54,
+    "id": "u2q54",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Descartes considered animals as:",
     "options": [
       "Rational beings",
@@ -706,9 +756,10 @@
     "answer": 1
   },
   {
-    "id": 55,
+    "id": "u2q55",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Spinoza’s Ethics is written in the style of:",
     "options": [
       "Drama",
@@ -719,9 +770,10 @@
     "answer": 1
   },
   {
-    "id": 56,
+    "id": "u2q56",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Leibniz described monads as:",
     "options": [
       "Material atoms",
@@ -732,9 +784,10 @@
     "answer": 1
   },
   {
-    "id": 57,
+    "id": "u2q57",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Locke distinguished between primary and secondary:",
     "options": [
       "Ideas",
@@ -745,9 +798,10 @@
     "answer": 1
   },
   {
-    "id": 58,
+    "id": "u2q58",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Berkeley, physical objects exist:",
     "options": [
       "Independently of minds",
@@ -758,9 +812,10 @@
     "answer": 1
   },
   {
-    "id": 59,
+    "id": "u2q59",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hume divided perceptions into impressions and:",
     "options": [
       "Forms",
@@ -771,9 +826,10 @@
     "answer": 1
   },
   {
-    "id": 60,
+    "id": "u2q60",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Kant’s ethics is primarily:",
     "options": [
       "Teleological",
@@ -784,9 +840,10 @@
     "answer": 1
   },
   {
-    "id": 61,
+    "id": "u2q61",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hegel viewed history as the progress of:",
     "options": [
       "Economic forces",
@@ -797,9 +854,10 @@
     "answer": 1
   },
   {
-    "id": 62,
+    "id": "u2q62",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Moore defended the existence of:",
     "options": [
       "Sense data only",
@@ -810,9 +868,10 @@
     "answer": 1
   },
   {
-    "id": 63,
+    "id": "u2q63",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Russell’s theory of definite descriptions belongs to:",
     "options": [
       "Ethics",
@@ -823,9 +882,10 @@
     "answer": 1
   },
   {
-    "id": 64,
+    "id": "u2q64",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The picture theory of meaning was proposed by:",
     "options": [
       "Moore",
@@ -836,9 +896,10 @@
     "answer": 2
   },
   {
-    "id": 65,
+    "id": "u2q65",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Heidegger explored the meaning of:",
     "options": [
       "Justice",
@@ -849,9 +910,10 @@
     "answer": 2
   },
   {
-    "id": 66,
+    "id": "u2q66",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Sartre believed human beings are:",
     "options": [
       "Determined completely",
@@ -862,9 +924,10 @@
     "answer": 1
   },
   {
-    "id": 67,
+    "id": "u2q67",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Phenomenology attempts to study experience as it:",
     "options": [
       "Is scientifically measured",
@@ -875,9 +938,10 @@
     "answer": 1
   },
   {
-    "id": 68,
+    "id": "u2q68",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Which philosopher is most closely linked with logical analysis?",
     "options": [
       "Russell",
@@ -888,9 +952,10 @@
     "answer": 0
   },
   {
-    "id": 69,
+    "id": "u2q69",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The method of systematic doubt was introduced by:",
     "options": [
       "Locke",
@@ -901,9 +966,10 @@
     "answer": 2
   },
   {
-    "id": 70,
+    "id": "u2q70",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Aristotle, tragedy produces:",
     "options": [
       "Alienation",
@@ -914,9 +980,10 @@
     "answer": 1
   },
   {
-    "id": 71,
+    "id": "u2q71",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The phrase 'God is dead' is commonly associated with:",
     "options": [
       "Kant",
@@ -927,9 +994,10 @@
     "answer": 1
   },
   {
-    "id": 72,
+    "id": "u2q72",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Which philosopher argued that all ideas originate from impressions?",
     "options": [
       "Hume",
@@ -940,9 +1008,10 @@
     "answer": 0
   },
   {
-    "id": 73,
+    "id": "u2q73",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "For Kant, the noumenal world refers to:",
     "options": [
       "World as experienced",
@@ -953,9 +1022,10 @@
     "answer": 2
   },
   {
-    "id": 74,
+    "id": "u2q74",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The master-slave dialectic is discussed by:",
     "options": [
       "Hegel",
@@ -966,9 +1036,10 @@
     "answer": 0
   },
   {
-    "id": 75,
+    "id": "u2q75",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Analytic philosophy developed mainly in:",
     "options": [
       "Germany",
@@ -977,13 +1048,12 @@
       "India"
     ],
     "answer": 2
-  }
-]
-[
+  },
   {
-    "id": 76,
+    "id": "u2q76",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Socrates was sentenced to death on charges of:",
     "options": [
       "Treason and theft",
@@ -994,9 +1064,10 @@
     "answer": 1
   },
   {
-    "id": 77,
+    "id": "u2q77",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Plato founded the:",
     "options": [
       "Lyceum",
@@ -1007,9 +1078,10 @@
     "answer": 2
   },
   {
-    "id": 78,
+    "id": "u2q78",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Aristotle founded the:",
     "options": [
       "Academy",
@@ -1020,9 +1092,10 @@
     "answer": 1
   },
   {
-    "id": 79,
+    "id": "u2q79",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Descartes considered clear and distinct ideas as the criterion of:",
     "options": [
       "Beauty",
@@ -1033,9 +1106,10 @@
     "answer": 1
   },
   {
-    "id": 80,
+    "id": "u2q80",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "According to Spinoza, freedom consists in:",
     "options": [
       "Acting randomly",
@@ -1046,9 +1120,10 @@
     "answer": 1
   },
   {
-    "id": 81,
+    "id": "u2q81",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Leibniz argued that this world is:",
     "options": [
       "Pure illusion",
@@ -1059,9 +1134,10 @@
     "answer": 1
   },
   {
-    "id": 82,
+    "id": "u2q82",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Locke’s political philosophy strongly influenced:",
     "options": [
       "Absolute monarchy",
@@ -1072,9 +1148,10 @@
     "answer": 1
   },
   {
-    "id": 83,
+    "id": "u2q83",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Berkeley argued that existence depends upon:",
     "options": [
       "Material substance",
@@ -1085,9 +1162,10 @@
     "answer": 1
   },
   {
-    "id": 84,
+    "id": "u2q84",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hume denied the existence of:",
     "options": [
       "Perceptions",
@@ -1098,9 +1176,10 @@
     "answer": 2
   },
   {
-    "id": 85,
+    "id": "u2q85",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Kant called his ethical command the:",
     "options": [
       "Golden Mean",
@@ -1111,9 +1190,10 @@
     "answer": 2
   },
   {
-    "id": 86,
+    "id": "u2q86",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Hegel’s dialectical process commonly involves:",
     "options": [
       "Faith and revelation",
@@ -1124,9 +1204,10 @@
     "answer": 1
   },
   {
-    "id": 87,
+    "id": "u2q87",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Moore defended ethical:",
     "options": [
       "Relativism",
@@ -1137,9 +1218,10 @@
     "answer": 2
   },
   {
-    "id": 88,
+    "id": "u2q88",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Russell collaborated with Whitehead in writing:",
     "options": [
       "Principia Mathematica",
@@ -1150,9 +1232,10 @@
     "answer": 0
   },
   {
-    "id": 89,
+    "id": "u2q89",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Later Wittgenstein emphasized ordinary:",
     "options": [
       "Politics",
@@ -1163,9 +1246,10 @@
     "answer": 2
   },
   {
-    "id": 90,
+    "id": "u2q90",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Heidegger distinguished between authentic and:",
     "options": [
       "Empirical existence",
@@ -1176,9 +1260,10 @@
     "answer": 1
   },
   {
-    "id": 91,
+    "id": "u2q91",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Sartre held that humans are condemned to:",
     "options": [
       "Ignorance",
@@ -1189,9 +1274,10 @@
     "answer": 1
   },
   {
-    "id": 92,
+    "id": "u2q92",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Phenomenology brackets assumptions through the method of:",
     "options": [
       "Dialectic",
@@ -1202,9 +1288,10 @@
     "answer": 1
   },
   {
-    "id": 93,
+    "id": "u2q93",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Analytic philosophy is especially concerned with:",
     "options": [
       "Myth",
@@ -1215,9 +1302,10 @@
     "answer": 1
   },
   {
-    "id": 94,
+    "id": "u2q94",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Rationalists generally accept the existence of:",
     "options": [
       "Innate ideas",
@@ -1228,9 +1316,10 @@
     "answer": 0
   },
   {
-    "id": 95,
+    "id": "u2q95",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Empiricists reject the doctrine of:",
     "options": [
       "Experience",
@@ -1241,9 +1330,10 @@
     "answer": 2
   },
   {
-    "id": 96,
+    "id": "u2q96",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Idealism maintains that reality is fundamentally:",
     "options": [
       "Mental",
@@ -1254,9 +1344,10 @@
     "answer": 0
   },
   {
-    "id": 97,
+    "id": "u2q97",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Existential anxiety is a major theme in:",
     "options": [
       "Existentialism",
@@ -1267,9 +1358,10 @@
     "answer": 0
   },
   {
-    "id": 98,
+    "id": "u2q98",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Phenomenology primarily studies:",
     "options": [
       "Physical matter",
@@ -1280,9 +1372,10 @@
     "answer": 1
   },
   {
-    "id": 99,
+    "id": "u2q99",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "The linguistic turn is strongly associated with:",
     "options": [
       "Analytic philosophy",
@@ -1293,9 +1386,10 @@
     "answer": 0
   },
   {
-    "id": 100,
+    "id": "u2q100",
     "paper": 2,
     "topic": "Western Philosophy",
+    "difficulty": "medium",
     "question": "Which movement emphasized logical and conceptual analysis?",
     "options": [
       "Existentialism",
