@@ -3,43 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="UGC NET Philosophy Mock Test - Real CBT exam interface with 150 questions, timer, question palette">
+  <meta name="description" content="UGC NET Philosophy Mock Test – Real CBT exam interface with 150 questions, timer, and question palette">
   <title>UGC NET Philosophy Mock Test</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Sora:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Sora:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  
-  <!-- ==================== HOME SCREEN ==================== -->
-  <div id="screen-home" class="screen active">
+
+  <!-- ==================== HOME PAGE ==================== -->
+  <div id="page-home" class="page active-page">
     <nav class="navbar">
       <div class="nav-brand">
         <div class="logo-icon">NET</div>
         <span class="brand-name">UGC NET Philosophy</span>
       </div>
       <div class="nav-actions">
-        <button class="dark-mode-btn" id="darkModeToggle">🌙</button>
-        <button class="btn-primary" onclick="showScreen('instructions')">Start Test</button>
+        <button class="dark-mode-btn" id="btn-dark-mode" title="Toggle dark mode">🌙</button>
+        <button class="btn-primary" id="btn-goto-instructions">Start Test</button>
       </div>
     </nav>
-    
+
     <section class="hero">
       <div class="hero-badge">NTA Pattern · Mock Test 2024</div>
       <h1 class="hero-title">UGC NET Philosophy<br><span class="highlight">Mock Test</span></h1>
-      <p class="hero-subtitle">Practice with real exam interface. Paper I & Philosophy Paper II. 150 Questions · 300 Marks · 3 Hours.</p>
+      <p class="hero-subtitle">Practice with a real exam interface. Paper I &amp; Philosophy Paper II. 150 Questions · 300 Marks · 3 Hours.</p>
       <div class="hero-actions">
-        <button class="btn-hero" onclick="showScreen('instructions')">Start Mock Test →</button>
-        <button class="btn-outline" onclick="scrollToFeatures()">Learn More</button>
+        <button class="btn-hero" id="btn-goto-instructions-2">Start Mock Test →</button>
+        <button class="btn-outline" id="btn-scroll-features">Learn More</button>
       </div>
       <div class="hero-stats">
-        <div class="stat"><span class="stat-num">150</span><span class="stat-label">Questions</span></div>
+        <div class="stat"><span class="stat-num" id="stat-q-count">150</span><span class="stat-label">Questions</span></div>
         <div class="stat"><span class="stat-num">300</span><span class="stat-label">Marks</span></div>
         <div class="stat"><span class="stat-num">3</span><span class="stat-label">Hours</span></div>
         <div class="stat"><span class="stat-num">0</span><span class="stat-label">Negative</span></div>
       </div>
     </section>
-    
+
     <section class="features" id="features">
       <h2 class="section-title">Why Practice Here?</h2>
       <div class="features-grid">
@@ -50,13 +50,13 @@
         </div>
         <div class="feature-card">
           <div class="feature-icon">📚</div>
-          <h3>Paper I & Philosophy</h3>
+          <h3>Paper I &amp; Philosophy</h3>
           <p>Complete coverage of General Paper (Paper I) and Philosophy Paper II as per UGC NET syllabus and exam pattern.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">⏱️</div>
           <h3>Timed Mock Test</h3>
-          <p>3-hour countdown timer with audio alerts. Auto-submit when time expires, simulating real exam conditions.</p>
+          <p>3-hour countdown timer with auto-submit when time expires, simulating real exam conditions.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">📊</div>
@@ -66,24 +66,24 @@
         <div class="feature-card">
           <div class="feature-icon">🎯</div>
           <h3>Smart Navigation</h3>
-          <p>Question palette with color-coded status. Mark for review, save answers, clear responses, navigate freely between questions.</p>
+          <p>Question palette with color-coded status. Mark for review, save answers, clear responses, navigate freely.</p>
         </div>
         <div class="feature-card">
           <div class="feature-icon">📱</div>
           <h3>Mobile Responsive</h3>
-          <p>Fully responsive design works seamlessly on desktop, tablet, and mobile devices without any app download required.</p>
+          <p>Fully responsive design works seamlessly on desktop, tablet, and mobile without any app download.</p>
         </div>
       </div>
     </section>
-    
+
     <section class="about-exam">
       <h2 class="section-title">About UGC NET Exam</h2>
       <div class="about-grid">
         <div class="about-card">
           <h3>📋 Exam Pattern</h3>
           <ul>
-            <li>Paper I: 50 Questions (100 Marks) - General/Teaching Aptitude</li>
-            <li>Paper II: 100 Questions (200 Marks) - Subject Specific</li>
+            <li>Paper I: 50 Questions (100 Marks) – General/Teaching Aptitude</li>
+            <li>Paper II: 100 Questions (200 Marks) – Subject Specific</li>
             <li>Total: 150 Questions, 300 Marks</li>
             <li>Duration: 3 Hours (Single Session)</li>
             <li>Mode: Computer Based Test (CBT)</li>
@@ -103,41 +103,39 @@
         </div>
       </div>
     </section>
-    
+
     <footer class="footer">
       <p>© 2024 UGC NET Philosophy Mock Test · Practice Platform · Not affiliated with NTA/UGC</p>
     </footer>
   </div>
-  
-  <!-- ==================== INSTRUCTIONS SCREEN ==================== -->
-  <div id="screen-instructions" class="screen">
+
+  <!-- ==================== INSTRUCTIONS PAGE ==================== -->
+  <div id="page-instructions" class="page">
     <div class="inst-container">
       <div class="inst-header">
-        <button class="back-btn" onclick="showScreen('home')">← Back</button>
+        <button class="back-btn" id="btn-back-home">← Back</button>
         <div class="inst-logo">
           <div class="logo-icon">NET</div>
           <div>
             <div class="inst-title-main">National Testing Agency</div>
-            <div class="inst-title-sub">UGC - NET · Philosophy · Mock Test</div>
+            <div class="inst-title-sub">UGC – NET · Philosophy · Mock Test</div>
           </div>
         </div>
-        <div class="dark-toggle">
-          <button class="dark-mode-btn" id="darkModeToggle2">🌙</button>
-        </div>
+        <button class="dark-mode-btn" id="btn-dark-mode-2" title="Toggle dark mode">🌙</button>
       </div>
-      
+
       <div class="inst-content">
         <div class="inst-alert">
           <strong>⚠️ General Instructions</strong> — Please read all instructions carefully before starting the test.
         </div>
-        
+
         <div class="inst-grid">
           <div class="inst-section">
             <h3>📋 Exam Details</h3>
             <table class="inst-table">
               <tr><td>Subject</td><td><strong>Philosophy (Paper II)</strong></td></tr>
-              <tr><td>Paper I</td><td>General Teaching & Research Aptitude</td></tr>
-              <tr><td>Total Questions</td><td><strong>150</strong></td></tr>
+              <tr><td>Paper I</td><td>General Teaching &amp; Research Aptitude</td></tr>
+              <tr><td>Total Questions</td><td><strong id="inst-total-q">150</strong></td></tr>
               <tr><td>Total Marks</td><td><strong>300</strong></td></tr>
               <tr><td>Duration</td><td><strong>3 Hours (180 Minutes)</strong></td></tr>
               <tr><td>Marking Scheme</td><td><strong>+2 for each correct answer</strong></td></tr>
@@ -145,13 +143,13 @@
               <tr><td>Question Type</td><td>Multiple Choice Questions (MCQ)</td></tr>
             </table>
           </div>
-          
+
           <div class="inst-section">
             <h3>🖥️ Navigation Instructions</h3>
             <ul class="inst-list">
               <li>Click on a question number in the palette to navigate directly to that question</li>
-              <li>Use <strong>Previous</strong> and <strong>Save & Next</strong> buttons to navigate sequentially</li>
-              <li>Select an option and click <strong>Save & Next</strong> to save your answer and move forward</li>
+              <li>Use <strong>Previous</strong> and <strong>Save &amp; Next</strong> buttons to navigate sequentially</li>
+              <li>Select an option and click <strong>Save &amp; Next</strong> to save your answer and move forward</li>
               <li>Use <strong>Mark for Review</strong> to flag questions you want to revisit later</li>
               <li>Use <strong>Clear Response</strong> to deselect your current answer choice</li>
               <li>You can change your answers anytime before final submission</li>
@@ -159,7 +157,7 @@
             </ul>
           </div>
         </div>
-        
+
         <div class="palette-legend-section">
           <h3>🎨 Question Palette Color Codes</h3>
           <div class="legend-grid">
@@ -181,53 +179,52 @@
             </div>
             <div class="legend-item">
               <div class="legend-dot" style="background:#16a34a; border:3px solid #7c3aed"></div>
-              <span><strong>Green with Purple Border</strong> — Answered & Marked for Review</span>
+              <span><strong>Green + Purple Border</strong> — Answered &amp; Marked for Review</span>
             </div>
           </div>
         </div>
-        
+
         <div class="inst-notes">
           <h3>📌 Important Notes</h3>
           <ul class="inst-list warn">
             <li>Do NOT refresh or close the browser during the exam — your progress may be lost</li>
             <li>Timer will countdown from 3:00:00 — the test will auto-submit at 00:00:00</li>
-            <li>Paper I (Questions 1–50) and Paper II — Philosophy (Questions 51–150) are in the same session</li>
+            <li>Paper I (Questions 1–50) and Paper II – Philosophy (Questions 51–150) are in the same session</li>
             <li>There is no negative marking — it is advisable to attempt all questions</li>
-            <li>You will receive audio alerts at 30 minutes and 5 minutes remaining</li>
             <li>This is a practice mock test — not affiliated with NTA/UGC official examination</li>
           </ul>
         </div>
-        
+
         <div class="inst-agree">
           <label class="checkbox-label">
-            <input type="checkbox" id="agreeCheckbox" onchange="toggleStartBtn()">
+            <input type="checkbox" id="agree-checkbox">
             <span class="checkmark"></span>
             I have read and understood all the instructions. I am ready to begin the test.
           </label>
         </div>
-        
-        <button class="btn-start" id="startTestBtn" disabled onclick="startExam()">
+
+        <button class="btn-start" id="btn-start-test" disabled>
           Start Test →
         </button>
       </div>
     </div>
   </div>
-  
-  <!-- ==================== EXAM SCREEN ==================== -->
-  <div id="screen-exam" class="screen">
+
+  <!-- ==================== EXAM PAGE ==================== -->
+  <div id="page-exam" class="page">
     <!-- Top Bar -->
     <div class="exam-topbar">
       <div class="topbar-left">
-        <button class="palette-toggle" id="paletteToggle" onclick="togglePalette()">☰</button>
+        <button class="palette-toggle" id="btn-palette-toggle" title="Toggle question palette">☰</button>
         <div class="exam-title-bar">
           <span class="exam-title-text">UGC NET · Philosophy Mock Test</span>
-          <span class="paper-indicator" id="currentPaperBadge">Paper I</span>
+          <span class="paper-indicator" id="current-paper-badge">Paper I</span>
         </div>
       </div>
       <div class="topbar-center">
-        <div class="timer-block" id="timerBlock">
+        <div class="timer-block" id="timer-block">
           <span class="timer-label">Time Remaining</span>
-          <span class="timer-display" id="timerDisplay">03:00:00</span>
+          <span class="timer-display" id="timer-display">03:00:00</span>
         </div>
       </div>
       <div class="topbar-right">
@@ -238,123 +235,124 @@
             <span class="candidate-id">Roll: 2024PHNET001</span>
           </div>
         </div>
-        <button class="dark-mode-btn" id="darkModeToggle3">🌙</button>
+        <button class="dark-mode-btn" id="btn-dark-mode-3" title="Toggle dark mode">🌙</button>
       </div>
     </div>
-    
+
     <!-- Exam Body -->
     <div class="exam-body">
-      <!-- Sidebar / Question Palette -->
-      <div class="exam-sidebar" id="examSidebar">
+      <!-- Sidebar -->
+      <div class="exam-sidebar" id="exam-sidebar">
         <div class="sidebar-header">
           <h4>Question Palette</h4>
-          <button class="sidebar-close" onclick="togglePalette()">✕</button>
+          <button class="sidebar-close" id="btn-sidebar-close">✕</button>
         </div>
-        
+
         <div class="paper-tabs">
-          <button class="paper-tab active" id="tab-p1" onclick="switchPaper(1)">Paper I (1-50)</button>
-          <button class="paper-tab" id="tab-p2" onclick="switchPaper(2)">Paper II (51-150)</button>
+          <button class="paper-tab active" id="tab-paper-1" data-paper="1">Paper I (1–50)</button>
+          <button class="paper-tab" id="tab-paper-2" data-paper="2">Paper II (51–150)</button>
         </div>
-        
-        <div class="palette-grid" id="paletteGrid">
+
+        <div class="palette-grid" id="palette-container">
           <!-- Generated by JS -->
         </div>
-        
+
         <div class="palette-legend">
           <div class="legend-row"><span class="pal-dot gray"></span> Not Visited</div>
           <div class="legend-row"><span class="pal-dot red"></span> Not Answered</div>
           <div class="legend-row"><span class="pal-dot green"></span> Answered</div>
           <div class="legend-row"><span class="pal-dot purple"></span> Marked</div>
         </div>
-        
-        <div class="palette-stats" id="paletteStats">
-          <div class="pstat"><span class="pstat-num green-text" id="stat-answered">0</span> Answered</div>
-          <div class="pstat"><span class="pstat-num red-text" id="stat-not-answered">0</span> Not Answered</div>
-          <div class="pstat"><span class="pstat-num purple-text" id="stat-marked">0</span> Marked</div>
-          <div class="pstat"><span class="pstat-num gray-text" id="stat-not-visited">150</span> Not Visited</div>
+
+        <div class="palette-stats">
+          <div class="pstat"><span class="pstat-num green-text" id="stat-answered">0</span>&nbsp;Answered</div>
+          <div class="pstat"><span class="pstat-num red-text" id="stat-not-answered">0</span>&nbsp;Not Answered</div>
+          <div class="pstat"><span class="pstat-num purple-text" id="stat-marked">0</span>&nbsp;Marked</div>
+          <div class="pstat"><span class="pstat-num gray-text" id="stat-not-visited">0</span>&nbsp;Not Visited</div>
         </div>
-        
-        <button class="btn-submit-sidebar" onclick="confirmSubmit()">Submit Test</button>
+
+        <button class="btn-submit-sidebar" id="btn-submit-sidebar">Submit Test</button>
       </div>
-      
+
       <!-- Main Question Area -->
       <div class="exam-main">
         <div class="question-header">
           <div class="q-meta">
-            <span class="q-number" id="qNumber">Question 1</span>
-            <span class="q-topic" id="qTopic">Teaching Aptitude</span>
-            <span class="q-paper-badge" id="qPaperBadge">Paper I</span>
+            <span class="q-number" id="question-number">Question 1</span>
+            <span class="q-topic" id="subject-label">Topic</span>
+            <span class="q-paper-badge" id="q-paper-badge">Paper I</span>
           </div>
           <div class="q-progress">
             <div class="progress-bar">
-              <div class="progress-fill" id="progressFill" style="width:0%"></div>
+              <div class="progress-fill" id="progress-fill" style="width:0%"></div>
             </div>
-            <span class="progress-text" id="progressText">0 / 150</span>
+            <span class="progress-text" id="progress-text">0 / 0</span>
           </div>
         </div>
-        
-        <div class="question-body" id="questionBody">
-          <div class="question-text" id="questionText">
-            Loading question...
-          </div>
-          
-          <div class="options-list" id="optionsList">
+
+        <div class="question-body" id="question-body">
+          <div class="question-text" id="question-text">Loading questions…</div>
+          <div class="options-list" id="options-container">
             <!-- Generated by JS -->
           </div>
         </div>
-        
+
         <div class="question-footer">
           <div class="nav-buttons">
-            <button class="btn-nav btn-prev" onclick="navigatePrev()" id="prevBtn">← Previous</button>
-            <button class="btn-nav btn-clear" onclick="clearResponse()">Clear Response</button>
-            <button class="btn-nav btn-mark" onclick="markForReview()">Mark for Review</button>
-            <button class="btn-nav btn-save" onclick="saveAndNext()">Save & Next →</button>
+            <button class="btn-nav btn-prev" id="btn-prev">← Previous</button>
+            <button class="btn-nav btn-clear" id="btn-clear">Clear Response</button>
+            <button class="btn-nav btn-mark" id="btn-mark">Mark for Review</button>
+            <button class="btn-nav btn-save" id="btn-next">Save &amp; Next →</button>
           </div>
           <div class="submit-row">
-            <button class="btn-submit-main" onclick="confirmSubmit()">🏁 Submit Test</button>
+            <button class="btn-submit-main" id="btn-submit">🏁 Submit Test</button>
           </div>
         </div>
       </div>
     </div>
-    
+
     <!-- Submit Confirmation Modal -->
-    <div class="modal-overlay" id="submitModal">
+    <div class="modal-overlay" id="submit-modal">
       <div class="modal">
         <h2>Submit Test?</h2>
-        <div class="modal-stats" id="modalStats"></div>
+        <div class="modal-stats" id="modal-stats"></div>
         <p>Are you sure you want to submit? You cannot change answers after submission.</p>
         <div class="modal-buttons">
-          <button class="btn-modal-cancel" onclick="closeModal()">Cancel</button>
-          <button class="btn-modal-submit" onclick="submitExam()">Submit Now</button>
+          <button class="btn-modal-cancel" id="btn-modal-cancel">Cancel</button>
+          <button class="btn-modal-submit" id="btn-modal-submit">Submit Now</button>
         </div>
       </div>
     </div>
   </div>
-  
-  <!-- ==================== RESULT SCREEN ==================== -->
-  <div id="screen-result" class="screen">
+
+  <!-- ==================== RESULT PAGE ==================== -->
+  <div id="page-result" class="page">
     <div class="result-container">
       <div class="result-header">
         <div class="logo-icon">NET</div>
         <h1>Mock Test Result</h1>
-        <p>UGC NET Philosophy · Paper I & Paper II</p>
+        <p>UGC NET Philosophy · Paper I &amp; Paper II</p>
       </div>
-      
-      <div class="result-score-card" id="resultScoreCard">
+
+      <div class="result-score-card" id="result-score-card">
         <!-- Generated by JS -->
       </div>
-      
-      <div class="result-breakdown" id="resultBreakdown">
+
+      <div class="result-breakdown" id="result-breakdown">
         <!-- Generated by JS -->
       </div>
-      
+
+      <div class="result-answer-key" id="result-answer-key">
+        <!-- Generated by JS -->
+      </div>
+
       <div class="result-actions">
-        <button class="btn-restart" onclick="restartTest()">🔄 Restart Mock Test</button>
-        <button class="btn-home-result" onclick="showScreen('home')">🏠 Back to Home</button>
+        <button class="btn-restart" id="btn-restart">🔄 Restart Mock Test</button>
+        <button class="btn-home-result" id="btn-home-result">🏠 Back to Home</button>
       </div>
     </div>
   </div>
-  
+
   <script src="script.js"></script>
 </body>
 </html>
