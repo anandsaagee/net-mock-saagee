@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Which of the following is the most important quality of a good teacher?",
+    "options": ["Subject knowledge", "Classroom discipline", "Communication and empathy", "Punctuality"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Formative evaluation in teaching is used to:",
+    "options": ["Grade students at the end of term", "Monitor student progress during learning", "Rank students comparatively", "Certify students for promotion"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Which teaching method promotes critical thinking most effectively?",
+    "options": ["Lecture method", "Rote learning", "Socratic method", "Demonstration method"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Bloom's Taxonomy classifies learning objectives into how many domains?",
+    "options": ["2", "3", "4", "5"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Problem-based learning (PBL) is most effective because it:",
+    "options": ["Reduces teacher workload", "Encourages memorization", "Connects learning to real-world situations", "Focuses on textbook content"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "The concept of 'andragogy' relates to:",
+    "options": ["Teaching young children", "Teaching adults", "Teaching special needs students", "Online teaching"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Which of the following is NOT a characteristic of a good question in teaching?",
+    "options": ["Clarity", "Ambiguity", "Relevance", "Purposefulness"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Co-operative learning emphasizes:",
+    "options": ["Individual competition", "Group collaboration", "Teacher-centered instruction", "Rote memorization"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "The micro-teaching technique was first developed at:",
+    "options": ["Harvard University", "Stanford University", "Oxford University", "MIT"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "paper": 1,
+    "topic": "Teaching Aptitude",
+    "question": "Which of the following is a learner-centered approach?",
+    "options": ["Lecture method", "Demonstration", "Project method", "Recitation method"],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "The first step in the research process is:",
+    "options": ["Data collection", "Hypothesis formulation", "Identification of a problem", "Literature review"],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Which of the following is a characteristic of qualitative research?",
+    "options": ["Statistical analysis", "Controlled experiments", "In-depth understanding of phenomena", "Large sample sizes"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "A hypothesis is best described as:",
+    "options": ["A proven fact", "A tentative statement predicting a relationship", "A conclusion drawn from data", "A research question"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Which sampling method gives every member of the population an equal chance of being selected?",
+    "options": ["Purposive sampling", "Cluster sampling", "Simple random sampling", "Snowball sampling"],
+    "answer": 2
+  },
+  {
+    "id": 15,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "A literature review in research primarily helps to:",
+    "options": ["Collect primary data", "Identify gaps in existing knowledge", "Formulate conclusions", "Analyze statistical data"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "The term 'plagiarism' in research refers to:",
+    "options": ["Citing all sources", "Using others' work without attribution", "Peer reviewing articles", "Publishing original findings"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Which of the following is an example of primary data?",
+    "options": ["Published journal articles", "Government census reports", "Data collected through interviews", "Textbook chapters"],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Case study research is most appropriate when:",
+    "options": ["Large samples are available", "Generalizable data is needed", "In-depth analysis of a single unit is required", "Statistical correlations are sought"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Reliability in a research instrument means:",
+    "options": ["It measures what it claims to measure", "It gives consistent results across repeated measurements", "It is easy to administer", "It has large sample coverage"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "paper": 1,
+    "topic": "Research Aptitude",
+    "question": "Which type of research is aimed at solving an immediate practical problem?",
+    "options": ["Basic research", "Applied research", "Longitudinal research", "Historical research"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "paper": 1,
+    "topic": "Comprehension",
+    "question": "A passage says 'The advent of AI has disrupted traditional job markets.' The word 'advent' most nearly means:",
+    "options": ["Decline", "Arrival", "Avoidance", "Impact"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "paper": 1,
+    "topic": "Comprehension",
+    "question": "If a paragraph concludes with 'Thus, education must evolve,' it is most likely a:",
+    "options": ["Narrative paragraph", "Descriptive paragraph", "Argumentative paragraph", "Expository paragraph"],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "paper": 1,
+    "topic": "Comprehension",
+    "question": "The main purpose of a topic sentence in a paragraph is to:",
+    "options": ["Provide evidence", "Summarize the paragraph's central idea", "Introduce a counterargument", "End the discussion"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "paper": 1,
+    "topic": "Comprehension",
+    "question": "An 'implicit' meaning in a text is one that is:",
+    "options": ["Clearly stated", "Suggested but not directly expressed", "Irrelevant to the topic", "Found in the title only"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "paper": 1,
+    "topic": "Comprehension",
+    "question": "Critical reading primarily involves:",
+    "options": ["Reading at a fast pace", "Accepting all information as true", "Evaluating and questioning the author's claims", "Skipping difficult passages"],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "paper": 1,
+    "topic": "Communication",
+    "question": "The Shannon-Weaver model of communication identifies noise as:",
+    "options": ["The message itself", "Any interference disrupting the signal", "The receiver's feedback", "The medium of transmission"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "paper": 1,
+    "topic": "Communication",
+    "question": "Non-verbal communication includes all EXCEPT:",
+    "options": ["Gestures", "Facial expressions", "Written memos", "Body posture"],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "paper": 1,
+    "topic": "Communication",
+    "question": "Which of the following is the most effective classroom communication?",
+    "options": ["One-way lecture", "Written assignments only", "Two-way interactive discussion", "Reading from textbooks"],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "paper": 1,
+    "topic": "Communication",
+    "question": "Feedback in communication refers to:",
+    "options": ["The medium used", "The response from the receiver", "The encoding of message", "The noise in the channel"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "paper": 1,
+    "topic": "Communication",
+    "question": "Mass communication differs from interpersonal communication mainly in its:",
+    "options": ["Use of language", "Audience size and reach", "Emotional depth", "Feedback immediacy"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "paper": 1,
+    "topic": "Mathematical Reasoning",
+    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, then A ∩ B is:",
+    "options": ["{1, 2, 3, 4}", "{2, 3}", "{1, 4}", "{1, 2, 3}"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "paper": 1,
+    "topic": "Mathematical Reasoning",
+    "question": "The mean of 5, 10, 15, 20, 25 is:",
+    "options": ["12", "13", "15", "17"],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "paper": 1,
+    "topic": "Mathematical Reasoning",
+    "question": "Which is the next number in the series: 2, 6, 12, 20, 30, ?",
+    "options": ["38", "40", "42", "44"],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "paper": 1,
+    "topic": "Mathematical Reasoning",
+    "question": "A valid deductive argument is one where:",
+    "options": ["The conclusion is probably true", "The conclusion must be true if premises are true", "The premises are always true", "The argument is persuasive"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "paper": 1,
+    "topic": "Mathematical Reasoning",
+    "question": "If all X are Y, and all Y are Z, then:",
+    "options": ["Some X are Z", "All X are Z", "No X are Z", "Some Y are not Z"],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "paper": 1,
+    "topic": "Logical Reasoning",
+    "question": "The fallacy of 'ad hominem' involves:",
+    "options": ["Attacking the person instead of the argument", "Using circular reasoning", "Making false analogies", "Appealing to authority"],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "paper": 1,
+    "topic": "Logical Reasoning",
+    "question": "Inductive reasoning moves from:",
+    "options": ["General to specific", "Specific to general", "Hypothesis to theory", "Cause to effect"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "paper": 1,
+    "topic": "Logical Reasoning",
+    "question": "A syllogism consists of:",
+    "options": ["One premise and one conclusion", "Two premises and a conclusion", "Three conclusions", "A hypothesis and evidence"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "paper": 1,
+    "topic": "Logical Reasoning",
+    "question": "The converse of 'If P then Q' is:",
+    "options": ["If Q then P", "If not P then not Q", "If not Q then not P", "P if and only if Q"],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "paper": 1,
+    "topic": "Logical Reasoning",
+    "question": "'Begging the question' is a logical fallacy where:",
+    "options": ["A question is left unanswered", "The conclusion is used as a premise", "Evidence is irrelevant", "A false dichotomy is presented"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "paper": 1,
+    "topic": "Data Interpretation",
+    "question": "If a pie chart shows 25% for category A, and the total is 400 units, then category A has:",
+    "options": ["50 units", "75 units", "100 units", "125 units"],
+    "answer": 2
+  },
+  {
+    "id": 42,
+    "paper": 1,
+    "topic": "Data Interpretation",
+    "question": "A bar graph is most appropriate for displaying:",
+    "options": ["Continuous data trends", "Categorical comparisons", "Correlation between variables", "Proportional parts of a whole"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "paper": 1,
+    "topic": "Data Interpretation",
+    "question": "In a table, if sales increased from 200 to 250, the percentage increase is:",
+    "options": ["20%", "25%", "50%", "10%"],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "paper": 1,
+    "topic": "Data Interpretation",
+    "question": "Which measure of central tendency is most affected by extreme values?",
+    "options": ["Mode", "Median", "Mean", "Range"],
+    "answer": 2
+  },
+  {
+    "id": 45,
+    "paper": 1,
+    "topic": "Data Interpretation",
+    "question": "Standard deviation measures:",
+    "options": ["Central tendency", "Data spread around the mean", "The highest value", "Cumulative frequency"],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "paper": 1,
+    "topic": "ICT",
+    "question": "Which of the following is an example of Open Source Software?",
+    "options": ["Microsoft Windows", "Adobe Photoshop", "Linux", "MS Office"],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "paper": 1,
+    "topic": "ICT",
+    "question": "The full form of URL is:",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Unified Reference Link", "Universal Reference Locator"],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "paper": 1,
+    "topic": "ICT",
+    "question": "Which protocol is used for secure data transmission over the internet?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "answer": 2
+  },
+  {
+    "id": 49,
+    "paper": 1,
+    "topic": "Environment",
+    "question": "The Kyoto Protocol is related to:",
+    "options": ["Nuclear energy", "Greenhouse gas emissions reduction", "Ocean pollution", "Forest conservation"],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "paper": 1,
+    "topic": "Environment",
+    "question": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Petroleum", "Natural Gas", "Solar Energy"],
+    "answer": 3
+  },
+  {
+    "id": 51,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Who wrote 'Critique of Pure Reason'?",
+    "options": ["Plato", "Immanuel Kant", "Georg Hegel", "John Locke"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Plato's theory of Forms (Ideas) holds that:",
+    "options": ["Material objects are the only reality", "Abstract Forms are more real than physical objects", "Knowledge comes only through senses", "Reality is fundamentally mental"],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Aristotle's concept of 'eudaimonia' is best translated as:",
+    "options": ["Pleasure", "Duty", "Human flourishing or well-being", "Knowledge"],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Descartes' famous statement 'Cogito, ergo sum' means:",
+    "options": ["I think, therefore I am", "I exist, therefore I think", "To be is to be perceived", "I doubt, therefore I feel"],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Empiricism as a philosophical position holds that knowledge is derived primarily from:",
+    "options": ["Reason alone", "Sensory experience", "Divine revelation", "Innate ideas"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "John Locke described the mind at birth as:",
+    "options": ["A storehouse of innate ideas", "Tabula rasa (blank slate)", "Filled with rational categories", "A collection of memories"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Hume's problem of induction challenges the idea that:",
+    "options": ["Cause and effect are real", "Past regularities can justify future predictions", "Empiricism is valid", "Mathematics is certain"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Kant's 'Copernican revolution' in philosophy refers to:",
+    "options": ["Discovering new planets", "The mind actively structures experience", "Rejecting metaphysics entirely", "Placing God at the center of knowledge"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Hegel's dialectical method involves:",
+    "options": ["Thesis, antithesis, synthesis", "Cause and effect analysis", "Deductive reasoning", "Empirical observation"],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Nietzsche's concept of 'Will to Power' refers to:",
+    "options": ["Desire for political control", "The fundamental drive to express and expand one's capabilities", "Belief in divine will", "Subjugation of weaker beings"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Existentialism holds that:",
+    "options": ["Essence precedes existence", "Existence precedes essence", "God determines human nature", "Reason defines human identity"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Jean-Paul Sartre's 'bad faith' (mauvaise foi) refers to:",
+    "options": ["Religious hypocrisy", "Denying one's own freedom and responsibility", "Irrational belief systems", "Political betrayal"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Utilitarianism was systematically developed by:",
+    "options": ["Kant and Hegel", "Bentham and Mill", "Locke and Hume", "Plato and Aristotle"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "The Categorical Imperative was formulated by:",
+    "options": ["Mill", "Kant", "Bentham", "Hume"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Phenomenology was founded by:",
+    "options": ["Heidegger", "Sartre", "Edmund Husserl", "Merleau-Ponty"],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Heidegger's concept of 'Dasein' refers to:",
+    "options": ["Human existence as being-in-the-world", "The existence of God", "Pure consciousness", "The material world"],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Wittgenstein's 'language games' suggest that:",
+    "options": ["Language is logically perfect", "Meaning is determined by use in a form of life", "Words have fixed definitions", "Logic determines all meaning"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "The Socratic method primarily uses:",
+    "options": ["Lectures and monologue", "Dialectical questioning to reach truth", "Written arguments", "Empirical observation"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Spinoza's concept of God is best described as:",
+    "options": ["A personal creator God", "God and Nature are one (pantheism)", "God is unknowable", "God intervenes in human affairs"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "paper": 2,
+    "topic": "Western Philosophy",
+    "question": "Logical Positivism holds that a statement is meaningful only if it is:",
+    "options": ["Morally sound", "Empirically verifiable or analytically true", "Spoken by an authority", "Accepted by society"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The six orthodox (Āstika) schools of Indian philosophy are called:",
+    "options": ["Ṣaḍ Darśanas", "Nava Darśanas", "Pañca Darśanas", "Sapta Darśanas"],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Which school of Indian philosophy is strictly non-theistic and materialist?",
+    "options": ["Nyāya", "Vaiśeṣika", "Cārvāka (Lokāyata)", "Mīmāṃsā"],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Advaita Vedānta philosophy was systematized by:",
+    "options": ["Rāmānuja", "Madhva", "Ādi Śaṅkarācārya", "Vallabha"],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "In Advaita Vedānta, 'Māyā' refers to:",
+    "options": ["Illusion obscuring the unity of Brahman and Ātman", "The principle of karma", "The cycle of rebirth", "Divine grace"],
+    "answer": 0
+  },
+  {
+    "id": 75,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Nyāya school is primarily known for its contribution to:",
+    "options": ["Ethics", "Logic and epistemology", "Cosmology", "Mysticism"],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "According to Sāṃkhya philosophy, Puruṣa is:",
+    "options": ["Active, creative principle", "Pure consciousness, passive witness", "The material world", "The cause of all suffering"],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The concept of 'Ahiṃsā' (non-violence) is central to which schools?",
+    "options": ["Nyāya and Vaiśeṣika", "Jainism and Buddhism", "Mīmāṃsā and Vedānta", "Cārvāka and Ājīvika"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Buddhist philosophy's 'Pratītyasamutpāda' means:",
+    "options": ["Absolute reality", "Dependent origination", "Liberation from suffering", "Eternal soul"],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Four Noble Truths in Buddhism include:",
+    "options": ["The reality of suffering (dukkha)", "The permanence of self", "The value of ritual sacrifice", "The existence of absolute truth"],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Jaina epistemology is characterized by the doctrine of:",
+    "options": ["Absolute knowledge", "Anekāntavāda (many-sidedness of reality)", "Pure materialism", "Perceptual certainty alone"],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Mīmāṃsā school gives highest authority to:",
+    "options": ["Perception", "Inference", "Vedic testimony (śabda)", "Analogy"],
+    "answer": 2
+  },
+  {
+    "id": 82,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Rāmānuja's philosophy is known as:",
+    "options": ["Advaita", "Dvaita", "Viśiṣṭādvaita", "Śuddhādvaita"],
+    "answer": 2
+  },
+  {
+    "id": 83,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Yoga school of philosophy is closely associated with which other school?",
+    "options": ["Nyāya", "Vaiśeṣika", "Sāṃkhya", "Mīmāṃsā"],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "According to Nyāya, how many valid sources of knowledge (pramāṇas) are there?",
+    "options": ["2", "3", "4", "6"],
+    "answer": 2
+  },
+  {
+    "id": 85,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Upanishadic equation 'Tat tvam asi' (That thou art) expresses:",
+    "options": ["Dualism of God and soul", "Identity of Ātman and Brahman", "The nature of karma", "The cycle of rebirth"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Śūnyatā (emptiness) is a central concept of which school of Buddhism?",
+    "options": ["Theravāda", "Yogācāra", "Mādhyamaka", "Vaibhāṣika"],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The Cārvāka school accepts which pramāṇa (valid knowledge source)?",
+    "options": ["Perception alone", "Inference and perception", "Testimony and perception", "All four pramāṇas"],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "In Jaina philosophy, 'Syādvāda' is the doctrine of:",
+    "options": ["Non-violence", "Conditional predication", "Absolute truth", "Soul-body dualism"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "The concept of 'Karma' in Indian philosophy relates to:",
+    "options": ["The law of moral causation", "A form of divine grace", "Ritual sacrifice", "Material prosperity"],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "paper": 2,
+    "topic": "Indian Philosophy",
+    "question": "Which Indian philosopher wrote 'Brahmasūtra'?",
+    "options": ["Patañjali", "Bādarāyaṇa (Vyāsa)", "Kapila", "Gautama"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "A proposition that cannot be false under any interpretation is called:",
+    "options": ["Contingent", "Contradiction", "Tautology", "Synthetic"],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "The law of excluded middle states that:",
+    "options": ["No statement is both true and false", "A statement must be either true or false", "All statements are true", "Some statements are neither true nor false"],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "In propositional logic, the connective '∧' represents:",
+    "options": ["Disjunction (or)", "Conjunction (and)", "Negation (not)", "Implication (if-then)"],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "Modus Ponens is the argument form:",
+    "options": ["P; therefore Q", "If P then Q; P; therefore Q", "If P then Q; not Q; therefore not P", "P or Q; not P; therefore Q"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "The square of opposition in traditional logic shows the relationship between:",
+    "options": ["Premises and conclusions", "A, E, I, and O categorical propositions", "Inductive and deductive reasoning", "Terms and predicates"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "A universal affirmative proposition (A-type) has the form:",
+    "options": ["No S is P", "Some S is P", "All S is P", "Some S is not P"],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "Obversion in traditional logic involves:",
+    "options": ["Converting subject and predicate", "Changing quality and negating the predicate", "Switching premise order", "Negating the subject"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "Symbolic logic was significantly developed by:",
+    "options": ["Aristotle", "Kant", "George Boole and Gottlob Frege", "Plato"],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "Fallacy of affirming the consequent is:",
+    "options": ["If P then Q; Q; therefore P", "If P then Q; P; therefore Q", "Not P; therefore not Q", "P and Q; therefore P"],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "paper": 2,
+    "topic": "Logic",
+    "question": "Predicate logic extends propositional logic by adding:",
+    "options": ["More connectives", "Quantifiers (∀ and ∃)", "New axioms", "Probabilistic truth values"],
+    "answer": 1
+  },
+  {
+    "id": 101,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Deontological ethics judges actions based on:",
+    "options": ["Consequences of the action", "The inherent rightness of the action", "Social contract", "Virtue of the agent"],
+    "answer": 1
+  },
+  {
+    "id": 102,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Consequentialism holds that the moral worth of an action is determined by:",
+    "options": ["Intention", "Duty", "Its outcomes", "Divine command"],
+    "answer": 2
+  },
+  {
+    "id": 103,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Virtue ethics was developed most fully by:",
+    "options": ["Kant", "Bentham", "Aristotle", "Nietzsche"],
+    "answer": 2
+  },
+  {
+    "id": 104,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "The principle of 'Greatest Happiness for the Greatest Number' belongs to:",
+    "options": ["Kantian ethics", "Utilitarianism", "Divine command theory", "Social contract theory"],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Moral relativism holds that:",
+    "options": ["There are universal moral truths", "Morality is objective and absolute", "Moral judgments are relative to cultures or individuals", "God defines morality"],
+    "answer": 2
+  },
+  {
+    "id": 106,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "John Rawls' theory of justice is based on the concept of:",
+    "options": ["Utilitarianism", "Veil of ignorance and original position", "Divine right", "Virtue"],
+    "answer": 1
+  },
+  {
+    "id": 107,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "The Golden Rule 'Do unto others as you would have them do unto you' is a principle of:",
+    "options": ["Egoism", "Altruism and reciprocity", "Nihilism", "Hedonism"],
+    "answer": 1
+  },
+  {
+    "id": 108,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Egoism in ethics holds that:",
+    "options": ["One should act in the interest of others", "Self-interest is the foundation of moral action", "Morality is irrational", "Social harmony is the highest good"],
+    "answer": 1
+  },
+  {
+    "id": 109,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "Non-cognitivism in meta-ethics holds that moral statements:",
+    "options": ["Express objective truths", "Are neither true nor false (express emotions or prescriptions)", "Are defined by God", "Are scientifically verifiable"],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "paper": 2,
+    "topic": "Ethics",
+    "question": "G.E. Moore's 'naturalistic fallacy' refers to:",
+    "options": ["Confusing facts with values", "Deriving 'ought' from 'is'", "Defining goodness in terms of natural properties", "Using nature as a moral guide"],
+    "answer": 2
+  },
+  {
+    "id": 111,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Metaphysics is the branch of philosophy concerned with:",
+    "options": ["Logical analysis", "The nature of reality, being, and existence", "Scientific methodology", "Political organization"],
+    "answer": 1
+  },
+  {
+    "id": 112,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Ontology is the study of:",
+    "options": ["Knowledge", "Being and existence", "Beauty", "Morality"],
+    "answer": 1
+  },
+  {
+    "id": 113,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Substance dualism holds that mind and body are:",
+    "options": ["Identical", "Aspects of one substance", "Two distinct substances", "Both material"],
+    "answer": 2
+  },
+  {
+    "id": 114,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Which philosopher is most associated with substance dualism?",
+    "options": ["Spinoza", "Hobbes", "Descartes", "Leibniz"],
+    "answer": 2
+  },
+  {
+    "id": 115,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Monism holds that reality is ultimately:",
+    "options": ["Dual in nature", "Composed of many substances", "One fundamental substance or principle", "Unknowable"],
+    "answer": 2
+  },
+  {
+    "id": 116,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Leibniz's concept of 'monad' refers to:",
+    "options": ["A single atom", "A simple, indivisible substance that makes up reality", "A divine being", "A form of consciousness"],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "The problem of universals concerns whether:",
+    "options": ["Particular objects exist", "Abstract properties (like redness) exist independently of particulars", "Time is real", "Causation is necessary"],
+    "answer": 1
+  },
+  {
+    "id": 118,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Berkeley's immaterialism holds that:",
+    "options": ["Matter exists independently of mind", "To be is to be perceived (esse est percipi)", "Mind is reducible to matter", "Time and space are absolute"],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "The cosmological argument for God's existence argues from:",
+    "options": ["Design in the universe", "The existence of contingent things to a necessary being", "Moral experience", "Religious experience"],
+    "answer": 1
+  },
+  {
+    "id": 120,
+    "paper": 2,
+    "topic": "Metaphysics",
+    "question": "Causation as a necessary connection was criticized by:",
+    "options": ["Descartes", "Kant", "David Hume", "Leibniz"],
+    "answer": 2
+  },
+  {
+    "id": 121,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Epistemology is the branch of philosophy that studies:",
+    "options": ["The nature of beauty", "The nature, sources, and limits of knowledge", "Ethical principles", "Political structures"],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "The 'Gettier problem' challenges the classical definition of knowledge as:",
+    "options": ["True belief", "Justified true belief", "Certain belief", "Rational belief"],
+    "answer": 1
+  },
+  {
+    "id": 123,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Rationalism holds that the primary source of knowledge is:",
+    "options": ["Sensory experience", "Reason and innate ideas", "Divine revelation", "Social convention"],
+    "answer": 1
+  },
+  {
+    "id": 124,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Foundationalism in epistemology holds that:",
+    "options": ["All beliefs are equally uncertain", "Knowledge rests on basic, self-evident foundational beliefs", "Social consensus determines knowledge", "All knowledge is circular"],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Coherentism holds that a belief is justified if it:",
+    "options": ["Corresponds to an external fact", "Coheres with a system of other beliefs", "Is revealed by God", "Is universally accepted"],
+    "answer": 1
+  },
+  {
+    "id": 126,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Pragmatism, as developed by William James, holds that truth is:",
+    "options": ["Correspondence with reality", "Determined by what is useful or works in practice", "Logically necessary", "Divinely revealed"],
+    "answer": 1
+  },
+  {
+    "id": 127,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Karl Popper's criterion of 'falsifiability' is applied to:",
+    "options": ["Moral theories", "Scientific theories", "Metaphysical claims", "Aesthetic judgments"],
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Solipsism is the view that:",
+    "options": ["Only other minds exist", "Only one's own mind can be known to exist", "All knowledge is social", "God is the only certain reality"],
+    "answer": 1
+  },
+  {
+    "id": 129,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "A priori knowledge is knowledge that is:",
+    "options": ["Dependent on experience", "Independent of experience and known through reason alone", "Based on scientific experiment", "Culturally transmitted"],
+    "answer": 1
+  },
+  {
+    "id": 130,
+    "paper": 2,
+    "topic": "Epistemology",
+    "question": "Kant distinguished between phenomena and noumena, where noumena are:",
+    "options": ["Objects as perceived by the senses", "Things-in-themselves beyond possible experience", "Mathematical objects", "Social constructs"],
+    "answer": 1
+  },
+  {
+    "id": 131,
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "question": "Theism is the belief that:",
+    "options": ["God does not exist", "God exists and is personal and active", "Multiple gods exist", "God is identical with nature"],
+    "answer": 1
+  },
+  {
+    "id": 132,
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "question": "The ontological argument for God's existence was first formulated by:",
+    "options": ["Aquinas", "Descartes", "Anselm of Canterbury", "Kant"],
+    "answer": 2
+  },
+  {
+    "id": 133,
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "question": "The problem of evil challenges the concept of:",
+    "options": ["God's existence combined with omnipotence, omniscience, and benevolence", "The immortality of the soul", "The nature of prayer", "Religious pluralism"],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "question": "Agnosticism holds that:",
+    "options": ["God definitely does not exist", "God definitely exists", "The existence of God is unknown or unknowable", "God is irrelevant"],
+    "answer": 2
+  },
+  {
+    "id": 135,
+    "paper": 2,
+    "topic": "Philosophy of Religion",
+    "question": "The teleological argument (design argument) infers God's existence from:",
+    "options": ["Moral experience", "The existence of the universe", "Order and purpose observed in the world", "Religious authority"],
+    "answer": 2
+  },
+  {
+    "id": 136,
+    "paper": 2,
+    "topic": "Social and Political Philosophy",
+    "question": "The social contract theory was developed by Hobbes, Locke, and:",
+    "options": ["Hegel", "Rousseau", "Marx", "Mill"],
+    "answer": 1
+  },
+  {
+    "id": 137,
+    "paper": 2,
+    "topic": "Social and Political Philosophy",
+    "question": "Hobbes described life in the state of nature as:",
+    "options": ["Peaceful and cooperative", "Solitary, poor, nasty, brutish, and short", "Governed by natural law", "Regulated by moral sentiments"],
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "paper": 2,
+    "topic": "Social and Political Philosophy",
+    "question": "Marx's concept of 'alienation' refers to workers being separated from:",
+    "options": ["Religion", "The product of their labour and their human nature", "Political rights", "Family ties"],
+    "answer": 1
+  },
+  {
+    "id": 139,
+    "paper": 2,
+    "topic": "Social and Political Philosophy",
+    "question": "Liberal political philosophy primarily values:",
+    "options": ["Community over individual", "Individual rights and freedoms", "State control of economy", "Religious governance"],
+    "answer": 1
+  },
+  {
+    "id": 140,
+    "paper": 2,
+    "topic": "Social and Political Philosophy",
+    "question": "Communitarianism (as opposed to liberalism) emphasizes:",
+    "options": ["Individual rights as primary", "The role of community in shaping identity and values", "Free-market capitalism", "Cosmopolitan citizenship"],
+    "answer": 1
+  },
+  {
+    "id": 141,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Postmodernism challenges the idea of:",
+    "options": ["Scientific method", "Grand narratives and universal truths", "Cultural diversity", "Individual subjectivity"],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Deconstruction as a philosophical method is associated with:",
+    "options": ["Foucault", "Derrida", "Lyotard", "Baudrillard"],
+    "answer": 1
+  },
+  {
+    "id": 143,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Feminist philosophy critiques traditional philosophy for being:",
+    "options": ["Too abstract", "Androcentric (male-centered)", "Overly empirical", "Too political"],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "The philosophy of mind debates whether mental states can be reduced to:",
+    "options": ["Social practices", "Physical/brain states", "Logical propositions", "Moral values"],
+    "answer": 1
+  },
+  {
+    "id": 145,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Environmental ethics deals with:",
+    "options": ["Ethics of business", "The moral relationship between humans and the natural environment", "Individual moral development", "International relations"],
+    "answer": 1
+  },
+  {
+    "id": 146,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Analytic philosophy is characterized by:",
+    "options": ["Focus on narrative and hermeneutics", "Emphasis on clarity, logical analysis, and language", "Continental traditions and phenomenology", "Mystical and spiritual themes"],
+    "answer": 1
+  },
+  {
+    "id": 147,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "The 'hard problem of consciousness' was articulated by:",
+    "options": ["Dennett", "Chalmers", "Searle", "Nagel"],
+    "answer": 1
+  },
+  {
+    "id": 148,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Bioethics as a field primarily addresses:",
+    "options": ["Animal behavior", "Ethical issues in medicine and biological research", "Environmental conservation", "Artificial intelligence"],
+    "answer": 1
+  },
+  {
+    "id": 149,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "The Turing Test is a test of:",
+    "options": ["Scientific hypothesis", "Machine's ability to exhibit intelligent behaviour indistinguishable from a human", "Logical consistency", "Emotional intelligence"],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "paper": 2,
+    "topic": "Contemporary Philosophy",
+    "question": "Habermas's theory of 'communicative action' emphasizes:",
+    "options": ["Strategic rational action", "Consensus through rational discourse", "Individual self-interest", "Power and domination"],
+    "answer": 1
+  }
+]
