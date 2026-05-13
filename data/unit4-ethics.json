@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "u4q1",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Meta ethics primarily investigates:",
+    "options": [
+      "Political systems",
+      "Meaning and status of moral judgments",
+      "Religious rituals",
+      "Economic theories"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q2",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Normative ethics is concerned with:",
+    "options": [
+      "What actions are morally right or wrong",
+      "Historical events",
+      "Logical symbolism",
+      "Scientific experimentation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q3",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Applied ethics focuses on:",
+    "options": [
+      "Abstract moral language",
+      "Practical moral issues",
+      "Pure metaphysics",
+      "Formal logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q4",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Kant’s ethical philosophy is generally classified as:",
+    "options": [
+      "Utilitarianism",
+      "Virtue ethics",
+      "Deontological ethics",
+      "Hedonism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q5",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The categorical imperative was formulated by:",
+    "options": [
+      "Bentham",
+      "Mill",
+      "Kant",
+      "Aristotle"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q6",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Kant, an action has moral worth when it is done from:",
+    "options": [
+      "Pleasure",
+      "Duty",
+      "Fear",
+      "Habit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q7",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Jeremy Bentham is closely associated with:",
+    "options": [
+      "Existentialism",
+      "Utilitarianism",
+      "Idealism",
+      "Phenomenology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q8",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bentham’s utilitarianism evaluates actions according to:",
+    "options": [
+      "Intentions",
+      "Consequences",
+      "Religious authority",
+      "Virtue"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q9",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The principle of 'greatest happiness of the greatest number' belongs to:",
+    "options": [
+      "Stoicism",
+      "Utilitarianism",
+      "Existentialism",
+      "Emotivism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q10",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "John Stuart Mill distinguished between:",
+    "options": [
+      "Primary and secondary virtues",
+      "Higher and lower pleasures",
+      "Duty and inclination",
+      "Reason and intuition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q11",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Mill’s version of utilitarianism is often described as:",
+    "options": [
+      "Qualitative utilitarianism",
+      "Absolute idealism",
+      "Ethical egoism",
+      "Natural law theory"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q12",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle’s ethical theory centers on:",
+    "options": [
+      "Consequences",
+      "Duty",
+      "Virtue",
+      "Utility"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q13",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Aristotle, virtue is generally a mean between:",
+    "options": [
+      "Two extremes",
+      "Reason and faith",
+      "Pleasure and pain",
+      "Mind and body"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q14",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The doctrine of the golden mean is associated with:",
+    "options": [
+      "Moore",
+      "Mill",
+      "Bentham",
+      "Aristotle"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "u4q15",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "G.E. Moore argued that 'good' is:",
+    "options": [
+      "Defined by pleasure",
+      "Indefinable",
+      "Purely subjective",
+      "Identical with utility"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q16",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore criticized the attempt to define good in natural terms as:",
+    "options": [
+      "Emotivism",
+      "Naturalistic fallacy",
+      "Relativism",
+      "Determinism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q17",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Hedonism identifies the highest good with:",
+    "options": [
+      "Duty",
+      "Pleasure",
+      "Virtue",
+      "Freedom"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q18",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Duty-based ethics is mainly associated with:",
+    "options": [
+      "Bentham",
+      "Kant",
+      "Mill",
+      "Moore"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q19",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Utilitarian ethics is a form of:",
+    "options": [
+      "Consequentialism",
+      "Deontology",
+      "Intuitionism",
+      "Virtue ethics"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q20",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moral responsibility generally presupposes:",
+    "options": [
+      "Compulsion",
+      "Freedom",
+      "Ignorance",
+      "Determinism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q21",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bioethics deals primarily with ethical issues arising in:",
+    "options": [
+      "Economics",
+      "Medicine and biology",
+      "Mathematics",
+      "Linguistics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q22",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Questions regarding euthanasia and abortion belong mainly to:",
+    "options": [
+      "Meta ethics",
+      "Applied ethics",
+      "Symbolic logic",
+      "Aesthetic theory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q23",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Environmental ethics studies the moral relation between humans and:",
+    "options": [
+      "Technology",
+      "Nature",
+      "Language",
+      "History"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q24",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The view that nature possesses intrinsic value is emphasized in:",
+    "options": [
+      "Environmental ethics",
+      "Logical positivism",
+      "Utilitarianism",
+      "Existentialism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q25",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Kant, human beings should always be treated as:",
+    "options": [
+      "Means only",
+      "Ends in themselves",
+      "Political instruments",
+      "Economic agents"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q26",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Kant distinguished between hypothetical and categorical:",
+    "options": [
+      "Virtues",
+      "Imperatives",
+      "Ideas",
+      "Substances"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q27",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "A hypothetical imperative is dependent upon:",
+    "options": [
+      "Universal law",
+      "Personal goals or desires",
+      "Moral duty alone",
+      "Religious command"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q28",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bentham developed the felicific calculus to measure:",
+    "options": [
+      "Virtue",
+      "Truth",
+      "Pleasure and pain",
+      "Freedom"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q29",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "For Bentham, each person's happiness counts:",
+    "options": [
+      "Equally",
+      "Unequally",
+      "Only politically",
+      "Only legally"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q30",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Mill defended freedom of expression primarily in:",
+    "options": [
+      "Republic",
+      "On Liberty",
+      "Principia Ethica",
+      "Groundwork of the Metaphysics of Morals"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q31",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Mill, intellectual pleasures are generally:",
+    "options": [
+      "Inferior",
+      "Equal to bodily pleasures",
+      "Superior to bodily pleasures",
+      "Morally irrelevant"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q32",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle regarded moral virtue as developed through:",
+    "options": [
+      "Habit",
+      "Revelation",
+      "Instinct",
+      "Punishment"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q33",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The highest human good according to Aristotle is:",
+    "options": [
+      "Pleasure",
+      "Wealth",
+      "Eudaimonia",
+      "Power"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q34",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore’s ethical theory is generally associated with:",
+    "options": [
+      "Intuitionism",
+      "Utilitarianism",
+      "Existentialism",
+      "Stoicism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q35",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The open question argument was advanced by:",
+    "options": [
+      "Kant",
+      "Bentham",
+      "Mill",
+      "Moore"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "u4q36",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Meta ethical emotivism holds that moral judgments primarily express:",
+    "options": [
+      "Facts",
+      "Emotions",
+      "Scientific laws",
+      "Religious truths"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q37",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Normative ethics seeks to establish:",
+    "options": [
+      "Moral standards",
+      "Historical data",
+      "Scientific hypotheses",
+      "Logical formulas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q38",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "An action judged by its consequences reflects:",
+    "options": [
+      "Deontology",
+      "Consequentialism",
+      "Intuitionism",
+      "Asceticism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q39",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Virtue ethics focuses mainly on:",
+    "options": [
+      "Rules",
+      "Consequences",
+      "Character",
+      "Punishment"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q40",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The view that pleasure alone is intrinsically good is called:",
+    "options": [
+      "Utilitarianism",
+      "Hedonism",
+      "Idealism",
+      "Determinism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q41",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Kant, lying is morally wrong because it violates:",
+    "options": [
+      "Utility",
+      "Virtue",
+      "Universal moral law",
+      "Social convention"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q42",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Utilitarianism evaluates morality primarily through:",
+    "options": [
+      "Intentions",
+      "Consequences",
+      "Religious authority",
+      "Tradition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q43",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The doctrine of the mean rejects:",
+    "options": [
+      "Moderation",
+      "Excess and deficiency",
+      "Virtue",
+      "Reason"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q44",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moral responsibility is closely related to:",
+    "options": [
+      "Freedom and intention",
+      "Physical strength",
+      "Economic status",
+      "Religious ritual"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q45",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The principle of autonomy is especially important in:",
+    "options": [
+      "Symbolic logic",
+      "Bioethics",
+      "Metaphysics",
+      "Aesthetics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q46",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Issues concerning genetic engineering are studied in:",
+    "options": [
+      "Meta ethics",
+      "Bioethics",
+      "Virtue ethics",
+      "Political philosophy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q47",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Environmental ethics opposes the purely ______ view of nature.",
+    "options": [
+      "Intrinsic",
+      "Instrumental",
+      "Moral",
+      "Ecological"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q48",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Deep ecology emphasizes:",
+    "options": [
+      "Human-centered values only",
+      "Intrinsic worth of all living beings",
+      "Economic growth",
+      "Scientific neutrality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q49",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Applied ethics includes discussion of:",
+    "options": [
+      "Truth tables",
+      "Medical ethics",
+      "Syllogisms",
+      "Predicate logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q50",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The question 'What does good mean?' belongs mainly to:",
+    "options": [
+      "Applied ethics",
+      "Normative ethics",
+      "Meta ethics",
+      "Political ethics"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q51",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Kant, morality is grounded in:",
+    "options": [
+      "Emotion",
+      "Reason",
+      "Pleasure",
+      "Custom"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q52",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Kant believed a good will is good:",
+    "options": [
+      "Because of its consequences",
+      "Only when rewarded",
+      "In itself",
+      "Only in society"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q53",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bentham regarded pushpin as equal to poetry if it produced equal:",
+    "options": [
+      "Knowledge",
+      "Duty",
+      "Pleasure",
+      "Virtue"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q54",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Mill’s utilitarianism attempts to combine utility with:",
+    "options": [
+      "Quality of pleasures",
+      "Absolute duties",
+      "Religious commandments",
+      "Determinism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q55",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle described humans essentially as:",
+    "options": [
+      "Pleasure-seeking beings",
+      "Political animals",
+      "Economic creatures",
+      "Religious subjects"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q56",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Practical wisdom in Aristotle’s ethics is called:",
+    "options": [
+      "Sophia",
+      "Phronesis",
+      "Logos",
+      "Doxa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q57",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore held that ethical properties are:",
+    "options": [
+      "Natural properties",
+      "Supernatural entities",
+      "Non-natural properties",
+      "Material substances"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q58",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The statement 'Murder is wrong' in emotivism primarily expresses:",
+    "options": [
+      "A scientific fact",
+      "A logical truth",
+      "An emotional attitude",
+      "A mathematical relation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q59",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Normative ethical theories attempt to provide:",
+    "options": [
+      "Historical explanations",
+      "Standards of right conduct",
+      "Scientific predictions",
+      "Political constitutions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q60",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The ethical theory that emphasizes consequences is:",
+    "options": [
+      "Consequentialism",
+      "Deontology",
+      "Intuitionism",
+      "Asceticism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q61",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to virtue ethics, morality is rooted mainly in:",
+    "options": [
+      "Character",
+      "Rules",
+      "Punishment",
+      "Law"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q62",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The doctrine that moral actions should maximize happiness is:",
+    "options": [
+      "Stoicism",
+      "Utilitarianism",
+      "Rationalism",
+      "Phenomenology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q63",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Hedonism regards pain as:",
+    "options": [
+      "An intrinsic good",
+      "Morally neutral",
+      "An intrinsic evil",
+      "A social construct"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q64",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "An action performed knowingly and freely is usually considered:",
+    "options": [
+      "Morally irresponsible",
+      "Morally responsible",
+      "Legally invalid",
+      "Emotionally determined"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q65",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The principle of beneficence in bioethics refers to:",
+    "options": [
+      "Avoiding harm",
+      "Doing good",
+      "Maintaining secrecy",
+      "Protecting autonomy only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q66",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The principle of non-maleficence means:",
+    "options": [
+      "Respect autonomy",
+      "Avoid causing harm",
+      "Maximize profit",
+      "Promote legal authority"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q67",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Environmental ethics challenges:",
+    "options": [
+      "Anthropocentrism",
+      "Virtue",
+      "Logic",
+      "Phenomenology"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q68",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The belief that only humans possess intrinsic value is called:",
+    "options": [
+      "Biocentrism",
+      "Ecocentrism",
+      "Anthropocentrism",
+      "Naturalism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q69",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Applied ethics became especially important due to developments in:",
+    "options": [
+      "Ancient mythology",
+      "Science and technology",
+      "Symbolic logic",
+      "Poetry"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q70",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Questions concerning animal rights belong mainly to:",
+    "options": [
+      "Environmental ethics",
+      "Formal logic",
+      "Epistemology",
+      "Aesthetic theory"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q71",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to Kant, moral laws must possess:",
+    "options": [
+      "Universality",
+      "Pleasure",
+      "Popularity",
+      "Tradition"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q72",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bentham’s ethics is primarily:",
+    "options": [
+      "Duty-based",
+      "Consequence-based",
+      "Virtue-based",
+      "Faith-based"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q73",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Mill argued that competent judges prefer:",
+    "options": [
+      "Lower pleasures",
+      "Higher pleasures",
+      "Equal pleasures",
+      "No pleasures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q74",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle linked virtue closely with:",
+    "options": [
+      "Habitual practice",
+      "Economic success",
+      "Mysticism",
+      "Asceticism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q75",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore’s Principia Ethica is an important work in:",
+    "options": [
+      "Political philosophy",
+      "Meta ethics",
+      "Phenomenology",
+      "Symbolic logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q76",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Kant maintained that moral duties are binding because they arise from:",
+    "options": [
+      "Social customs",
+      "Pure reason",
+      "Religious authority",
+      "Political power"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q77",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The first formulation of the categorical imperative emphasizes:",
+    "options": [
+      "Pleasure",
+      "Universalizability",
+      "Economic utility",
+      "Social approval"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q78",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Bentham considered the moral value of an action to depend upon:",
+    "options": [
+      "Motive alone",
+      "Consequences in terms of pleasure and pain",
+      "Religious intention",
+      "Habit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q79",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Mill’s utilitarianism differs from Bentham’s mainly because Mill emphasized:",
+    "options": [
+      "Asceticism",
+      "Higher and lower pleasures",
+      "Absolute duties",
+      "Religious morality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q80",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle’s ethics is teleological because it is oriented toward:",
+    "options": [
+      "Universal law",
+      "Consequences only",
+      "An ultimate end or purpose",
+      "Religious revelation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q81",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The virtue lying between rashness and cowardice is:",
+    "options": [
+      "Temperance",
+      "Justice",
+      "Courage",
+      "Wisdom"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q82",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore argued that the question 'Is pleasure good?' remains open because:",
+    "options": [
+      "Good cannot be scientifically tested",
+      "Good is indefinable",
+      "Pleasure is unreal",
+      "Morality is subjective"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q83",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The naturalistic fallacy consists in defining:",
+    "options": [
+      "Pleasure through reason",
+      "Good in natural terms",
+      "Duty through law",
+      "Virtue through religion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q84",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Ethical egoism maintains that one ought to pursue:",
+    "options": [
+      "Universal happiness",
+      "The interests of others only",
+      "One’s own self-interest",
+      "Religious salvation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q85",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The statement 'Stealing is wrong' expresses approval or disapproval according to:",
+    "options": [
+      "Naturalism",
+      "Emotivism",
+      "Idealism",
+      "Determinism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q86",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Deontological theories judge actions mainly by:",
+    "options": [
+      "Consequences",
+      "Intentions and duties",
+      "Economic benefit",
+      "Psychological effects"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q87",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Virtue ethics asks primarily:",
+    "options": [
+      "What rule should I obey?",
+      "What consequences will occur?",
+      "What kind of person should I become?",
+      "What law should govern society?"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q88",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "According to hedonism, pleasure is:",
+    "options": [
+      "Intrinsically valuable",
+      "Morally irrelevant",
+      "Always irrational",
+      "Politically determined"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q89",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "An individual acting under complete coercion may lack:",
+    "options": [
+      "Knowledge",
+      "Moral responsibility",
+      "Desire",
+      "Social status"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q90",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The four major principles of bioethics include autonomy, beneficence, non-maleficence, and:",
+    "options": [
+      "Utility",
+      "Justice",
+      "Asceticism",
+      "Authority"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q91",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The principle of justice in bioethics concerns:",
+    "options": [
+      "Distribution of benefits and burdens",
+      "Religious purity",
+      "Political sovereignty",
+      "Scientific certainty"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q92",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Environmental ethics criticizes the view that nature exists only for:",
+    "options": [
+      "Ecological balance",
+      "Human use",
+      "Scientific inquiry",
+      "Animal welfare"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q93",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Biocentrism holds that:",
+    "options": [
+      "Only humans have value",
+      "All living beings possess intrinsic worth",
+      "Only ecosystems matter",
+      "Nature has instrumental value alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q94",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The debate on capital punishment belongs primarily to:",
+    "options": [
+      "Applied ethics",
+      "Meta ethics",
+      "Symbolic logic",
+      "Ontology"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u4q95",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "The study of the meaning of moral language belongs to:",
+    "options": [
+      "Normative ethics",
+      "Applied ethics",
+      "Meta ethics",
+      "Legal ethics"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q96",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Kant rejected actions based merely on:",
+    "options": [
+      "Reason",
+      "Good will",
+      "Inclination",
+      "Duty"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q97",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Utilitarianism seeks to maximize:",
+    "options": [
+      "Virtue",
+      "Happiness",
+      "Authority",
+      "Asceticism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q98",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Aristotle believed that virtue requires:",
+    "options": [
+      "Extreme behavior",
+      "Practical wisdom",
+      "Mystical insight",
+      "Withdrawal from society"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u4q99",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Moore’s intuitionism claims that moral truths are known through:",
+    "options": [
+      "Sense perception",
+      "Scientific experiments",
+      "Moral intuition",
+      "Religious revelation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u4q100",
+    "paper": 2,
+    "topic": "Ethics",
+    "difficulty": "medium",
+    "question": "Climate change is a major concern within:",
+    "options": [
+      "Symbolic logic",
+      "Environmental ethics",
+      "Meta ethics",
+      "Rationalism"
+    ],
+    "answer": 1
+  }
+]

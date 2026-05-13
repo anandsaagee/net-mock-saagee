@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "u9q1",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "easy",
+    "question": "Sartre's famous existentialist claim is:",
+    "options": [
+      "Essence precedes existence",
+      "Existence precedes essence",
+      "Existence and essence are simultaneous",
+      "Essence determines existence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q2",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "easy",
+    "question": "Sartre held that humans are 'condemned to be':",
+    "options": [
+      "Rational",
+      "Free",
+      "Social beings",
+      "Moral"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q3",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "easy",
+    "question": "Phenomenology is primarily the study of:",
+    "options": [
+      "Physical phenomena",
+      "Structures of conscious experience from the first-person perspective",
+      "Social structures",
+      "Language and meaning"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q4",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "easy",
+    "question": "Husserl is regarded as the founder of:",
+    "options": [
+      "Existentialism",
+      "Phenomenology",
+      "Logical positivism",
+      "Structuralism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q5",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "easy",
+    "question": "Heidegger's major work on Being and existence is:",
+    "options": [
+      "Being and Nothingness",
+      "Being and Time",
+      "Critique of Pure Reason",
+      "The Phenomenology of Spirit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q6",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "easy",
+    "question": "Postmodernism is generally skeptical of:",
+    "options": [
+      "Individual experience",
+      "Grand narratives (metanarratives) and universal truths",
+      "Scientific methods",
+      "Historical analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q7",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "easy",
+    "question": "Logical positivism was associated with the:",
+    "options": [
+      "Frankfurt School",
+      "Vienna Circle",
+      "Cambridge School",
+      "Berlin Circle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q8",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "easy",
+    "question": "'Angst' in existentialist philosophy refers to:",
+    "options": [
+      "Physical pain",
+      "Existential anxiety about freedom and responsibility",
+      "Moral guilt",
+      "Social alienation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q9",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "easy",
+    "question": "Derrida's main philosophical method is called:",
+    "options": [
+      "Phenomenology",
+      "Deconstruction",
+      "Dialectics",
+      "Hermeneutics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q10",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "easy",
+    "question": "Foucault's analysis of power focuses on:",
+    "options": [
+      "State military power",
+      "Diffuse power relations embedded in knowledge, institutions, and discourse",
+      "Economic class power",
+      "Individual willpower"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q11",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "easy",
+    "question": "Ordinary language philosophy held that many philosophical problems arise from:",
+    "options": [
+      "Lack of logic",
+      "Misuse or misunderstanding of ordinary language",
+      "Empirical ignorance",
+      "Poor scientific method"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q12",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "easy",
+    "question": "The verification principle holds that meaningful statements are either analytic or:",
+    "options": [
+      "Moral",
+      "Empirically verifiable",
+      "Religious",
+      "Pragmatically useful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q13",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "easy",
+    "question": "Structuralism holds that phenomena are best understood in terms of:",
+    "options": [
+      "Individual consciousness",
+      "Underlying structures and systems of relations",
+      "Historical development",
+      "Material conditions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q14",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "easy",
+    "question": "Heidegger's term 'Dasein' refers to:",
+    "options": [
+      "Pure consciousness",
+      "Human being — the kind of being for whom being is a question",
+      "The physical world",
+      "Social existence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q15",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "easy",
+    "question": "For Sartre, bad faith (mauvaise foi) involves:",
+    "options": [
+      "Moral corruption",
+      "Denying one's radical freedom and responsibility",
+      "Inauthenticity through social conformity alone",
+      "Religious self-deception"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q16",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "easy",
+    "question": "Intentionality in phenomenology means that consciousness is always:",
+    "options": [
+      "Intentionally planned",
+      "Directed toward or about something",
+      "Free and undetermined",
+      "Rational"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q17",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "easy",
+    "question": "Foucault's 'Discipline and Punish' analyzes the shift from public punishment to:",
+    "options": [
+      "Capital punishment",
+      "Surveillance and normalization in prisons and society",
+      "Restorative justice",
+      "Community service"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q18",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "easy",
+    "question": "Jean-François Lyotard defined postmodernism as 'incredulity towards':",
+    "options": [
+      "Science",
+      "Metanarratives",
+      "Individual experience",
+      "Religion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q19",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "easy",
+    "question": "Albert Camus is associated with which related philosophy?",
+    "options": [
+      "Stoicism",
+      "Absurdism",
+      "Nihilism",
+      "Pragmatism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q20",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "easy",
+    "question": "Saussure's distinction between langue and parole refers to:",
+    "options": [
+      "Written and spoken language",
+      "The language system (langue) and individual speech acts (parole)",
+      "Formal and informal language",
+      "Grammar and vocabulary"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q21",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Heidegger's concept of 'thrownness' (Geworfenheit) refers to:",
+    "options": [
+      "Being thrown into the future",
+      "Finding oneself always already in a world, culture, and situation not of one's choosing",
+      "Being thrown out of society",
+      "The structure of temporality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q22",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "medium",
+    "question": "Sartre's distinction between 'being-in-itself' and 'being-for-itself' maps onto:",
+    "options": [
+      "Matter and spirit",
+      "The fixed being of things vs. the self-creating being of consciousness",
+      "Body and mind",
+      "Freedom and necessity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q23",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "medium",
+    "question": "Husserl's method of 'epoché' involves:",
+    "options": [
+      "Systematic doubt like Descartes",
+      "Bracketing (suspending) the natural attitude — the assumption that the world exists independently",
+      "Linguistic analysis",
+      "Empirical observation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q24",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "medium",
+    "question": "Heidegger's 'being-in-the-world' challenges Cartesian dualism by insisting that:",
+    "options": [
+      "Mind and body are separate",
+      "Dasein is always already practically engaged in a world — there is no inner subject facing an outer world",
+      "The world is a mental construction",
+      "Consciousness is the primary reality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q25",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "medium",
+    "question": "A.J. Ayer argued that ethical statements are:",
+    "options": [
+      "Objectively true or false",
+      "Meaningless",
+      "Emotive expressions of approval or disapproval (emotivism)",
+      "A priori truths"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u9q26",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "medium",
+    "question": "Derrida's concept of 'différance' shows that meaning is:",
+    "options": [
+      "Fixed and present",
+      "Always deferred and produced through differences — never fully present",
+      "Created by intentions",
+      "Determined by grammar"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q27",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "medium",
+    "question": "Foucault's concept of 'discourse' refers to:",
+    "options": [
+      "Ordinary conversation",
+      "Systems of knowledge and power that govern what can be said, thought, and done in a domain",
+      "Literary texts only",
+      "Scientific theory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q28",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "medium",
+    "question": "Lévi-Strauss applied structural analysis to myth, arguing myths express:",
+    "options": [
+      "Historical facts",
+      "Universal binary oppositions resolving social contradictions",
+      "Religious doctrines",
+      "Individual narratives"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q29",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "Baudrillard's concept of 'simulacra' refers to:",
+    "options": [
+      "Computer simulations",
+      "Copies without an original — signs that no longer refer to any underlying reality",
+      "Virtual reality",
+      "Propaganda"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q30",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "Merleau-Ponty's phenomenology emphasizes the role of:",
+    "options": [
+      "Pure consciousness",
+      "The lived body as the primary site of experience and perception",
+      "Language in constituting experience",
+      "Social structures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q31",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "The existentialist concept of 'authenticity' involves:",
+    "options": [
+      "Following social norms",
+      "Owning one's existence, choices, and finitude without self-deception",
+      "Religious devotion",
+      "Rational self-governance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q32",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "medium",
+    "question": "The 'protocol sentences' (Protokollsätze) in logical positivism are:",
+    "options": [
+      "Mathematical axioms",
+      "Basic observational reports that serve as the foundation for all scientific claims",
+      "Analytic truths",
+      "Logical tautologies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q33",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "medium",
+    "question": "For Sartre, the 'Other' (l'Autre) threatens the subject by:",
+    "options": [
+      "Offering new freedoms",
+      "The gaze — objectifying consciousness and potentially reducing the subject to an object",
+      "Sharing one's freedom",
+      "Creating intersubjective solidarity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q34",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "medium",
+    "question": "Foucault's 'genealogy' (drawing on Nietzsche) investigates:",
+    "options": [
+      "Origins of ideas as logical developments",
+      "Contingent historical conditions that produced present institutions and truths",
+      "Evolution of political systems",
+      "Foundations of scientific knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q35",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "medium",
+    "question": "Heidegger's concept of 'care' (Sorge) is the fundamental structure of Dasein because:",
+    "options": [
+      "Humans care about others emotionally",
+      "Care unifies the temporal structure of Dasein's existence: being-ahead-of-itself, already-in-a-world, being-amidst entities",
+      "Care is a moral virtue",
+      "It motivates all human action"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q36",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "medium",
+    "question": "Post-structuralism moved beyond structuralism primarily by:",
+    "options": [
+      "Accepting fixed structures",
+      "Questioning the stability and closure of structural systems and the idea of a stable centre",
+      "Applying structuralism to more domains",
+      "Focusing on deeper universal structures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q37",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "medium",
+    "question": "Derrida's critique of 'logocentrism' argues that Western philosophy has:",
+    "options": [
+      "Overvalued empirical science",
+      "Privileged speech over writing and presence over absence, treating meaning as fully present in the logos",
+      "Neglected material conditions",
+      "Ignored social context"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q38",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "medium",
+    "question": "The 'lifeworld' (Lebenswelt) in Husserl's late philosophy refers to:",
+    "options": [
+      "The biological world of organisms",
+      "The pre-theoretical world of everyday lived experience that underlies all scientific abstraction",
+      "The social world of culture",
+      "The economic world of production"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q39",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Kierkegaard's 'stages on life's way' include the aesthetic, ethical, and:",
+    "options": [
+      "Political",
+      "Religious",
+      "Philosophical",
+      "Social"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q40",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "Fredric Jameson characterizes postmodernism as the 'cultural logic of':",
+    "options": [
+      "Modernism",
+      "Late capitalism",
+      "Post-industrialism",
+      "Globalization"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q41",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "medium",
+    "question": "Ryle's concept of a 'category mistake' is illustrated by:",
+    "options": [
+      "Asking to see the university after seeing all its buildings and departments",
+      "Asking to see the soul after describing the body",
+      "Asking to see the general will after describing all individual wills",
+      "Asking to see the mind after describing the brain"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u9q42",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "medium",
+    "question": "Foucault's 'bio-power' (biopower) refers to:",
+    "options": [
+      "The power of biological organisms",
+      "Power that governs and regulates human populations as biological entities",
+      "Individual physical strength",
+      "Military power over bodies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q43",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "medium",
+    "question": "Heidegger's 'forgetfulness of Being' means:",
+    "options": [
+      "We have forgotten God",
+      "Western philosophy has focused on beings while neglecting to ask the fundamental question of Being itself",
+      "Humans are forgetful by nature",
+      "Being is unknowable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q44",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "medium",
+    "question": "Neurath's 'boat' metaphor illustrates the view that:",
+    "options": [
+      "All knowledge rests on foundational observation",
+      "We must rebuild our knowledge like a ship at sea — one plank at a time, with no dry dock; no belief is unrevisable",
+      "Knowledge is circular",
+      "Science requires a fixed foundation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q45",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "Heidegger's transformation of Husserl's phenomenology shifts focus from:",
+    "options": [
+      "Ethics to logic",
+      "Consciousness and intentionality to the question of Being and the structures of Dasein",
+      "Epistemology to aesthetics",
+      "Individual to social phenomena"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q46",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Simone de Beauvoir's existentialist feminism argues that:",
+    "options": [
+      "Women's nature is biologically determined",
+      "Woman is not born but made — she is 'made' through social construction and internalized oppression",
+      "Existentialism is gender-neutral",
+      "Authentic existence is only possible for men"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q47",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "medium",
+    "question": "The deconstructive strategy of reversing and displacing binary oppositions involves:",
+    "options": [
+      "Eliminating both poles",
+      "First reversing the hierarchy, then showing the opposition is unstable and cannot be simply maintained",
+      "Creating new oppositions",
+      "Defending the original hierarchy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q48",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "medium",
+    "question": "Althusser's 'symptomatic reading' of Marx involves:",
+    "options": [
+      "Literal interpretation",
+      "Reading for absences and gaps — what the text cannot say but shows in its silences and problematics",
+      "Historical contextualisation",
+      "Comparing Marx to other thinkers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q49",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "The postmodern critique of the 'subject' attacks:",
+    "options": [
+      "The existence of persons",
+      "The unified, autonomous, rational subject of Enlightenment philosophy as a historical and ideological construction",
+      "Political subjectivity",
+      "The concept of individual rights"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q50",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "medium",
+    "question": "Heidegger's 'ready-to-hand' (Zuhanden) contrasts with 'present-at-hand' (Vorhanden) in that:",
+    "options": [
+      "Ready-to-hand entities are spatially near",
+      "Ready-to-hand is the mode of engaged, transparent tool-use; present-at-hand is the detached theoretical mode",
+      "Present-at-hand is the practical mode",
+      "They apply to different kinds of objects"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q51",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "medium",
+    "question": "The Duhem-Quine thesis challenges logical positivism by showing:",
+    "options": [
+      "Observation is theory-neutral",
+      "Individual hypotheses face experience only in conjunction with auxiliary assumptions — falsification of a single hypothesis is impossible",
+      "All scientific statements are meaningful",
+      "Logic does not apply to science"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q52",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "medium",
+    "question": "Sartre's concept of 'radical freedom' holds that even in the worst situation humans:",
+    "options": [
+      "Have limited choices",
+      "Always retain the freedom to choose their attitude and response — even in captivity",
+      "Are determined by their past",
+      "Lack freedom under oppression"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q53",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "medium",
+    "question": "The 'panopticon' (Bentham/Foucault) is significant because:",
+    "options": [
+      "It maximizes punishment",
+      "The possibility of being watched at any time disciplines behavior without continuous surveillance",
+      "It rehabilitates prisoners",
+      "It separates prisoners efficiently"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q54",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "Richard Rorty's pragmatist postmodernism advocates replacing 'truth' with:",
+    "options": [
+      "Power",
+      "Solidarity and what is good for us to believe",
+      "Pleasure",
+      "Consensus science"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q55",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "The phenomenological reduction aims to reveal:",
+    "options": [
+      "The external world",
+      "Pure transcendental consciousness and its intentional structures once the natural attitude is bracketed",
+      "The subconscious",
+      "Social structures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q56",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Merleau-Ponty challenged Sartre's dualism between being-in-itself and being-for-itself by:",
+    "options": [
+      "Accepting the dualism",
+      "Arguing the lived body breaks this dualism — we are neither pure consciousness nor pure things",
+      "Denying consciousness",
+      "Embracing materialism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q57",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "medium",
+    "question": "Grice's theory of 'conversational implicature' explains how:",
+    "options": [
+      "Language is structurally determined",
+      "Speakers communicate more than the literal meaning of their words through cooperative maxims",
+      "Language games work",
+      "Meaning is verified by experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q58",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "medium",
+    "question": "Derrida's critique of Austin in 'Limited Inc' argues that Austin's theory fails to account for:",
+    "options": [
+      "Performative utterances",
+      "The essential possibility of iterability and citation — any utterance can be 'quoted', removing the speaker's presence Austin requires",
+      "Locutionary acts",
+      "The role of convention"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q59",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "medium",
+    "question": "Barthes' 'death of the author' declares that once a text is written:",
+    "options": [
+      "Its meaning is fixed by authorial intention",
+      "The author's intention is irrelevant — the text generates its own meanings through the reader",
+      "It belongs to the publisher",
+      "Meaning is determined by historical context"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q60",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "Lyotard's 'differend' describes a conflict where:",
+    "options": [
+      "Different cultures disagree",
+      "One party's wrong cannot be expressed in the other's idiom — no shared rule of judgment exists",
+      "Scientific and humanistic discourses conflict",
+      "Two arguments are equally valid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q61",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "medium",
+    "question": "Husserl's 'transcendental idealism' holds that objects as experienced are constituted by:",
+    "options": [
+      "The empirical brain",
+      "Transcendental consciousness — the acts of consciousness constitute the sense (but not the existence) of objects",
+      "Language and culture",
+      "Social practice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q62",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "medium",
+    "question": "In 'The Order of Things', Foucault's 'episteme' refers to:",
+    "options": [
+      "Individual knowledge",
+      "The underlying unconscious structure that determines what counts as knowledge in a given historical period",
+      "Scientific method",
+      "The sum of all knowledge in an era"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q63",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "medium",
+    "question": "Heidegger's 'being-toward-death' means authentic existence requires:",
+    "options": [
+      "Fear of death",
+      "Acknowledging one's own death as the outermost, non-relational, certain possibility that individualizes Dasein",
+      "Denying mortality",
+      "Religious hope in afterlife"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q64",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "medium",
+    "question": "Schlick argued that only the structural form of scientific knowledge is communicable because:",
+    "options": [
+      "Content is communicable",
+      "The content of experience cannot be transmitted — only form is inter-subjectively sharable",
+      "Forms are prior to content",
+      "Logical form determines content"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q65",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "medium",
+    "question": "Austin's illocutionary act is:",
+    "options": [
+      "The physical sounds made",
+      "The act performed in saying something (e.g., promising, warning, asserting)",
+      "The effect produced in the hearer",
+      "The conventional meaning of the words"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q66",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "medium",
+    "question": "Heidegger's 'critique of technology' argues that modern technology reveals the world as:",
+    "options": [
+      "A collection of objects",
+      "Bestand — a 'standing reserve' to be ordered and optimized, concealing Being",
+      "Something to be contemplated aesthetically",
+      "Naturally given and independent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q67",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "medium",
+    "question": "Foucault broke with structuralism by rejecting:",
+    "options": [
+      "The importance of discourse",
+      "Ahistorical universal structures in favour of historical discontinuity and contingency (genealogy)",
+      "The role of power",
+      "The study of institutions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q68",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "medium",
+    "question": "Derrida's concept of the 'trace' holds that:",
+    "options": [
+      "Writing leaves physical marks",
+      "No element of language has presence in itself; each is constituted by traces of other elements",
+      "Language refers to pre-linguistic reality",
+      "Meaning requires presence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q69",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "medium",
+    "question": "Gianni Vattimo's 'weak thought' (pensiero debole) advocates:",
+    "options": [
+      "Stronger metaphysical foundations",
+      "Abandoning strong metaphysics in favour of less totalizing, more humble forms of thinking",
+      "Relativism without limits",
+      "Scientific positivism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q70",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "medium",
+    "question": "Levinas' phenomenology makes ethics the 'first philosophy' by arguing that:",
+    "options": [
+      "The self is primary",
+      "The Face of the Other calls me to unconditional responsibility — ethics precedes ontology",
+      "The ethical is reducible to ontology",
+      "The Other is an object of experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q71",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "medium",
+    "question": "Sartre's Marxist work 'Critique of Dialectical Reason' attempts to reconcile existentialism with:",
+    "options": [
+      "Liberalism",
+      "Historical materialism",
+      "Structuralism",
+      "Phenomenology alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q72",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "hard",
+    "question": "Husserl's 'genetic' phenomenology (vs 'static') investigates:",
+    "options": [
+      "Individual mental acts",
+      "How intentional structures are constituted and transformed through time and sedimented history",
+      "The logical structure of consciousness",
+      "Intersubjective constitution"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q73",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "hard",
+    "question": "Heidegger's 'event of appropriation' (Ereignis) in his later thought refers to:",
+    "options": [
+      "Historical events",
+      "The mutual co-belonging and enownment of Being and human Dasein — the 'happening' in which both come into their own",
+      "Technology's appropriation of nature",
+      "The overcoming of metaphysics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q74",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "hard",
+    "question": "Derrida's 'hauntology' (from 'Spectres of Marx') introduces the idea that:",
+    "options": [
+      "Marxism is obsolete",
+      "Presence is haunted by what is absent, past, or future — justice as the promise of what is 'to come' exceeds presence",
+      "History is haunted by failed revolutions",
+      "Materialism requires ghost-theory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q75",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "hard",
+    "question": "Foucault's 'care of the self' (souci de soi) constitutes a counter-politics because:",
+    "options": [
+      "It returns to ancient selfishness",
+      "It recovers practices of self-formation that resist normalizing power — ethics as an aesthetics of existence irreducible to subjection",
+      "It abandons political analysis",
+      "It promotes individualism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q76",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "hard",
+    "question": "Lyotard's 'paralogy' (in 'The Postmodern Condition') refers to:",
+    "options": [
+      "Logical fallacy",
+      "The production of new moves, rules, and 'little narratives' that disrupt consensus — the legitimating principle of postmodern science",
+      "Political paralysis",
+      "Multiple competing metanarratives"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q77",
+    "paper": 2,
+    "topic": "Sartre",
+    "difficulty": "hard",
+    "question": "The 'practico-inert' in Sartre's 'Critique of Dialectical Reason' refers to:",
+    "options": [
+      "Inert matter",
+      "Past human praxis crystallized in material conditions that turns back against living human freedom as an alien constraint",
+      "Dead labor in the Marxist sense",
+      "Collective unconscious inertia"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q78",
+    "paper": 2,
+    "topic": "Logical Positivism",
+    "difficulty": "hard",
+    "question": "Hempel's 'raven paradox' (paradox of confirmation) arises because:",
+    "options": [
+      "Ravens are too complex to study",
+      "By classical equivalence, 'all ravens are black' is confirmed by non-black non-ravens, which seems paradoxical",
+      "Not all ravens are black",
+      "Confirmation theory is circular"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q79",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "hard",
+    "question": "Lacan's structural psychoanalysis reformulates the unconscious as:",
+    "options": [
+      "A biological drive mechanism",
+      "Structured like a language — the unconscious is constituted by the differential relations of signifiers",
+      "A repository of repressed images",
+      "A social construction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q80",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "hard",
+    "question": "Strawson's 'descriptive metaphysics' in 'Individuals' holds that metaphysics can be done by:",
+    "options": [
+      "Pure a priori reasoning",
+      "Analyzing the deepest structural features of our thought about the world as revealed in our basic conceptual scheme",
+      "Empirical investigation",
+      "Linguistic therapy alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q81",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "hard",
+    "question": "Heidegger's 'ontological difference' between Being (Sein) and beings (Seiendes) is significant because:",
+    "options": [
+      "Being is the highest being (God)",
+      "Forgetting this difference is the deepest error of metaphysics — Being cannot be treated as a being or property of beings",
+      "It establishes dualism",
+      "Beings are more fundamental"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q82",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "hard",
+    "question": "Derrida's 'aporia' of hospitality argues that unconditional hospitality is:",
+    "options": [
+      "Always achievable",
+      "Both required and impossible — any real hospitality is conditional; a productive impossibility",
+      "A political programme",
+      "A Christian virtue"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q83",
+    "paper": 2,
+    "topic": "Phenomenology",
+    "difficulty": "hard",
+    "question": "Husserl's 'intersubjectivity' through 'analogical apperception' (Einfühlung) faces the problem that:",
+    "options": [
+      "Other minds are directly accessible",
+      "We cannot directly experience another's consciousness but only appresent it by analogy from our own embodied experience",
+      "All experience is shared",
+      "The Other is constituted by language"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q84",
+    "paper": 2,
+    "topic": "Postmodernism",
+    "difficulty": "hard",
+    "question": "Agamben's 'state of exception' (drawing on Schmitt and Foucault) argues that modern sovereignty is grounded in:",
+    "options": [
+      "Constitutional order",
+      "The suspension of law — the exception that is inclusive-exclusive (bare life included by being excluded from legal protection)",
+      "Democratic legitimacy",
+      "Economic relations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q85",
+    "paper": 2,
+    "topic": "Foucault",
+    "difficulty": "hard",
+    "question": "Foucault's 'archaeological' method analyses discourse at the level of:",
+    "options": [
+      "Individual propositions and authors",
+      "Discursive formations — the rules that determine what statements can be made, by whom, in which positions, in a given period",
+      "Deep grammar",
+      "Social institutions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q86",
+    "paper": 2,
+    "topic": "Structuralism",
+    "difficulty": "hard",
+    "question": "Jakobson's distinction between 'metaphor' and 'metonymy' as two fundamental axes of language influenced:",
+    "options": [
+      "Saussure's linguistics",
+      "Lacan's psychoanalytic theory and Lévi-Strauss' structural analysis",
+      "Chomsky's generative grammar",
+      "Wittgenstein's language games"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q87",
+    "paper": 2,
+    "topic": "Husserl",
+    "difficulty": "hard",
+    "question": "Husserl's 'time-consciousness' analysis shows the present moment (primal impression) is always accompanied by:",
+    "options": [
+      "Memory and imagination",
+      "Retention (just-past) and protention (about-to-come), making the now an extended, non-instantaneous moment",
+      "Past memories only",
+      "Future expectations only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q88",
+    "paper": 2,
+    "topic": "Heidegger",
+    "difficulty": "hard",
+    "question": "In 'The Origin of the Work of Art', Heidegger argues that great art:",
+    "options": [
+      "Represents nature accurately",
+      "Opens up and establishes a world while setting forth the earth — the strife between world and earth discloses truth as unconcealment (aletheia)",
+      "Expresses individual genius",
+      "Provides aesthetic pleasure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q89",
+    "paper": 2,
+    "topic": "Linguistic Philosophy",
+    "difficulty": "hard",
+    "question": "Dummett's anti-realist semantics grounds meaning in:",
+    "options": [
+      "Truth conditions",
+      "Assertibility conditions — what counts as warranted assertion; meaning is its proof/verification condition",
+      "Social use alone",
+      "Reference to objects"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q90",
+    "paper": 2,
+    "topic": "Existentialism",
+    "difficulty": "hard",
+    "question": "Sartre's claim that 'consciousness is nothing' (le néant) means:",
+    "options": [
+      "Consciousness does not exist",
+      "Consciousness is not a thing — it is a negating activity that can detach from any given situation by nihilating it",
+      "Consciousness is unconscious at base",
+      "Nothingness precedes being"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u9q91",
+    "paper": 2,
+    "topic": "Derrida",
+    "difficulty": "hard",
+    "question": "Derrida's 'grammatology' argues for a 'science of writing' because:",
+    "options": [
+      "Writing is prior to speech historically",
+      "The assumptions governing the subordination of writing to speech actually govern all signification including speech — writing is an 'arche-writing'",
+      "Writing is more logical than speech",
+      "Writing can be studied scientifically"
+    ],
+    "answer": 1
+  }
+]

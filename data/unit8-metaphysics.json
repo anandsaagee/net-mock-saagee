@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "u8q1",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "easy",
+    "question": "Hard determinism holds that free will is:",
+    "options": [
+      "Compatible with determinism",
+      "An illusion because all events are causally determined",
+      "A spiritual faculty",
+      "A result of quantum indeterminacy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q2",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "easy",
+    "question": "Causal determinism is the view that every event:",
+    "options": [
+      "Is random",
+      "Is caused by prior events according to natural laws",
+      "Is freely chosen",
+      "Is a result of quantum fluctuations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q3",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "easy",
+    "question": "Substance dualism holds that mind and body are:",
+    "options": [
+      "Identical",
+      "Two distinct kinds of substance",
+      "Both material",
+      "Both immaterial"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q4",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "easy",
+    "question": "Locke's criterion for personal identity is:",
+    "options": [
+      "Bodily continuity",
+      "Psychological continuity (memory)",
+      "Numerical identity of the soul",
+      "Genetic identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q5",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "easy",
+    "question": "Hume's analysis of causation reduces it to:",
+    "options": [
+      "Necessary connection between events",
+      "Constant conjunction, contiguity, and temporal priority",
+      "Logical entailment",
+      "Teleological purpose"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q6",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "easy",
+    "question": "Aristotle's concept of substance (ousia) refers to:",
+    "options": [
+      "Pure matter",
+      "An individual thing that is the subject of predicates",
+      "Abstract form alone",
+      "Universal concepts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q7",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "easy",
+    "question": "Newton's view of space was:",
+    "options": [
+      "Relational — space is defined by relations between objects",
+      "Absolute — space exists independently of objects within it",
+      "Subjective — space is a form of intuition",
+      "Conventional — space is a useful fiction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q8",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "easy",
+    "question": "Compatibilism holds that free will is:",
+    "options": [
+      "Incompatible with determinism",
+      "Compatible with determinism",
+      "Only possible in an indeterministic universe",
+      "An illusion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q9",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "easy",
+    "question": "Physicalism about the mind holds that mental states are:",
+    "options": [
+      "Distinct from physical states",
+      "Identical to or dependent on physical/brain states",
+      "Causally inert",
+      "Purely social constructs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q10",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "easy",
+    "question": "The Ship of Theseus paradox concerns:",
+    "options": [
+      "Free will",
+      "Numerical identity through change of parts",
+      "Mind-body problem",
+      "Causation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q11",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "easy",
+    "question": "Einstein's theory of relativity showed that space and time are:",
+    "options": [
+      "Absolute and independent",
+      "Relative and interconnected as spacetime",
+      "Purely subjective",
+      "Non-existent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q12",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "easy",
+    "question": "Laplace's demon is a thought experiment about:",
+    "options": [
+      "The existence of supernatural beings",
+      "Perfect predictability given complete knowledge of initial conditions",
+      "The problem of evil",
+      "The limits of human cognition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q13",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "easy",
+    "question": "Descartes distinguished res cogitans (thinking thing) from:",
+    "options": [
+      "Res vera (true thing)",
+      "Res extensa (extended thing/matter)",
+      "Res divina (divine thing)",
+      "Res naturalis (natural thing)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q14",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "easy",
+    "question": "The philosophical zombie thought experiment argues against:",
+    "options": [
+      "Dualism",
+      "Physicalism — a zombie is physically identical to a human but lacks consciousness",
+      "Free will",
+      "Personal identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q15",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "easy",
+    "question": "Libertarianism about free will (philosophical) holds that:",
+    "options": [
+      "Free will is an illusion",
+      "We have free will and determinism is false",
+      "Free will is compatible with determinism",
+      "Free will requires indeterminism but we lack it"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q16",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "easy",
+    "question": "A cause that is necessary for its effect means:",
+    "options": [
+      "The cause always produces the effect",
+      "Without the cause, the effect would not occur",
+      "The cause and effect are simultaneous",
+      "The cause is sufficient for the effect"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q17",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "easy",
+    "question": "Parfit argues that what matters in survival is not identity itself but:",
+    "options": [
+      "Psychological continuity",
+      "Physical continuity",
+      "Psychological connectedness and continuity without identity",
+      "Memory alone"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u8q18",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "easy",
+    "question": "Ontology is the branch of metaphysics concerned with:",
+    "options": [
+      "The theory of knowledge",
+      "The study of what exists and the nature of being",
+      "The theory of causation",
+      "The study of time"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q19",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "easy",
+    "question": "Monism holds that ultimately reality consists of:",
+    "options": [
+      "Two fundamental substances",
+      "One fundamental substance or type",
+      "Many independent substances",
+      "No substance at all"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q20",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "easy",
+    "question": "Kant held that space and time are:",
+    "options": [
+      "Objective features of the world",
+      "Pure forms of sensible intuition that structure experience",
+      "Divine creations",
+      "Purely conventional concepts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q21",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Epiphenomenalism holds that mental states are caused by physical states but:",
+    "options": [
+      "Also cause physical states",
+      "Are causally inert — they do not cause anything",
+      "Are identical to physical states",
+      "Exist independently of the body"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q22",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "The consequence argument (van Inwagen) holds that if determinism is true:",
+    "options": [
+      "We are still free",
+      "We could not have done otherwise — free will is incompatible with determinism",
+      "Freedom is redefined rather than denied",
+      "Compatibilism is vindicated"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q23",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Counterfactual theories of causation (Lewis) define causation as:",
+    "options": [
+      "Constant conjunction",
+      "C caused E iff if C had not occurred, E would not have occurred",
+      "Causal necessity",
+      "Probabilistic raising"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q24",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "The psychological continuity theory faces the 'fission problem' when:",
+    "options": [
+      "Memory is gradually lost",
+      "One person's psychology splits into two, creating two candidates for identity",
+      "The body changes completely",
+      "Mental illness disrupts continuity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q25",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Trope theory holds that properties are:",
+    "options": [
+      "Universal and abstract",
+      "Particular instances (tropes) — this redness here, not redness in general",
+      "Mental constructs",
+      "Purely conventional"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q26",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "medium",
+    "question": "Hard incompatibilism is the view that neither determinism nor indeterminism provides the basis for:",
+    "options": [
+      "Causal explanation",
+      "Moral responsibility and robust free will",
+      "Scientific prediction",
+      "Personal identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q27",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "The relational theory of space (Leibniz) holds that space is:",
+    "options": [
+      "Absolute and independent of objects",
+      "A set of possible relations between objects — nothing over and above those relations",
+      "A subjective form of intuition",
+      "A divine creation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q28",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Type identity theory holds that mental state types are:",
+    "options": [
+      "Identical to specific neural state types",
+      "Multiply realizable",
+      "Causally inert",
+      "Distinct substances"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u8q29",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Hume's 'necessary connexion' between cause and effect is:",
+    "options": [
+      "Logically necessary",
+      "A feature of the world as it is in itself",
+      "A psychological projection — we feel necessity because of custom and habit",
+      "Determined by natural kinds"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u8q30",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "Frankfurt cases challenge the principle of alternate possibilities (PAP) by describing cases where:",
+    "options": [
+      "A person acts freely without alternatives",
+      "An agent is determined but still free",
+      "A person has alternatives but is not free",
+      "Freedom requires indeterminism"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u8q31",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "The narrative theory of personal identity holds that the self is constituted by:",
+    "options": [
+      "Biological continuity",
+      "A coherent narrative one tells about oneself",
+      "An immaterial soul",
+      "Memory alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q32",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Bundle theory of the self (Hume) holds that the self is:",
+    "options": [
+      "A unifying substance",
+      "A bundle of perceptions without an underlying self",
+      "An immaterial soul",
+      "Defined by the body"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q33",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "medium",
+    "question": "Compatibilists typically define free will as:",
+    "options": [
+      "Acting without any prior cause",
+      "Acting in accordance with one's own desires and reasons without external compulsion",
+      "Acting unpredictably",
+      "Acting from divine grace"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q34",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Functionalism holds that mental states are defined by:",
+    "options": [
+      "Their neural substrate",
+      "Their functional roles — causal relations to inputs, outputs, and other mental states",
+      "Their phenomenal character",
+      "Their evolutionary origins"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q35",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "The 'A-theory' of time holds that there is an objective:",
+    "options": [
+      "Block universe with no privileged present",
+      "Flow of time — past, present, and future are real and distinct",
+      "Four-dimensional manifold",
+      "Relational structure only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q36",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Probabilistic theories of causation hold that a cause:",
+    "options": [
+      "Necessitates its effect",
+      "Raises the probability of its effect",
+      "Determines its effect logically",
+      "Merely precedes its effect"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q37",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "Reactive attitudes (Strawson) are important for free will because:",
+    "options": [
+      "They track causal chains",
+      "They constitute our practice of holding responsible — independent of the truth of determinism",
+      "They presuppose libertarian free will",
+      "They are cognitive rather than emotional"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q38",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Universals can be wholly present in multiple instances simultaneously, distinguishing them from:",
+    "options": [
+      "Properties",
+      "Particulars",
+      "Events",
+      "Relations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q39",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "Animalism (Olson) holds that we are:",
+    "options": [
+      "Persons defined by psychology",
+      "Fundamentally human animals — biological organisms",
+      "Souls or immaterial minds",
+      "Social constructs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q40",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Property dualism holds that there is only one substance (matter) but:",
+    "options": [
+      "It has two distinct causal powers",
+      "Mental properties are irreducible to and distinct from physical properties",
+      "Mind causes body but not vice versa",
+      "Consciousness is an illusion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q41",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "The problem of overdetermination for counterfactual theories arises when:",
+    "options": [
+      "There are too many effects",
+      "Two independent sufficient causes both produce an effect, so neither satisfies the counterfactual condition alone",
+      "Causes are simultaneous with effects",
+      "Effects precede causes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q42",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "The B-theory (eternalism) holds that past, present, and future:",
+    "options": [
+      "Flow dynamically",
+      "Are equally real — there is no objective 'now'",
+      "Only the present exists",
+      "The future is open and unreal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q43",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "medium",
+    "question": "Quantum indeterminism shows that at the subatomic level events are:",
+    "options": [
+      "Perfectly predictable",
+      "Inherently probabilistic and not determined",
+      "Determined but unpredictable",
+      "Irrelevant to free will"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q44",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "The 'no-branching' constraint in psychological continuity theories holds that:",
+    "options": [
+      "Identity is not transitive",
+      "Personal identity requires the psychological continuity relation to hold uniquely — no branching allowed",
+      "Two people can share an identity",
+      "Identity is not what matters"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q45",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Nominalism about universals holds that:",
+    "options": [
+      "Universals exist independently",
+      "Only particular things exist; 'universal' terms are names we apply to similar things",
+      "Properties exist as abstract objects",
+      "Every entity is unique"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q46",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "The inverted qualia thought experiment argues that:",
+    "options": [
+      "Qualia are identical to brain states",
+      "Two people could be functionally identical yet have systematically different qualia",
+      "Phenomenal consciousness is an illusion",
+      "Functionalism is correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q47",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "Manipulation arguments against compatibilism (Pereboom) argue that:",
+    "options": [
+      "Manipulation is morally permitted",
+      "A person manipulated to behave as a compatibilist requires still seems unfree, challenging compatibilism",
+      "Compatibilism handles manipulation cases well",
+      "Manipulation creates genuine freedom"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q48",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Salmon's mechanistic account holds that causation involves:",
+    "options": [
+      "Constant conjunction only",
+      "Transmission of a conserved physical quantity (energy, momentum) via causal processes",
+      "Logical necessity",
+      "Counterfactual dependence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q49",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "Presentism holds that only:",
+    "options": [
+      "The future exists",
+      "The past exists",
+      "The present exists — past and future are unreal",
+      "Past, present, and future all exist equally"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u8q50",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "Mereology is the study of:",
+    "options": [
+      "Measurement and quantity",
+      "Part-whole relations",
+      "Identity and difference",
+      "Possibility and necessity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q51",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Aristotle's notion of form (morphe) holds that form:",
+    "options": [
+      "Is purely mental",
+      "Gives matter its specific nature and makes it a particular kind of thing",
+      "Is prior to matter",
+      "Exists independently of matter"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q52",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Occasionalism (Malebranche) holds that God is:",
+    "options": [
+      "Identical to the mind",
+      "The intermediary cause of all mind-body interactions — mind and body do not directly interact",
+      "The material cause of all events",
+      "Knowable only through consciousness"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q53",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "Kant held that the transcendental unity of apperception is:",
+    "options": [
+      "An empirical fact about the brain",
+      "A necessary condition for unified experience — not a substance but a logical form",
+      "An immortal soul",
+      "A social construct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q54",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Backward causation is considered problematic because it:",
+    "options": [
+      "Violates the second law of thermodynamics",
+      "Seems to violate temporal asymmetry and creates causal loops threatening determinism",
+      "Is logically self-contradictory",
+      "Is empirically well-established"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q55",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "medium",
+    "question": "Soft determinism is another term for:",
+    "options": [
+      "Hard determinism",
+      "Compatibilism",
+      "Libertarianism (philosophical)",
+      "Indeterminism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q56",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Neural correlates of consciousness (NCCs) are:",
+    "options": [
+      "Causes of consciousness",
+      "The minimal neural mechanisms sufficient for any one specific conscious experience",
+      "Identical to consciousness",
+      "Epiphenomenal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q57",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "Agent causation (Chisholm, O'Connor) holds that:",
+    "options": [
+      "Events cause other events",
+      "Agents — not just events — can be irreducible causes, initiating causal chains",
+      "Causes are always prior events",
+      "Agent causation is equivalent to event causation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q58",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Four-dimensionalism (perdurantism) holds that objects persist through time by having:",
+    "options": [
+      "A single three-dimensional form at each moment",
+      "Distinct temporal parts at different times",
+      "No temporal properties",
+      "Identical properties at all times"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q59",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "The grandfather paradox arises in discussions of:",
+    "options": [
+      "The block universe",
+      "Time travel and its potential for causal contradictions",
+      "Absolute time",
+      "The A-series vs B-series"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q60",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "Modal realism (David Lewis) holds that possible worlds are:",
+    "options": [
+      "Abstract logical constructs",
+      "Concrete realities as real as the actual world",
+      "Mental constructions",
+      "Theoretical fictions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q61",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Mackie's INUS condition holds that a cause is an:",
+    "options": [
+      "Individually necessary and universally sufficient condition",
+      "Insufficient but Non-redundant part of an Unnecessary but Sufficient condition",
+      "Independently Necessary and Unique Sufficient condition",
+      "Inferential and Non-causal Unconditional Sufficiency condition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q62",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "medium",
+    "question": "Psychological continuity (Parfit) requires connectedness (direct overlapping memory chains) and:",
+    "options": [
+      "Genetic identity",
+      "Continuity (long chains of overlapping connections)",
+      "Physical continuity",
+      "Personality sameness"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q63",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "The 'knowledge argument' (Mary's Room — Jackson) argues that:",
+    "options": [
+      "Physical knowledge is complete",
+      "Mary learns something new when she first sees red — therefore physicalism is false",
+      "Color experience is reducible to physics",
+      "Thought experiments are unreliable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q64",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Spinoza's monism holds that God and Nature (Deus sive Natura) are:",
+    "options": [
+      "Two distinct substances",
+      "One infinite substance with infinite attributes",
+      "Mental constructs only",
+      "Causally but not ontologically identical"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q65",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "medium",
+    "question": "Fatalism differs from determinism in that fatalism holds:",
+    "options": [
+      "Future events are determined by prior causes",
+      "Future events are inevitable regardless of what actions one takes",
+      "Some events are not caused",
+      "Free will is real"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q66",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "medium",
+    "question": "Zeno's arrow paradox challenges our understanding of:",
+    "options": [
+      "Causation",
+      "Motion — if at every instant an arrow is at rest, how can it move?",
+      "Substance",
+      "Personal identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q67",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "medium",
+    "question": "Armstrong's combinatorial theory of possibility holds that possible worlds are:",
+    "options": [
+      "Concrete universes",
+      "Recombinations of actually existing individuals and properties",
+      "Fictional constructs",
+      "God's thoughts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q68",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "medium",
+    "question": "The 'sourcehood' requirement for moral responsibility holds that:",
+    "options": [
+      "Actions must be caused by prior events",
+      "An agent must be the ultimate originating source of their actions",
+      "Responsibility requires determinism",
+      "Actions need not be caused"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q69",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "medium",
+    "question": "Eliminative materialism (Churchland) holds that folk psychological concepts like 'belief':",
+    "options": [
+      "Are vindicated by neuroscience",
+      "Will be eliminated and replaced by mature neuroscience",
+      "Are irreducible",
+      "Refer to genuinely mental entities"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q70",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "medium",
+    "question": "Causal exclusion problem (Kim) argues that if mental properties are non-identical to physical properties but physical properties are causally complete:",
+    "options": [
+      "Mental causation is vindicated",
+      "Mental properties are causally excluded — they cannot be genuine causes",
+      "Dualism is true",
+      "Physical causation is incomplete"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q71",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "medium",
+    "question": "Essentialism holds that objects have:",
+    "options": [
+      "All merely accidental properties",
+      "Some essential (without which the object would not exist as the kind it is) and some accidental properties",
+      "All essential properties",
+      "Purely mind-dependent properties"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q72",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "hard",
+    "question": "Chalmers' 'hard problem of consciousness' is hard because:",
+    "options": [
+      "Neuroscience is underdeveloped",
+      "Even a complete functional/physical explanation leaves unexplained why there is subjective experience at all",
+      "Consciousness is too complex to measure",
+      "The problem requires new mathematical tools"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q73",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "hard",
+    "question": "Derk Pereboom's 'four-case manipulation argument' aims to show that:",
+    "options": [
+      "Compatibilism is the best theory",
+      "No difference between the cases is morally relevant, so all undermine responsibility, including ordinary determinism",
+      "Manipulation destroys freedom in all cases",
+      "Agent causation solves the problem"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q74",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "hard",
+    "question": "Jonathan Schaffer's 'contrastive causation' holds that causal statements have the form:",
+    "options": [
+      "C caused E",
+      "C rather than C* caused E rather than E* (causation is contrastive rather than binary)",
+      "C necessarily produced E",
+      "C is a probability-raiser for E"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q75",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "hard",
+    "question": "Sydney Shoemaker's 'quasi-memory' (q-memory) avoids circularity because:",
+    "options": [
+      "Memory is unreliable",
+      "Genuine memory presupposes personal identity; q-memory does not — it need not be one's own past experience",
+      "Identity cannot be analyzed",
+      "All memory is quasi-memory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q76",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "hard",
+    "question": "Jonathan Lowe's 'four-category ontology' posits which four fundamental categories?",
+    "options": [
+      "Objects, events, facts, and properties",
+      "Substantial kinds, individual substances, attributes, and modes (individual property instances)",
+      "Particulars, universals, sets, and facts",
+      "Matter, form, space, and time"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q77",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "hard",
+    "question": "Putnam's argument for eternalism from special relativity holds that because simultaneity is relative:",
+    "options": [
+      "The past does not exist",
+      "If what exists now is real and simultaneity is relative, there can be no objective global present — everything exists",
+      "Time is subjective",
+      "Relativity entails presentism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q78",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "hard",
+    "question": "Fischer's 'reasons-responsiveness' compatibilism holds that moral responsibility requires:",
+    "options": [
+      "The ability to have done otherwise in the same world",
+      "The mechanism producing the action to be reasons-responsive — responsive to reasons in nearby possible worlds",
+      "Complete freedom from causal determination",
+      "Agent causation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q79",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "hard",
+    "question": "Higher-order theories of consciousness (Rosenthal) hold that a mental state is conscious iff:",
+    "options": [
+      "It is a brain state",
+      "It is accompanied by a suitable higher-order mental state that represents it",
+      "It is accessible to introspection",
+      "It plays a functional role"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q80",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "hard",
+    "question": "Pearl's structural causal model (SCM) and 'do-calculus' allow:",
+    "options": [
+      "Simpler correlation analysis",
+      "Formal distinction between observational and interventional (causal) claims and identification of causal effects from observational data",
+      "Elimination of causal language",
+      "Probabilistic but not causal inference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q81",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "hard",
+    "question": "Sider's 'writing the book of the world' neo-Quinean view holds that metaphysics is about:",
+    "options": [
+      "Conceptual analysis",
+      "Which terms 'carve nature at its joints' — structure the world in a fundamental, non-arbitrary way",
+      "Empirical science",
+      "Pragmatic usefulness of theories"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q82",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "hard",
+    "question": "The problem of 'too many thinkers' (Olson) arises for psychological continuity theories because:",
+    "options": [
+      "Memory is imprecise",
+      "Where one person sits, there is also a co-located person-candidate — too many thinkers in the chair",
+      "Psychological continuity is indeterminate",
+      "Persons lack fixed criteria"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q83",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "hard",
+    "question": "The hole argument (Earman and Norton) against substantivalism about spacetime shows that:",
+    "options": [
+      "Space is relational",
+      "General relativity commits the substantivalist to underdetermination — the metric field at spacetime points is not fixed by all matter distribution facts",
+      "General relativity presupposes absolute space",
+      "Spacetime points are unreal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q84",
+    "paper": 2,
+    "topic": "Free Will",
+    "difficulty": "hard",
+    "question": "Robert Kane's 'self-forming actions' (SFAs) provide the basis for ultimate responsibility by being:",
+    "options": [
+      "Random quantum events",
+      "Actions at indeterminate moments where the agent's effort of will settles an open future, making the agent the author of their character",
+      "Spontaneous uncaused choices",
+      "Choices determined by reasons alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q85",
+    "paper": 2,
+    "topic": "Causation",
+    "difficulty": "hard",
+    "question": "The problem of 'trumping preemption' (Schaffer) is a counterexample to counterfactual theories because:",
+    "options": [
+      "There are too many causes",
+      "When two sufficient causes exist and one 'trumps' the other, the trumped cause is a cause without counterfactual dependence",
+      "Counterfactuals are indeterminate",
+      "The problem arises from overdetermination"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q86",
+    "paper": 2,
+    "topic": "Mind-Body Problem",
+    "difficulty": "hard",
+    "question": "Integrated Information Theory (IIT, Tononi) measures consciousness as:",
+    "options": [
+      "Brain complexity",
+      "Φ (phi) — the amount of integrated information generated by a system above the sum of its parts",
+      "Functional organization",
+      "Neural firing rate"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q87",
+    "paper": 2,
+    "topic": "Substance",
+    "difficulty": "hard",
+    "question": "Fine's 'ontological dependence' grounds the distinction between fundamental and derivative entities by:",
+    "options": [
+      "Supervenience",
+      "Essence — x is ontologically dependent on y iff it is part of the essence of x that y exists",
+      "Causation",
+      "Composition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q88",
+    "paper": 2,
+    "topic": "Personal Identity",
+    "difficulty": "hard",
+    "question": "Marya Schechtman's 'narrative self-constitution view' argues persons are defined by:",
+    "options": [
+      "Psychological continuity alone",
+      "An internalized narrative that constitutes the content of psychological states and gives practical identity needed for survival",
+      "Bodily continuity",
+      "Biological life"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q89",
+    "paper": 2,
+    "topic": "Metaphysics",
+    "difficulty": "hard",
+    "question": "Grounding (Fine, Schaffer) as a metaphysical relation differs from causation and supervenience because:",
+    "options": [
+      "It is a causal relation",
+      "It is a non-causal explanatory relation of metaphysical dependence — explaining what is metaphysically prior",
+      "It is empirically detectable",
+      "It implies identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q90",
+    "paper": 2,
+    "topic": "Determinism",
+    "difficulty": "hard",
+    "question": "Van Inwagen's consequence argument uses the beta rule (transfer of powerlessness), which is controversial because:",
+    "options": [
+      "The argument is valid and sound",
+      "Some compatibilists deny the beta rule, arguing agents can act on conditional abilities even if they cannot change the laws or past",
+      "The rule is logically invalid",
+      "Determinism is false"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u8q91",
+    "paper": 2,
+    "topic": "Space and Time",
+    "difficulty": "hard",
+    "question": "Tense logic (Prior) formalizes the A-theory by introducing temporal operators. The key ontological commitment is that:",
+    "options": [
+      "All times are equally real",
+      "The present is metaphysically privileged — reality is tensed and temporal passage is objective",
+      "Past and future are symmetric",
+      "Space and time are reducible to causation"
+    ],
+    "answer": 1
+  }
+]

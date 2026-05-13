@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "u6q1",
+    "paper": 2,
+    "topic": "Ontological",
+    "difficulty": "easy",
+    "question": "The ontological argument was first formulated by:",
+    "options": [
+      "Thomas Aquinas",
+      "Anselm of Canterbury",
+      "Descartes",
+      "Kant"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q2",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "easy",
+    "question": "The cosmological argument argues that God exists as the:",
+    "options": [
+      "Perfect being",
+      "First cause of the universe",
+      "Ground of moral values",
+      "Designer of the world"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q3",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "easy",
+    "question": "The teleological argument is also known as the argument from:",
+    "options": [
+      "First cause",
+      "Design",
+      "Morality",
+      "Consciousness"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q4",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "easy",
+    "question": "The problem of evil questions God's existence because evil seems inconsistent with God being:",
+    "options": [
+      "Eternal and infinite",
+      "All-powerful, all-knowing, and all-good",
+      "A personal creator",
+      "Transcendent and immanent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q5",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "easy",
+    "question": "Fideism is the view that religious belief:",
+    "options": [
+      "Must be rationally justified",
+      "Is independent of and superior to reason",
+      "Requires empirical evidence",
+      "Contradicts faith"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q6",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "easy",
+    "question": "Polytheism is the belief in:",
+    "options": [
+      "One God",
+      "Many gods",
+      "No god",
+      "An impersonal absolute"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q7",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "easy",
+    "question": "William James identified religious experience as characterized by:",
+    "options": [
+      "Intellectual argument",
+      "Ineffability, noetic quality, transience, and passivity",
+      "Social ritual",
+      "Moral transformation only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q8",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "easy",
+    "question": "The via negativa (apophatic theology) describes God by stating:",
+    "options": [
+      "What God is",
+      "What God is not",
+      "God's positive qualities",
+      "God's relationship with creation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q9",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "easy",
+    "question": "Paley's watchmaker analogy is an example of which argument?",
+    "options": [
+      "Cosmological",
+      "Ontological",
+      "Teleological",
+      "Moral"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q10",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "easy",
+    "question": "Monotheism is the belief in:",
+    "options": [
+      "Many gods",
+      "No god",
+      "One God",
+      "An impersonal universe"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q11",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "easy",
+    "question": "Thomas Aquinas believed that faith and reason are:",
+    "options": [
+      "Contradictory",
+      "Separate and incompatible",
+      "Complementary",
+      "Identical"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q12",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "easy",
+    "question": "Natural evil refers to suffering caused by:",
+    "options": [
+      "Human wrongdoing",
+      "Natural events like earthquakes and disease",
+      "Demonic forces",
+      "Social injustice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q13",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "easy",
+    "question": "Mystical experience typically involves a sense of:",
+    "options": [
+      "Clear rational argument",
+      "Unity with the divine or ultimate reality",
+      "Social belonging",
+      "Moral obligation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q14",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "easy",
+    "question": "Darwin's theory of evolution is often seen as challenging the:",
+    "options": [
+      "Cosmological argument",
+      "Ontological argument",
+      "Teleological argument",
+      "Moral argument"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q15",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "easy",
+    "question": "Atheism is the position that:",
+    "options": [
+      "God's existence is unknown",
+      "God does not exist",
+      "God is unknowable",
+      "Multiple gods exist"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q16",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "easy",
+    "question": "Aquinas' Five Ways are arguments for:",
+    "options": [
+      "The existence of the soul",
+      "The existence of God",
+      "The nature of evil",
+      "The immortality of God"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q17",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "easy",
+    "question": "Analogical language about God uses:",
+    "options": [
+      "Literal descriptions",
+      "Terms applied to God in a related but not identical way",
+      "Purely negative descriptions",
+      "Scientific terminology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q18",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "easy",
+    "question": "Agnosticism is the view that:",
+    "options": [
+      "God definitely exists",
+      "God definitely does not exist",
+      "The existence of God is unknown or unknowable",
+      "God is irrelevant"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q19",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "easy",
+    "question": "Moral evil refers to suffering caused by:",
+    "options": [
+      "Natural disasters",
+      "Human free choices",
+      "Divine punishment",
+      "Cosmic accident"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q20",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "easy",
+    "question": "The moral argument for God claims objective morality requires:",
+    "options": [
+      "Social consensus",
+      "A divine lawgiver",
+      "Evolutionary foundations",
+      "Legal systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q21",
+    "paper": 2,
+    "topic": "Ontological",
+    "difficulty": "medium",
+    "question": "Anselm defines God as 'that than which nothing greater can be conceived' and argues such a being:",
+    "options": [
+      "Cannot logically exist",
+      "Must exist in reality because existence in reality is greater than in thought alone",
+      "Exists only in the mind",
+      "Is unknowable to reason"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q22",
+    "paper": 2,
+    "topic": "Ontological",
+    "difficulty": "medium",
+    "question": "Kant's critique of the ontological argument is that:",
+    "options": [
+      "Existence is not a predicate",
+      "God cannot be conceived of",
+      "The argument is circular",
+      "Anselm's definition is incoherent"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u6q23",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "The Kalam cosmological argument argues that the universe:",
+    "options": [
+      "Has always existed",
+      "Had a beginning and therefore has a cause",
+      "Is self-sustaining",
+      "Requires no explanation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q24",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "Leibniz's cosmological argument is based on the principle of:",
+    "options": [
+      "Causality alone",
+      "Sufficient reason",
+      "Non-contradiction",
+      "Simplicity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q25",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "medium",
+    "question": "Hume's critique of the design argument in 'Dialogues Concerning Natural Religion' is primarily:",
+    "options": [
+      "The universe had no beginning",
+      "The analogy between a watch and the universe is weak and disanalogous",
+      "God is not powerful enough",
+      "Evolution proves design"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q26",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "A theodicy is:",
+    "options": [
+      "A proof of God's existence",
+      "A defense of God's goodness in the face of evil",
+      "An argument against religion",
+      "A type of religious experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q27",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "Irenaeus' theodicy argues that evil exists because:",
+    "options": [
+      "God is not omnipotent",
+      "Humans need to develop spiritually and morally (soul-making)",
+      "Evil is an illusion",
+      "God tests humans arbitrarily"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q28",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "Augustine's theodicy explains evil as:",
+    "options": [
+      "Created by God for a purpose",
+      "The privation of good resulting from the Fall",
+      "Necessary for free will",
+      "An independent force opposing God"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q29",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "Pascal's Wager argues that belief in God is rational because:",
+    "options": [
+      "God's existence is philosophically proven",
+      "The expected utility of belief outweighs the cost if God might exist",
+      "Faith is independent of reason",
+      "Religious experience proves God exists"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q30",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "medium",
+    "question": "The principle of credulity (Swinburne) states that:",
+    "options": [
+      "Religious experience is always genuine",
+      "We should believe experiences are genuine unless there is specific reason to doubt them",
+      "Only scientific experience is reliable",
+      "Religious claims must be verifiable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q31",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Logical Positivists claimed that religious language is:",
+    "options": [
+      "Cognitively meaningful but false",
+      "Cognitively meaningful and true",
+      "Cognitively meaningless",
+      "Metaphorically true"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q32",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "The verification principle holds that a statement is meaningful only if:",
+    "options": [
+      "It is logically self-evident",
+      "It can be verified by sense experience",
+      "It is part of a religious tradition",
+      "It is practically useful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q33",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Pantheism identifies God with:",
+    "options": [
+      "A personal creator separate from the world",
+      "The entire universe or nature",
+      "A transcendent being beyond creation",
+      "The human moral conscience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q34",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "medium",
+    "question": "The fine-tuning argument is a modern version of the:",
+    "options": [
+      "Cosmological argument",
+      "Ontological argument",
+      "Teleological argument",
+      "Moral argument"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q35",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "J.L. Mackie argued that the existence of evil constitutes a:",
+    "options": [
+      "Practical problem for believers",
+      "Logical contradiction with theism",
+      "Merely emotional objection",
+      "Problem only for Christianity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q36",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "Kierkegaard's 'leap of faith' suggests that faith:",
+    "options": [
+      "Is based on rational evidence",
+      "Involves a subjective commitment that transcends reason",
+      "Is compatible with scientific proof",
+      "Must be justified philosophically"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q37",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "medium",
+    "question": "The argument from religious experience claims widespread reports provide:",
+    "options": [
+      "Proof of God",
+      "Some evidential support for God's existence",
+      "No evidence at all",
+      "Evidence only for specific religions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q38",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "Hume's challenge to the cosmological argument suggests:",
+    "options": [
+      "Everything must have a cause including God",
+      "The cause of the universe need not be God",
+      "Causation is not a real relation",
+      "The universe is uncaused"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q39",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "medium",
+    "question": "The anthropic principle as a response to fine-tuning claims:",
+    "options": [
+      "The universe was designed for humans",
+      "We could only observe a universe compatible with our existence",
+      "God fine-tuned the universe",
+      "Physics disproves fine-tuning"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q40",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "R.M. Hare's concept of a 'blik' is:",
+    "options": [
+      "A logical argument",
+      "An unfalsifiable attitude through which we interpret experience",
+      "A form of religious ritual",
+      "A type of prayer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q41",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Deism holds that God:",
+    "options": [
+      "Is personally involved in history",
+      "Created the world but does not intervene in it",
+      "Is identical to the universe",
+      "Does not exist"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q42",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "Plantinga's free will defense argues God could not create:",
+    "options": [
+      "A perfect world",
+      "Free beings who always choose good",
+      "An omniscient being other than himself",
+      "A universe without natural laws"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q43",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "medium",
+    "question": "Aquinas' 'First Way' (motion) argues from motion to:",
+    "options": [
+      "An eternal universe",
+      "An unmoved mover",
+      "A designing intelligence",
+      "Moral necessity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q44",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Flew's falsification challenge asserts that religious claims:",
+    "options": [
+      "Are empirically testable",
+      "Die 'the death of a thousand qualifications'",
+      "Are purely poetic expressions",
+      "Must be verified to be meaningful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q45",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "Tertullian's 'Credo quia absurdum' represents:",
+    "options": [
+      "Rationalism",
+      "Fideism",
+      "Natural theology",
+      "Evidentialist theism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q46",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "medium",
+    "question": "The noetic quality of religious experience means it:",
+    "options": [
+      "Is purely emotional",
+      "Conveys knowledge or insight to the experiencer",
+      "Can be publicly verified",
+      "Lasts indefinitely"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q47",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Transcendence in religious contexts means God is:",
+    "options": [
+      "Present within the world",
+      "Beyond and independent of the natural world",
+      "Equivalent to human consciousness",
+      "A social construct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q48",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "medium",
+    "question": "Richard Swinburne's version of the teleological argument relies on:",
+    "options": [
+      "Biological complexity only",
+      "Inductive reasoning and inference to the best explanation",
+      "Deductive certainty",
+      "Personal religious experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q49",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "The 'logical' vs 'evidential' problem of evil differ in that:",
+    "options": [
+      "Not philosophically significant",
+      "The logical problem claims evil is logically incompatible with God; the evidential that evil makes God improbable",
+      "They are the same argument",
+      "The evidential problem is stronger logically"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q50",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "Reformed epistemology (Plantinga) holds that belief in God is:",
+    "options": [
+      "Based on natural theology arguments",
+      "A properly basic belief requiring no further justification",
+      "Irrational without evidence",
+      "Dependent on scripture alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q51",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Rudolf Otto's concept of the 'numinous' refers to:",
+    "options": [
+      "Rational theology",
+      "The mysterious, awesome, and fascinating character of the sacred",
+      "Moral religious duty",
+      "Social religious practice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q52",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'language games' applied to religion suggests:",
+    "options": [
+      "Religious language is meaningless",
+      "Religious language follows its own internal grammar and cannot be judged by scientific criteria",
+      "Religious language is a subset of scientific language",
+      "Religion needs new language"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q53",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "The cosmological argument's premise 'everything has a cause' faces which objection?",
+    "options": [
+      "It proves too much",
+      "Why can't the universe itself be the uncaused cause?",
+      "Causation is a category error at the cosmic level",
+      "God cannot be a cause"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q54",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "Soul-making theodicy was developed by:",
+    "options": [
+      "John Hick",
+      "Alvin Plantinga",
+      "Richard Swinburne",
+      "William Alston"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u6q55",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "medium",
+    "question": "'Intelligent Design' argues biological complexity implies:",
+    "options": [
+      "Evolutionary processes",
+      "An intelligent designer beyond natural processes",
+      "A random origin of life",
+      "Theistic evolution"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q56",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "medium",
+    "question": "The argument from consciousness argues physical processes cannot explain:",
+    "options": [
+      "The complexity of the brain",
+      "Subjective conscious experience (qualia)",
+      "Animal behavior",
+      "Language acquisition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q57",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "medium",
+    "question": "The main challenge to the evidential force of religious experience is:",
+    "options": [
+      "Their rarity",
+      "The diversity and contradictory content of such experiences across traditions",
+      "They are always self-induced",
+      "They involve no cognitive content"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q58",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Durkheim's sociological account defines the sacred as:",
+    "options": [
+      "Whatever God commands",
+      "That which the community sets apart and treats with special respect",
+      "Supernatural entities",
+      "Moral rules"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q59",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "Evidentialist theism holds that belief in God is rational only if:",
+    "options": [
+      "It is based on immediate experience",
+      "It is supported by sufficient evidence or argument",
+      "It is traditional",
+      "It produces moral behavior"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q60",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Univocal language applied to God means using words:",
+    "options": [
+      "Negatively",
+      "In exactly the same sense as applied to humans",
+      "In an analogical sense",
+      "In symbolic and non-literal ways"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q61",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "The 'fallacy of composition' objection to the cosmological argument means:",
+    "options": [
+      "Each premise is false",
+      "What is true of each part need not be true of the whole — the universe may lack a cause even if each part has one",
+      "The argument is circular",
+      "Causation applies differently at different scales"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q62",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "medium",
+    "question": "The multiverse hypothesis is offered as an alternative to fine-tuning because:",
+    "options": [
+      "It proves there is no God",
+      "With enough universes, any set of constants will occur by chance",
+      "It is religiously neutral",
+      "It simplifies cosmological theory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q63",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "Natural evil presents a special problem for theodicy because:",
+    "options": [
+      "It is morally worse than moral evil",
+      "It cannot be attributed to human free will",
+      "God directly wills it",
+      "It has no redemptive purpose"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q64",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Immanence in religious thought refers to:",
+    "options": [
+      "God's transcendence of the world",
+      "God's presence within and throughout the world",
+      "The ineffability of divine experience",
+      "The soul's journey after death"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q65",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "medium",
+    "question": "Aquinas' Fourth Way argues from degrees of perfection to:",
+    "options": [
+      "An unmoved mover",
+      "A first cause",
+      "A maximum being possessing all perfections fully",
+      "A purposive intelligence"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q66",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Tillich holds that religious symbols:",
+    "options": [
+      "Are literal descriptions",
+      "Point beyond themselves to ultimate reality and participate in what they symbolize",
+      "Are merely poetic",
+      "Can be replaced by literal language"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q67",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "medium",
+    "question": "The 'hiddenness of God' argument (Schellenberg) claims that if God existed:",
+    "options": [
+      "Evil would not exist",
+      "He would ensure no non-resistant non-belief exists",
+      "Religious experience would be universal",
+      "Miracles would be frequent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q68",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "medium",
+    "question": "The principle of testimony (Swinburne) holds that:",
+    "options": [
+      "Testimony about religious experience is always unreliable",
+      "We should give weight to others' sincere reports of religious experience",
+      "Only first-hand religious experience counts",
+      "Religious testimony requires corroboration"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q69",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Marx's critique of religion holds that it functions to:",
+    "options": [
+      "Promote social justice",
+      "Perpetuate class oppression by consoling the exploited",
+      "Challenge political authority",
+      "Strengthen community bonds"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q70",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "The 'best of all possible worlds' theodicy was proposed by:",
+    "options": [
+      "Augustine",
+      "Leibniz",
+      "Aquinas",
+      "Hick"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q71",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "medium",
+    "question": "Aquinas' Second Way (efficient causation) concludes to:",
+    "options": [
+      "An unmoved mover",
+      "A first efficient cause — nothing can be its own efficient cause",
+      "A necessary being",
+      "A maximum being"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q72",
+    "paper": 2,
+    "topic": "Ontological",
+    "difficulty": "medium",
+    "question": "Descartes' version of the ontological argument holds that God, as supremely perfect, must:",
+    "options": [
+      "Exist only as an idea",
+      "Exist in reality because existence is a perfection",
+      "Be beyond human concept",
+      "Cause his own existence empirically"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q73",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "medium",
+    "question": "Mircea Eliade's 'sacred' time is characterized as:",
+    "options": [
+      "Linear and historical",
+      "Reversible and paradigmatic — mythical time that can be re-entered through ritual",
+      "Continuous with profane time",
+      "Purely subjective"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q74",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "medium",
+    "question": "Don Cupitt's 'non-realist' theology holds that religious language:",
+    "options": [
+      "Refers to a real transcendent God",
+      "Expresses human values and ideals rather than describing a mind-independent divine being",
+      "Is cognitively meaningless",
+      "Must be interpreted literally"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q75",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "medium",
+    "question": "Aquinas' Fifth Way (governance of the world) is a version of the:",
+    "options": [
+      "Cosmological argument",
+      "Moral argument",
+      "Ontological argument",
+      "Teleological argument"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "u6q76",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "medium",
+    "question": "The distinction between God's 'antecedent' will (what God would prefer) and 'consequent' will (what God actually wills) is used to:",
+    "options": [
+      "Deny God's omnipotence",
+      "Explain why God permits evil despite preferring good",
+      "Defend atheism",
+      "Support Pelagianism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q77",
+    "paper": 2,
+    "topic": "Ontological",
+    "difficulty": "hard",
+    "question": "Plantinga's modal ontological argument uses S5 modal logic to argue that:",
+    "options": [
+      "God's existence is contingent",
+      "If maximal greatness is possibly instantiated, then it is necessarily instantiated — God necessarily exists",
+      "Anselm's argument fails",
+      "God exists in all possible worlds by definition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q78",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "hard",
+    "question": "Rowe's evidential argument is 'evidential' rather than 'logical' because:",
+    "options": [
+      "It is based on evidence only, not logic",
+      "It claims evil makes God's existence improbable, not logically impossible",
+      "It is based on personal testimony",
+      "It focuses only on natural evil"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q79",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "hard",
+    "question": "Pseudo-Dionysius' apophatic theology concludes God transcends both positive and negative predications because:",
+    "options": [
+      "God is unknowable for moral reasons",
+      "Any predicate applied to God, including 'good' or 'exists', falls short of God's absolute simplicity",
+      "Language is inherently imprecise",
+      "Religious experience is ineffable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q80",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "hard",
+    "question": "Aquinas' Third Way argues from contingent beings to:",
+    "options": [
+      "A beginningless universe",
+      "A necessary being whose non-existence is impossible",
+      "An infinitely regressing series of causes",
+      "A designer who chose to create contingent beings"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q81",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "hard",
+    "question": "Plantinga's 'evolutionary argument against naturalism' claims that:",
+    "options": [
+      "Evolution and theism are compatible",
+      "If naturalistic evolution is true, we have reason to doubt the reliability of our cognitive faculties",
+      "God directed evolution",
+      "Natural selection selects for true beliefs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q82",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "hard",
+    "question": "Michael Behe's 'irreducible complexity' argues that certain biological systems:",
+    "options": [
+      "Are too simple to have evolved gradually",
+      "Could not have evolved gradually because removing any part destroys function",
+      "Were independently created",
+      "Demonstrate random mutation only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q83",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "hard",
+    "question": "Steven Katz's 'constructivist' account claims mystical experiences are:",
+    "options": [
+      "Identical across traditions",
+      "Shaped by the conceptual frameworks and expectations the mystic brings to them",
+      "Purely physiological",
+      "Part of a single perennial philosophy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q84",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "hard",
+    "question": "Paul Tillich's claim that 'God does not exist' conveys that:",
+    "options": [
+      "Atheism is correct",
+      "God is not one existing being among others but 'Being-itself' or the Ground of Being",
+      "God is an idea only",
+      "Religious language is figurative"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q85",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "hard",
+    "question": "The Brouwer axiom (B axiom) plays a crucial role in:",
+    "options": [
+      "Kalam cosmological argument",
+      "Plantinga's modal ontological argument",
+      "The fine-tuning argument",
+      "The moral argument"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q86",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "hard",
+    "question": "Schleiermacher's definition of religion as 'the feeling of absolute dependence' grounds religion in:",
+    "options": [
+      "Rational theology",
+      "Immediate self-consciousness prior to any doctrine or practice",
+      "Moral duty",
+      "Communal ritual"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q87",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "hard",
+    "question": "The 'skeptical theist' response (Wykstra, Bergmann) to the evidential problem of evil argues:",
+    "options": [
+      "We can see all God's reasons for permitting evil",
+      "We should not expect to be able to see all of God's reasons for permitting evil, so the argument fails",
+      "God has no morally sufficient reasons",
+      "Evil is an illusion from God's perspective"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q88",
+    "paper": 2,
+    "topic": "Cosmological",
+    "difficulty": "hard",
+    "question": "The 'Boltzmann brain' problem challenges fine-tuning arguments because:",
+    "options": [
+      "It suggests fine-tuning is an illusion",
+      "Randomly fluctuating universes would produce isolated conscious observers more likely than life-permitting universes",
+      "It proves multiple universes",
+      "It is a variant of the anthropic principle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q89",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "hard",
+    "question": "Wolterstorff's 'entitlement epistemology' holds theistic belief is rational if:",
+    "options": [
+      "It is inferred from evidence",
+      "The believer faces no undefeated defeaters",
+      "It is held with certainty",
+      "It is universally shared"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q90",
+    "paper": 2,
+    "topic": "Arguments for God",
+    "difficulty": "hard",
+    "question": "The 'argument from reason' (C.S. Lewis, Reppert) holds that if naturalism is true:",
+    "options": [
+      "Reason cannot exist",
+      "The reliability of rational inference is undermined because mental states are just physical events",
+      "Science disproves God",
+      "Morality is impossible"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q91",
+    "paper": 2,
+    "topic": "Teleological",
+    "difficulty": "hard",
+    "question": "The 'cosmic fine-tuning' argument identifies approximately how many fundamental constants whose values appear improbably life-permitting?",
+    "options": [
+      "2–3",
+      "10–15",
+      "20–30",
+      "Hundreds"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u6q92",
+    "paper": 2,
+    "topic": "Religious Experience",
+    "difficulty": "hard",
+    "question": "Caroline Franks Davis' typology of religious experience distinguishes how many main types?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "u6q93",
+    "paper": 2,
+    "topic": "Faith and Reason",
+    "difficulty": "hard",
+    "question": "Philo, Cleanthes, and Demea in Hume's 'Dialogues' represent respectively:",
+    "options": [
+      "Theism, atheism, and agnosticism",
+      "Scepticism, natural theology, and orthodox fideism",
+      "Rationalism, empiricism, and mysticism",
+      "Cosmological, teleological, and ontological arguments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q94",
+    "paper": 2,
+    "topic": "Problem of Evil",
+    "difficulty": "hard",
+    "question": "The 'O Felix Culpa' theodicy (Plantinga) holds that:",
+    "options": [
+      "Sin should be encouraged",
+      "A world with the Fall and redemption may be better than one with neither sin nor salvation",
+      "God caused the Fall deliberately",
+      "The problem of evil is dissolved by Atonement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q95",
+    "paper": 2,
+    "topic": "Nature of Religion",
+    "difficulty": "hard",
+    "question": "Hick's 'epistemic distance' concept explains that God is hidden because:",
+    "options": [
+      "God is metaphysically beyond all knowledge",
+      "Too great a proximity would overwhelm freedom — distance is necessary for humans to develop faith freely",
+      "God does not care about human belief",
+      "The Fall has blinded human cognition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u6q96",
+    "paper": 2,
+    "topic": "Religious Language",
+    "difficulty": "hard",
+    "question": "The 'creation ex nihilo' doctrine creates a philosophical problem for analogical language because:",
+    "options": [
+      "No analogy can apply to creation",
+      "Human concepts of making or causing presuppose pre-existing material, making divine creation literally inconceivable",
+      "Latin terminology is outdated",
+      "The doctrine is not in scripture"
+    ],
+    "answer": 1
+  }
+]

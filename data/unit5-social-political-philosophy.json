@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "u5q1",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "easy",
+    "question": "Who wrote 'A Theory of Justice'?",
+    "options": [
+      "John Rawls",
+      "John Locke",
+      "Thomas Hobbes",
+      "Karl Marx"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u5q2",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "easy",
+    "question": "In Hobbes' state of nature, life is described as:",
+    "options": [
+      "Peaceful and harmonious",
+      "Solitary, poor, nasty, brutish and short",
+      "Governed by natural law",
+      "Full of cooperation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q3",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "easy",
+    "question": "Locke's natural rights include life, liberty, and:",
+    "options": [
+      "Happiness",
+      "Property",
+      "Equality",
+      "Power"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q4",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "easy",
+    "question": "Rousseau believed that humans in their natural state are:",
+    "options": [
+      "Aggressive",
+      "Inherently good",
+      "Selfish",
+      "Rational only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q5",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "easy",
+    "question": "Democracy literally means:",
+    "options": [
+      "Rule of the elite",
+      "Rule of the people",
+      "Rule of law",
+      "Rule of the majority"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q6",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "easy",
+    "question": "Negative liberty is best defined as:",
+    "options": [
+      "Freedom to do something",
+      "Absence of external constraints",
+      "Positive empowerment",
+      "State-provided freedom"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q7",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "easy",
+    "question": "The principle that all humans deserve equal moral consideration is called:",
+    "options": [
+      "Formal equality",
+      "Basic equality",
+      "Proportional equality",
+      "Natural equality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q8",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "easy",
+    "question": "Rights that are universal and inalienable are known as:",
+    "options": [
+      "Civil rights",
+      "Political rights",
+      "Natural rights",
+      "Legal rights"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q9",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "easy",
+    "question": "According to Marx, history is driven by:",
+    "options": [
+      "Ideas and religion",
+      "Class struggle",
+      "Individual genius",
+      "Divine providence"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q10",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "easy",
+    "question": "The first wave of feminism primarily focused on:",
+    "options": [
+      "Economic equality",
+      "Suffrage and legal rights",
+      "Cultural liberation",
+      "Intersectionality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q11",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "easy",
+    "question": "Secularism advocates for the separation of:",
+    "options": [
+      "Science and philosophy",
+      "State and religion",
+      "Individual and community",
+      "Law and morality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q12",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "easy",
+    "question": "Marx called religion 'the opium of the people' because he believed it:",
+    "options": [
+      "Provided true comfort",
+      "Diverts attention from real suffering",
+      "Was scientifically false",
+      "Promoted class struggle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q13",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "easy",
+    "question": "Rawls' 'veil of ignorance' is a device for determining:",
+    "options": [
+      "Moral virtues",
+      "Principles of justice",
+      "Political leaders",
+      "Economic policies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q14",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "easy",
+    "question": "Distributive justice is primarily concerned with:",
+    "options": [
+      "Punishment for crimes",
+      "Fair allocation of goods",
+      "Legal procedures",
+      "Individual freedoms"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q15",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "easy",
+    "question": "Locke's theory of government is based on:",
+    "options": [
+      "Divine right of kings",
+      "Social contract and consent of the governed",
+      "Absolute sovereignty",
+      "Utilitarian calculus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q16",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "easy",
+    "question": "Hobbes' major political work is:",
+    "options": [
+      "Two Treatises of Government",
+      "The Social Contract",
+      "Leviathan",
+      "The Republic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q17",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "easy",
+    "question": "Direct democracy was first practiced in:",
+    "options": [
+      "Rome",
+      "Athens",
+      "Sparta",
+      "Egypt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q18",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "easy",
+    "question": "Gender equality is a central concern of:",
+    "options": [
+      "Marxism",
+      "Feminism",
+      "Libertarianism",
+      "Conservatism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q19",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "easy",
+    "question": "The right to vote is classified as a:",
+    "options": [
+      "Natural right",
+      "Civil right",
+      "Political right",
+      "Social right"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q20",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "easy",
+    "question": "The concept of 'General Will' was developed by:",
+    "options": [
+      "Hobbes",
+      "Locke",
+      "Rousseau",
+      "Marx"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q21",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Rawls' difference principle states inequalities are just only if they:",
+    "options": [
+      "Benefit the most talented",
+      "Are naturally occurring",
+      "Benefit the least advantaged members of society",
+      "Are chosen by majority vote"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q22",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "medium",
+    "question": "Rawls describes his position as 'justice as':",
+    "options": [
+      "Utility",
+      "Fairness",
+      "Virtue",
+      "Equality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q23",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "medium",
+    "question": "Isaiah Berlin distinguished between negative and positive liberty in:",
+    "options": [
+      "On Liberty",
+      "Two Concepts of Liberty",
+      "The Constitution of Liberty",
+      "A Theory of Justice"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q24",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "medium",
+    "question": "Positive liberty refers to:",
+    "options": [
+      "Absence of interference",
+      "The capacity and resources to self-determine",
+      "Legal freedoms only",
+      "Freedom from government"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q25",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "medium",
+    "question": "In Marxist theory, the 'base' refers to:",
+    "options": [
+      "Political institutions",
+      "Cultural values",
+      "Economic relations of production",
+      "Religious beliefs"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q26",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "medium",
+    "question": "Marx's term for worker estrangement from their labor is:",
+    "options": [
+      "Exploitation",
+      "Alienation",
+      "Reification",
+      "Commodification"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q27",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Simone de Beauvoir's 'The Second Sex' argues that woman is:",
+    "options": [
+      "Naturally inferior",
+      "A social and cultural construction",
+      "Biologically determined",
+      "Spiritually superior"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q28",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Intersectionality as a concept was introduced by:",
+    "options": [
+      "Betty Friedan",
+      "Simone de Beauvoir",
+      "Kimberlé Crenshaw",
+      "Judith Butler"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q29",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "medium",
+    "question": "Indian secularism is distinct from Western secularism in that it involves:",
+    "options": [
+      "Complete separation of religion and state",
+      "Equal treatment and respect for all religions",
+      "Atheism as state policy",
+      "Religious neutrality by ignoring religion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q30",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "medium",
+    "question": "Hobbes argues that the social contract creates:",
+    "options": [
+      "A democratic republic",
+      "A sovereign with absolute power",
+      "A limited monarchy",
+      "A confederation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q31",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "medium",
+    "question": "Locke believed that a government which violates natural rights:",
+    "options": [
+      "Must be obeyed absolutely",
+      "Should be reformed slowly",
+      "Can be legitimately dissolved and replaced",
+      "Loses only its moral authority"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q32",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "medium",
+    "question": "For Rousseau, the social contract requires that individuals submit to:",
+    "options": [
+      "The majority will",
+      "The sovereign's will",
+      "The general will",
+      "The constitutional court"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q33",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "medium",
+    "question": "The distinction between negative and positive rights corresponds to:",
+    "options": [
+      "Natural and legal rights",
+      "Rights requiring inaction vs. action by others",
+      "Individual and group rights",
+      "Civil and political rights"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q34",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Deliberative democracy emphasizes:",
+    "options": [
+      "Voting and elections",
+      "Rational public discourse and justification",
+      "Economic equality",
+      "Direct participation only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q35",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Robert Nozick's libertarian critique of Rawls focuses on:",
+    "options": [
+      "The veil of ignorance being arbitrary",
+      "The priority of individual rights over patterned distribution",
+      "The difference principle being too generous",
+      "Rawls ignoring virtue ethics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q36",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "medium",
+    "question": "Formal equality means:",
+    "options": [
+      "Equal outcomes for all",
+      "Equal treatment under the same rules",
+      "Equal distribution of wealth",
+      "Equal opportunity regardless of background"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q37",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "medium",
+    "question": "Substantive equality aims at:",
+    "options": [
+      "Same treatment for everyone",
+      "Equal rules regardless of circumstance",
+      "Addressing background inequalities to achieve fair outcomes",
+      "Legal equality alone"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q38",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "medium",
+    "question": "Marx's materialist conception of history is also called:",
+    "options": [
+      "Idealism",
+      "Historical materialism",
+      "Dialectical idealism",
+      "Social Darwinism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q39",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "medium",
+    "question": "According to Marx, capitalism would eventually be replaced by:",
+    "options": [
+      "Socialism alone",
+      "Communism",
+      "A welfare state",
+      "Liberal democracy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q40",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "medium",
+    "question": "Hobbes justifies political obligation primarily through:",
+    "options": [
+      "Natural duty",
+      "Self-interest and fear",
+      "Moral virtue",
+      "Divine command"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q41",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "medium",
+    "question": "J.S. Mill's harm principle states liberty can only be restricted to:",
+    "options": [
+      "Promote the greater good",
+      "Prevent harm to others",
+      "Uphold moral standards",
+      "Maintain social order"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q42",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Liberal feminism focuses primarily on:",
+    "options": [
+      "Structural economic change",
+      "Equal rights within existing institutions",
+      "Dismantling patriarchal culture",
+      "Radical separation from male society"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q43",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "medium",
+    "question": "Which thinker most closely associated rights with social utility?",
+    "options": [
+      "Kant",
+      "Locke",
+      "Bentham",
+      "Rawls"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q44",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Pluralist democracy assumes that power is:",
+    "options": [
+      "Concentrated in the state",
+      "Distributed among competing interest groups",
+      "Held by the economic elite",
+      "Exercised by a technocratic class"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q45",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "medium",
+    "question": "Laïcité is the model of secularism practiced in:",
+    "options": [
+      "USA",
+      "India",
+      "France",
+      "UK"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q46",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Commutative justice refers to:",
+    "options": [
+      "Distributing goods fairly",
+      "Fairness in exchanges and contracts",
+      "Punishing wrongdoers",
+      "Providing social welfare"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q47",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "medium",
+    "question": "Rawls' first principle of justice holds that:",
+    "options": [
+      "Liberty may be traded for economic gains",
+      "Each person has equal basic liberties",
+      "Liberty depends on merit",
+      "Liberties are state-granted"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q48",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "medium",
+    "question": "Locke's labor theory of property holds that one acquires property by:",
+    "options": [
+      "Inheriting it",
+      "State grant",
+      "Mixing one's labor with it",
+      "Social agreement"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q49",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "medium",
+    "question": "Rousseau contrasts amour de soi (self-love) with:",
+    "options": [
+      "Amour propre (vanity)",
+      "Amour fati (love of fate)",
+      "Amour libre (free love)",
+      "Amour civique (civic love)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u5q50",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "medium",
+    "question": "The Marxist concept of 'superstructure' includes:",
+    "options": [
+      "Economic production",
+      "Labor relations",
+      "Law, culture, religion, and politics",
+      "Material resources"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q51",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Radical feminism holds that patriarchy is:",
+    "options": [
+      "A product of capitalism",
+      "The primary and fundamental system of oppression",
+      "A cultural myth",
+      "Dissolving in modern society"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q52",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Representative democracy differs from direct democracy in that:",
+    "options": [
+      "It is less legitimate",
+      "Citizens elect representatives to make decisions",
+      "It requires consensus",
+      "It excludes minorities"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q53",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "medium",
+    "question": "The wall of separation between church and state was advocated by:",
+    "options": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams",
+      "James Madison"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u5q54",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Retributive justice focuses on:",
+    "options": [
+      "Rehabilitating offenders",
+      "Compensating victims",
+      "Punishment proportional to the crime",
+      "Deterrence of future crime"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q55",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "medium",
+    "question": "Affirmative action is an example of which kind of equality?",
+    "options": [
+      "Formal equality",
+      "Legal equality",
+      "Substantive equality",
+      "Natural equality"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q56",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "medium",
+    "question": "The Universal Declaration of Human Rights was adopted in:",
+    "options": [
+      "1945",
+      "1948",
+      "1950",
+      "1966"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q57",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "medium",
+    "question": "Marx calls the working class the:",
+    "options": [
+      "Bourgeoisie",
+      "Lumpenproletariat",
+      "Proletariat",
+      "Vanguard"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q58",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "medium",
+    "question": "For Hobbes, the primary motivation for entering the social contract is:",
+    "options": [
+      "Moral duty",
+      "Fear of violent death",
+      "Economic benefit",
+      "Social harmony"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q59",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "medium",
+    "question": "Republican freedom (neo-republican theory) is freedom as:",
+    "options": [
+      "Non-interference",
+      "Positive capacity",
+      "Non-domination",
+      "Legal permission"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q60",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Tocqueville warned that democracy could lead to:",
+    "options": [
+      "Revolution",
+      "Tyranny of the majority",
+      "Anarchy",
+      "Oligarchy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q61",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "medium",
+    "question": "Rawls' 'original position' is characterized by rational agents choosing behind:",
+    "options": [
+      "A social consensus",
+      "A veil of ignorance",
+      "A constitutional framework",
+      "An ethical theory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q62",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Socialist feminism links women's oppression to:",
+    "options": [
+      "Biological differences",
+      "Capitalism and patriarchy together",
+      "Culture alone",
+      "Legal discrimination only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q63",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "medium",
+    "question": "Dialectical materialism in Marxism draws on Hegel's notion of:",
+    "options": [
+      "Being and nothingness",
+      "Thesis, antithesis, synthesis",
+      "Will to power",
+      "Categorical imperative"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q64",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a feature of secularism?",
+    "options": [
+      "Religious tolerance",
+      "Freedom of religion",
+      "State promotion of a religion",
+      "Separation of church and state"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q65",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Restorative justice emphasizes:",
+    "options": [
+      "Punishment and retribution",
+      "Healing relationships and reintegrating offenders",
+      "Deterrence through harsh sentences",
+      "Victim compensation only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q66",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "medium",
+    "question": "According to Kant, rights derive from:",
+    "options": [
+      "Social utility",
+      "State authority",
+      "Rational autonomy and dignity",
+      "Natural instincts"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q67",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "medium",
+    "question": "Luck egalitarianism holds that inequalities are unjust unless they result from:",
+    "options": [
+      "Structural factors",
+      "Free individual choices",
+      "Legal processes",
+      "Market mechanisms"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q68",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Cosmopolitan democracy refers to extending democratic governance to:",
+    "options": [
+      "Rural areas",
+      "The global level",
+      "Economic institutions only",
+      "Minority communities"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q69",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "medium",
+    "question": "Locke's epistemological starting point — the mind as a blank slate — is the doctrine of:",
+    "options": [
+      "Innate ideas",
+      "Tabula rasa",
+      "A priori knowledge",
+      "Rationalism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q70",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "medium",
+    "question": "Rousseau's 'Emile' is primarily a work on:",
+    "options": [
+      "Political theory",
+      "Education and child development",
+      "Economic philosophy",
+      "Metaphysics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q71",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "medium",
+    "question": "What does Marx mean by 'commodity fetishism'?",
+    "options": [
+      "Religious worship of goods",
+      "Treating social relations as relations between things",
+      "Excessive consumerism",
+      "The market's magical growth"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q72",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "medium",
+    "question": "Judith Butler's concept of gender 'performativity' means:",
+    "options": [
+      "Gender is biologically fixed",
+      "Gender is repeatedly enacted through behavior",
+      "Gender is a performance like theatre",
+      "Gender is purely psychological"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q73",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "medium",
+    "question": "Bhimrao Ambedkar linked secularism with the annihilation of:",
+    "options": [
+      "Capitalism",
+      "The caste system",
+      "Colonialism",
+      "Monarchy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q74",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "medium",
+    "question": "Group rights (collective rights) refer to rights held by:",
+    "options": [
+      "Individual citizens",
+      "Communities or peoples as a group",
+      "National governments",
+      "International organizations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q75",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "medium",
+    "question": "The liberty-limiting principle of 'legal moralism' allows restriction of liberty to:",
+    "options": [
+      "Prevent harm to others",
+      "Prevent harm to self",
+      "Enforce majority moral views",
+      "Protect the economy"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q76",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "medium",
+    "question": "The Communist Manifesto was co-authored by Marx and:",
+    "options": [
+      "Lenin",
+      "Engels",
+      "Stalin",
+      "Gramsci"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q77",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "medium",
+    "question": "Montesquieu's doctrine of separation of powers divides government into:",
+    "options": [
+      "Federal and state levels",
+      "Legislative, executive, and judiciary",
+      "Elected and appointed officials",
+      "Central and local governments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q78",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "medium",
+    "question": "Aristotle's principle of proportional equality holds that:",
+    "options": [
+      "Equals should be treated equally and unequals unequally in proportion",
+      "Everyone should receive the same share",
+      "Equality of outcome is paramount",
+      "Only legal equality matters"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u5q79",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "medium",
+    "question": "Which best describes Rawls' political philosophy?",
+    "options": [
+      "Libertarianism",
+      "Liberal egalitarianism",
+      "Marxism",
+      "Communitarianism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q80",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "medium",
+    "question": "Procedural justice focuses on:",
+    "options": [
+      "Outcomes of decisions",
+      "The fairness of the process by which decisions are made",
+      "Compensating the disadvantaged",
+      "Historical injustices"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q81",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "hard",
+    "question": "Rawls' 'lexical ordering' of the two principles means:",
+    "options": [
+      "Both principles apply simultaneously",
+      "The liberty principle has absolute priority over the difference principle",
+      "Economic equality takes precedence over liberty",
+      "The difference principle applies first"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q82",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "hard",
+    "question": "Gramsci's concept of 'hegemony' refers to:",
+    "options": [
+      "Military domination",
+      "Ideological and cultural domination that secures consent",
+      "Economic control of the state",
+      "Legal enforcement of class rule"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q83",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "hard",
+    "question": "Nancy Fraser's theory critiques feminist movements for neglecting the tension between:",
+    "options": [
+      "Suffrage and education",
+      "Recognition and redistribution",
+      "Public and private spheres",
+      "Liberalism and radicalism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q84",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "hard",
+    "question": "Amartya Sen's capabilities approach critiques Rawlsian primary goods because:",
+    "options": [
+      "They ignore procedural fairness",
+      "Individuals differ in their ability to convert resources into real freedoms",
+      "They prioritize liberty over welfare",
+      "They are not universally agreed upon"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q85",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "hard",
+    "question": "Philip Pettit's republican theory argues that domination is possible even in the absence of:",
+    "options": [
+      "Legal systems",
+      "Actual interference",
+      "Economic inequality",
+      "Political rights"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q86",
+    "paper": 2,
+    "topic": "Hobbes",
+    "difficulty": "hard",
+    "question": "Hobbes' conception of law as command is most closely associated with:",
+    "options": [
+      "Natural law theory",
+      "Legal positivism (command theory)",
+      "Legal realism",
+      "Interpretivism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q87",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "hard",
+    "question": "Locke's 'proviso' on property acquisition states one may appropriate only if:",
+    "options": [
+      "One can use it all",
+      "It benefits the community",
+      "Enough and as good is left for others",
+      "The state consents"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q88",
+    "paper": 2,
+    "topic": "Rousseau",
+    "difficulty": "hard",
+    "question": "Rousseau's general will differs from the 'will of all' in that:",
+    "options": [
+      "The will of all includes only the majority",
+      "The general will aims at the common good; the will of all is merely the sum of private interests",
+      "They are philosophically identical",
+      "The general will requires unanimous consent"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q89",
+    "paper": 2,
+    "topic": "Marx",
+    "difficulty": "hard",
+    "question": "Althusser's 'Ideological State Apparatuses' extends Marx by arguing that ideology operates through:",
+    "options": [
+      "Coercive state power alone",
+      "Institutions like schools, media, and churches that reproduce class relations",
+      "Economic exploitation only",
+      "The legal system exclusively"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q90",
+    "paper": 2,
+    "topic": "Rights",
+    "difficulty": "hard",
+    "question": "Wesley Hohfeld's analytical framework distinguishes rights into:",
+    "options": [
+      "Natural and legal rights",
+      "Claims, privileges, powers, and immunities",
+      "Positive and negative rights",
+      "Individual and collective rights"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q91",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "hard",
+    "question": "Habermas' deliberative democracy rests on:",
+    "options": [
+      "Majority rule",
+      "Communicative rationality and the ideal speech situation",
+      "Elite competition",
+      "Constitutional consensus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q92",
+    "paper": 2,
+    "topic": "Equality",
+    "difficulty": "hard",
+    "question": "G.A. Cohen critiques Rawls' difference principle by arguing that:",
+    "options": [
+      "It is too egalitarian",
+      "Talented individuals exploit the difference principle by demanding incentives they could waive",
+      "It ignores liberty",
+      "It is procedurally unfair"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q93",
+    "paper": 2,
+    "topic": "Secularism",
+    "difficulty": "hard",
+    "question": "Charles Taylor's 'secular 3' refers to:",
+    "options": [
+      "State neutrality",
+      "Absence of religion from public life",
+      "A condition of contested religious and non-religious options",
+      "Complete atheism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q94",
+    "paper": 2,
+    "topic": "Marxism",
+    "difficulty": "hard",
+    "question": "'False consciousness' in Marxism refers to:",
+    "options": [
+      "Workers deliberately hiding their class interests",
+      "Workers' failure to recognize their true class interests due to ideological distortion",
+      "Ruling class self-deception",
+      "A psychological disorder"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q95",
+    "paper": 2,
+    "topic": "Feminism",
+    "difficulty": "hard",
+    "question": "Luce Irigaray's critique of Western philosophy claims it is built on:",
+    "options": [
+      "Capitalist logic",
+      "A phallocentric economy that erases feminine difference",
+      "Racist categories",
+      "Religious assumptions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q96",
+    "paper": 2,
+    "topic": "Justice",
+    "difficulty": "hard",
+    "question": "Iris Marion Young's 'structural injustice' argues oppression can exist:",
+    "options": [
+      "Only through individual malice",
+      "Only through state action",
+      "Through normal social processes without anyone intending harm",
+      "Only in authoritarian regimes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u5q97",
+    "paper": 2,
+    "topic": "Liberty",
+    "difficulty": "hard",
+    "question": "The paradox of tolerance (Popper) argues a tolerant society must be:",
+    "options": [
+      "Tolerant of all views including intolerance",
+      "Intolerant of intolerance to survive",
+      "Neutral on all political questions",
+      "Governed by consensus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q98",
+    "paper": 2,
+    "topic": "Locke",
+    "difficulty": "hard",
+    "question": "Locke's distinction between 'tacit' and 'express' consent is important because:",
+    "options": [
+      "Only express consent grounds political obligation",
+      "It allows most residents to be bound by consent they never explicitly gave",
+      "Tacit consent is morally irrelevant",
+      "Only tacit consent is philosophically valid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q99",
+    "paper": 2,
+    "topic": "Rawls",
+    "difficulty": "hard",
+    "question": "In 'Political Liberalism', Rawls shifts to a 'political' conception of justice because:",
+    "options": [
+      "He abandoned liberalism",
+      "He wanted a conception acceptable to citizens holding diverse comprehensive doctrines",
+      "He rejected the difference principle",
+      "He embraced communitarianism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u5q100",
+    "paper": 2,
+    "topic": "Democracy",
+    "difficulty": "hard",
+    "question": "Schumpeter's elitist theory redefines democracy as:",
+    "options": [
+      "Rule of the people through direct participation",
+      "A method in which elites compete for votes",
+      "Substantive equality of political power",
+      "Consensus-based governance"
+    ],
+    "answer": 1
+  }
+]

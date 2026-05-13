@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "u7q1",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "easy",
+    "question": "The classical definition of knowledge is:",
+    "options": [
+      "True belief",
+      "Justified true belief",
+      "Certain belief",
+      "Empirically verified belief"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q2",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "easy",
+    "question": "Rationalism holds that the primary source of knowledge is:",
+    "options": [
+      "Sense experience",
+      "Reason",
+      "Intuition",
+      "Authority"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q3",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "easy",
+    "question": "Empiricism holds that all knowledge derives from:",
+    "options": [
+      "Reason alone",
+      "Innate ideas",
+      "Sense experience",
+      "Logic"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q4",
+    "paper": 2,
+    "topic": "A priori",
+    "difficulty": "easy",
+    "question": "A priori knowledge is knowledge that is:",
+    "options": [
+      "Derived from experience",
+      "Independent of experience",
+      "Uncertain",
+      "Practical"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q5",
+    "paper": 2,
+    "topic": "A posteriori",
+    "difficulty": "easy",
+    "question": "A posteriori knowledge depends on:",
+    "options": [
+      "Pure reason",
+      "Mathematical proof",
+      "Sense experience",
+      "Innate ideas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q6",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "easy",
+    "question": "Descartes used methodological doubt to:",
+    "options": [
+      "Prove that nothing is knowable",
+      "Find an indubitable foundation for knowledge",
+      "Critique religion",
+      "Support empiricism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q7",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "easy",
+    "question": "For knowledge (on the traditional account) you need at minimum:",
+    "options": [
+      "Certainty",
+      "True belief",
+      "Justified true belief",
+      "Reliable evidence"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q8",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "easy",
+    "question": "Introspection as a source of knowledge refers to:",
+    "options": [
+      "Observing the external world",
+      "Examining one's own mental states",
+      "Reading testimony",
+      "Using reasoning alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q9",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "easy",
+    "question": "The correspondence theory of truth holds that a statement is true if:",
+    "options": [
+      "It coheres with other beliefs",
+      "It corresponds to facts in the world",
+      "It is useful or practical",
+      "It is self-evident"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q10",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "easy",
+    "question": "Which philosopher is most associated with rationalism?",
+    "options": [
+      "Locke",
+      "Hume",
+      "Descartes",
+      "Berkeley"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q11",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "easy",
+    "question": "John Locke was a major proponent of:",
+    "options": [
+      "Rationalism",
+      "Empiricism",
+      "Idealism",
+      "Pragmatism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q12",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "easy",
+    "question": "Descartes' 'cogito ergo sum' means:",
+    "options": [
+      "I think therefore I am",
+      "I doubt therefore I believe",
+      "I exist therefore I think",
+      "I am therefore I think"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u7q13",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "easy",
+    "question": "The pragmatic theory of truth (James) holds that a belief is true if:",
+    "options": [
+      "It corresponds to reality",
+      "It coheres with other beliefs",
+      "It works or is practically useful",
+      "It is self-consistent"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q14",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "easy",
+    "question": "Propositional attitudes involve a person's mental state directed at:",
+    "options": [
+      "An object",
+      "A proposition",
+      "An action",
+      "A sensation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q15",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "easy",
+    "question": "Testimony as a source of knowledge refers to:",
+    "options": [
+      "Personal experience",
+      "Logical inference",
+      "What we learn from others",
+      "Memory"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q16",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "easy",
+    "question": "The regress problem in epistemology concerns:",
+    "options": [
+      "How knowledge grows over time",
+      "What justifies our justifications and whether this leads to infinite regress",
+      "The limits of scientific knowledge",
+      "The relationship between truth and belief"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q17",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "easy",
+    "question": "Leibniz and Spinoza are typically classified as:",
+    "options": [
+      "Empiricists",
+      "Pragmatists",
+      "Rationalists",
+      "Skeptics"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q18",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "easy",
+    "question": "Pyrrhonian skepticism advocates:",
+    "options": [
+      "Systematic doubt about everything",
+      "Suspension of judgment (epoché) on all non-evident matters",
+      "Limited skepticism about some domains",
+      "Certainty through reason alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q19",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "easy",
+    "question": "The coherence theory of truth holds that a belief is true if:",
+    "options": [
+      "It matches external facts",
+      "It is practically useful",
+      "It coheres with a system of other beliefs",
+      "It is self-evident"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q20",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "easy",
+    "question": "Epistemology is the branch of philosophy that studies:",
+    "options": [
+      "The nature of reality",
+      "The nature, sources and limits of knowledge",
+      "Moral values",
+      "Political organization"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q21",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "Gettier cases show that justified true belief is:",
+    "options": [
+      "Always sufficient for knowledge",
+      "Not sufficient for knowledge",
+      "Not necessary for knowledge",
+      "The best available account of knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q22",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "medium",
+    "question": "Descartes' criterion of 'clear and distinct perception' is his mark of:",
+    "options": [
+      "Empirical certainty",
+      "A priori certainty",
+      "Practical truth",
+      "Moral knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q23",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "Hume's 'fork' divides all knowledge into:",
+    "options": [
+      "A priori and a posteriori",
+      "Relations of ideas and matters of fact",
+      "Rational and empirical",
+      "Certain and probable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q24",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "The brain-in-a-vat thought experiment is a contemporary version of:",
+    "options": [
+      "Hume's problem of induction",
+      "Descartes' evil demon hypothesis",
+      "Kant's transcendental idealism",
+      "Berkeley's idealism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q25",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Foundationalism holds that knowledge rests on:",
+    "options": [
+      "Mutual support among beliefs",
+      "Basic beliefs that are self-justifying or non-inferentially justified",
+      "Pragmatic success",
+      "Community consensus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q26",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Coherentism holds that a belief is justified if:",
+    "options": [
+      "It is self-evident",
+      "It is based on reliable perception",
+      "It coheres with a web of other beliefs",
+      "It is practically useful"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q27",
+    "paper": 2,
+    "topic": "A priori",
+    "difficulty": "medium",
+    "question": "Kant's synthetic a priori judgments are:",
+    "options": [
+      "Derived from experience",
+      "Logically tautological",
+      "Ampliative yet necessary and universal",
+      "Purely definitional"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q28",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "Berkeley's idealism holds that:",
+    "options": [
+      "The material world exists independently of perception",
+      "To be is to be perceived; only minds and ideas exist",
+      "Knowledge is impossible",
+      "Experience is structured by innate categories"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q29",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "medium",
+    "question": "Quine's 'naturalized epistemology' holds that epistemology should be:",
+    "options": [
+      "Replaced by cognitive science empirically",
+      "A priori and foundationalist",
+      "Continuous with and part of natural science",
+      "Based on ordinary language analysis"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q30",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "Contextualism in epistemology holds that knowledge attributions:",
+    "options": [
+      "Have fixed truth conditions",
+      "Are context-dependent (what counts as knowing varies with context)",
+      "Are always false for the skeptic's reasons",
+      "Require absolute certainty"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q31",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "medium",
+    "question": "The deflationary theory of truth holds that 'P is true' means:",
+    "options": [
+      "P corresponds to facts",
+      "P coheres with other beliefs",
+      "Simply P — 'true' adds nothing substantive",
+      "P is practically useful"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q32",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "Reliabilism (Goldman) holds that a belief constitutes knowledge if:",
+    "options": [
+      "It is deductively inferred",
+      "It is produced by a reliable belief-forming process",
+      "It is foundationally justified",
+      "It coheres with other beliefs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q33",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "medium",
+    "question": "Kant's 'Copernican revolution' in epistemology holds that:",
+    "options": [
+      "Objects conform to our cognition rather than our cognition to objects",
+      "Our cognition conforms to objects in the world",
+      "All knowledge comes from experience",
+      "Reason has no role in knowledge"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u7q34",
+    "paper": 2,
+    "topic": "A posteriori",
+    "difficulty": "medium",
+    "question": "Kripke argues that some a posteriori truths are:",
+    "options": [
+      "Contingent as expected",
+      "Necessarily true",
+      "Analytically true",
+      "Based on innate ideas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q35",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "medium",
+    "question": "De se beliefs are beliefs about:",
+    "options": [
+      "External states of affairs",
+      "Propositions abstractly",
+      "Oneself and one's own situation",
+      "Other people's minds"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q36",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "Moorean 'common-sense' philosophy responds to skepticism by:",
+    "options": [
+      "Accepting radical skepticism",
+      "Taking the existence of hands and the external world as more certain than any skeptical premise",
+      "Proving the external world exists philosophically",
+      "Dissolving the problem through language analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q37",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Infinitism about justification holds that the regress of justification:",
+    "options": [
+      "Ends at foundational beliefs",
+      "Is circular (coherentism)",
+      "Is genuinely infinite and this is acceptable",
+      "Must be stopped by pragmatic decision"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q38",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "Hume's problem of induction shows that inductive reasoning:",
+    "options": [
+      "Is logically valid",
+      "Cannot be rationally justified without circularity",
+      "Provides certain knowledge",
+      "Is a special type of deduction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q39",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "medium",
+    "question": "The extended mind thesis (Clark and Chalmers) proposes that:",
+    "options": [
+      "The mind is purely internal",
+      "Cognitive processes can extend into the environment (e.g., notebooks, phones)",
+      "Perception is unreliable",
+      "Knowledge requires internal mental representation only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q40",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "medium",
+    "question": "Tarski's semantic theory defines truth using the schema:",
+    "options": [
+      "'P is true' = P is verified",
+      "'Snow is white' is true iff snow is white",
+      "A belief is true if it works",
+      "Truth is what the community agrees on"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q41",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "Propositional knowledge (knowing-that) is distinguished from procedural knowledge (knowing-how) in that:",
+    "options": [
+      "Propositional knowledge is practical",
+      "Propositional knowledge is explicitly representable in propositions; knowing-how may not be",
+      "They are identical",
+      "Procedural knowledge is a priori"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q42",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "Humean skepticism about the external world arises from:",
+    "options": [
+      "The conceivability of error in deductive reasoning",
+      "The gap between sensory impressions and conclusions about external objects",
+      "The problem of induction only",
+      "Hume's denial of substance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q43",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Internalism about justification holds that what justifies a belief must be:",
+    "options": [
+      "External causal processes",
+      "Accessible to the believer's own reflection",
+      "Reliable regardless of accessibility",
+      "Socially agreed upon"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q44",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "Locke distinguished primary from secondary qualities; primary qualities are:",
+    "options": [
+      "Mind-dependent properties like colour and taste",
+      "Mind-independent properties like shape, size, and motion",
+      "Properties perceived through a single sense",
+      "Innate properties of substance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q45",
+    "paper": 2,
+    "topic": "A priori",
+    "difficulty": "medium",
+    "question": "Mathematical truths are traditionally considered:",
+    "options": [
+      "A posteriori and contingent",
+      "A priori and necessary",
+      "A posteriori and necessary",
+      "Empirically revisable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q46",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "medium",
+    "question": "Spinoza's monism holds that there is only one substance, which he identifies as:",
+    "options": [
+      "Matter alone",
+      "Mind alone",
+      "God or Nature (Deus sive Natura)",
+      "An unknowable thing-in-itself"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q47",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "medium",
+    "question": "Memory as a source of knowledge faces the problem that:",
+    "options": [
+      "It is always unreliable",
+      "It preserves beliefs without always preserving the original justification",
+      "It is a form of perception",
+      "It only stores a priori knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q48",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "medium",
+    "question": "Alethic pluralism holds that:",
+    "options": [
+      "There is one unified theory of truth",
+      "Truth is an illusion",
+      "Different kinds of propositions may be true in different ways",
+      "Truth is purely subjective"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q49",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "medium",
+    "question": "Bayesianism in epistemology holds that rational belief should be measured by:",
+    "options": [
+      "Binary true/false",
+      "Degrees of confidence (credences) conforming to the probability calculus",
+      "Certainty or ignorance only",
+      "Community consensus"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q50",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "Relevant alternatives theory holds that one knows P if:",
+    "options": [
+      "All alternatives to P are ruled out",
+      "All relevant (contextually salient) alternatives to P are ruled out",
+      "P is certainly true",
+      "P can be verified"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q51",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "Virtue epistemology holds that knowledge is true belief arising from:",
+    "options": [
+      "Any reliable process",
+      "Intellectual virtues (open-mindedness, thoroughness, intellectual courage)",
+      "Formal inference",
+      "Cultural transmission"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q52",
+    "paper": 2,
+    "topic": "A posteriori",
+    "difficulty": "medium",
+    "question": "Which is the best example of a posteriori knowledge?",
+    "options": [
+      "2+2=4",
+      "All bachelors are unmarried",
+      "Water is H₂O",
+      "Nothing can be both red and green all over simultaneously"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u7q53",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "The logical positivists' verification principle holds that a statement is meaningful only if:",
+    "options": [
+      "Logically necessary or empirically verifiable",
+      "Traditionally accepted",
+      "Morally significant",
+      "Practically useful"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u7q54",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Externalism about justification holds that what matters for justification is:",
+    "options": [
+      "The believer's reflective access",
+      "Causal or reliable connections to truth, even if not accessible to the believer",
+      "The social context of belief",
+      "The pragmatic success of the belief"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q55",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "medium",
+    "question": "The doctrine of innate ideas (Descartes, Leibniz) holds that:",
+    "options": [
+      "All ideas come from experience",
+      "Some concepts are present in the mind prior to and independently of experience",
+      "Knowledge is analytic only",
+      "The mind is a blank slate"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q56",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "medium",
+    "question": "Minimalism about truth (Horwich) holds that the truth predicate:",
+    "options": [
+      "Expresses a substantive property",
+      "Is eliminable — 'P is true' says no more than P",
+      "Is used to express coherence",
+      "Is a property of propositions not sentences"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q57",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "The Gettier problem (1963) challenged JTB by providing:",
+    "options": [
+      "Cases of knowledge without justification",
+      "Cases of justified true belief that are not knowledge",
+      "Cases of knowledge without truth",
+      "Cases of belief without justification that are knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q58",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "medium",
+    "question": "Perception as a source of knowledge faces the challenge of:",
+    "options": [
+      "Being too restricted to the present",
+      "Possible perceptual error, illusion, and hallucination",
+      "Being purely a priori",
+      "Not providing propositional knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q59",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "The lottery paradox (Kyburg) arises because:",
+    "options": [
+      "Probabilities cannot be calculated",
+      "It seems rational to believe each lottery ticket will lose, yet not to believe the conjunction 'all tickets will lose'",
+      "We cannot know the future",
+      "Knowledge requires certainty"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q60",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "medium",
+    "question": "Doxastic voluntarism is the view that:",
+    "options": [
+      "Belief is always involuntary",
+      "We can voluntarily choose what to believe",
+      "Belief is determined by desire",
+      "Beliefs are always conscious"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q61",
+    "paper": 2,
+    "topic": "A priori",
+    "difficulty": "medium",
+    "question": "Kant's categories of the understanding (e.g., causality) are:",
+    "options": [
+      "Derived from experience",
+      "A priori concepts that structure all possible experience",
+      "Innate images",
+      "Empirical generalizations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q62",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "Quine's critique of the analytic-synthetic distinction argues that:",
+    "options": [
+      "All truths are analytic",
+      "The distinction is untenable — all statements face the tribunal of experience",
+      "Empiricism is false",
+      "All truths are synthetic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q63",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "medium",
+    "question": "Process reliabilism holds that a belief is justified if it is produced by:",
+    "options": [
+      "Careful reflection",
+      "A reliable cognitive process (one that tends to produce true beliefs)",
+      "Communal consensus",
+      "Deductive inference only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q64",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "medium",
+    "question": "The identity theory of truth holds that a true proposition:",
+    "options": [
+      "Corresponds to a fact",
+      "Is identical to the fact it represents",
+      "Coheres with other beliefs",
+      "Is practically successful"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q65",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'On Certainty' argues that some beliefs function as:",
+    "options": [
+      "Hypotheses to be tested",
+      "Hinge propositions — framework certainties that cannot themselves be doubted",
+      "Conventional agreements only",
+      "Empirically verifiable claims"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q66",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "medium",
+    "question": "Social epistemology emphasizes that knowledge:",
+    "options": [
+      "Is purely individual",
+      "Is shaped by social practices, institutions, and testimony",
+      "Requires unanimous agreement",
+      "Is culture-relative"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q67",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "medium",
+    "question": "W.K. Clifford's 'ethics of belief' holds that:",
+    "options": [
+      "It is wrong to believe anything on insufficient evidence",
+      "Belief is always permissible if sincere",
+      "Evidence is not required for faith",
+      "Moral beliefs require no justification"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u7q68",
+    "paper": 2,
+    "topic": "A posteriori",
+    "difficulty": "medium",
+    "question": "Quine's web of belief metaphor holds that experience impinges on:",
+    "options": [
+      "Individual isolated beliefs",
+      "The whole web of beliefs, not single statements individually",
+      "Only observational beliefs",
+      "Only theoretical beliefs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q69",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "medium",
+    "question": "Leibniz's principle of the identity of indiscernibles holds that:",
+    "options": [
+      "No two things share all properties",
+      "Things can be numerically distinct yet qualitatively identical",
+      "All things are unique in their properties",
+      "Substances have only one essential property"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u7q70",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "medium",
+    "question": "For Hume, the self is:",
+    "options": [
+      "A simple unified substance",
+      "A bundle of perceptions with no underlying unity",
+      "Knowable by reason alone",
+      "An innate idea"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q71",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "medium",
+    "question": "The no-false-lemma response to Gettier suggests that knowledge requires:",
+    "options": [
+      "Infallible justification",
+      "That the justification not essentially rely on any false beliefs",
+      "Absolutely certain truth",
+      "Reliably produced true belief"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q72",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "hard",
+    "question": "BonJour's coherentist theory requires a 'doxastic presumption' because:",
+    "options": [
+      "Coherentism needs a starting point",
+      "Without direct access to one's belief system, coherentism cannot get started since we need to presume we know our own beliefs",
+      "Coherentism is circular otherwise",
+      "Foundationalism is presupposed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q73",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "hard",
+    "question": "Nozick's 'tracking theory' sensitivity condition states:",
+    "options": [
+      "If P were true, S would believe P",
+      "If P were false, S would not believe P",
+      "S believes P and P is true",
+      "S has no undefeated defeaters for P"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q74",
+    "paper": 2,
+    "topic": "A priori",
+    "difficulty": "hard",
+    "question": "Boghossian's 'epistemic analyticity' holds that analytic truths are a priori because:",
+    "options": [
+      "They are true by convention",
+      "Understanding their meaning is sufficient for recognizing their truth",
+      "They are innately known",
+      "They are self-evident to all"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q75",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "hard",
+    "question": "Putnam's model-theoretic argument against metaphysical realism attempts to show:",
+    "options": [
+      "Truth is relative",
+      "An ideal theory could have many models, so 'the' intended interpretation cannot be fixed by causal or theoretical relations",
+      "Correspondence theory is correct",
+      "Language determines reality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q76",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "hard",
+    "question": "Wilfrid Sellars' 'myth of the given' critiques the idea that:",
+    "options": [
+      "Experience is structured by concepts",
+      "There are given, unconceptualized sense data that can serve as the epistemic foundation for empirical knowledge",
+      "Empiricism is false",
+      "The a priori structures experience"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q77",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "hard",
+    "question": "Timothy Williamson's 'knowledge-first epistemology' holds that knowledge is:",
+    "options": [
+      "Analyzable into belief, truth, and justification",
+      "A primitive factive mental state not to be analyzed in terms of belief and justification",
+      "A reliable process output",
+      "A social achievement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q78",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "hard",
+    "question": "BonJour's 'clairvoyant' case against reliabilism shows:",
+    "options": [
+      "Reliabilism is the best theory",
+      "A belief can be reliably produced and true yet unjustified from an internalist perspective",
+      "Reliable processes always justify",
+      "Clairvoyance is a reliable process"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q79",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "hard",
+    "question": "Crispin Wright's 'entitlement' response to skepticism distinguishes:",
+    "options": [
+      "Justified from true belief",
+      "Earned justification from a groundless but rational right to presuppose certain framework propositions",
+      "Coherence from foundationalism",
+      "A priori from a posteriori knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q80",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "hard",
+    "question": "Neo-rationalism (Bealer, Peacocke) holds that a priori knowledge is grounded in:",
+    "options": [
+      "Innate explicit propositions",
+      "The constitutive role of concepts — grasping concepts entails certain a priori commitments",
+      "Logical necessity alone",
+      "Social convention"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q81",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "hard",
+    "question": "The Preface Paradox arises because:",
+    "options": [
+      "Authors don't know what they've written",
+      "An author can rationally believe each claim in a book yet rationally believe (in the preface) that not all claims are true",
+      "Beliefs contradict actions",
+      "Sincerity requires certainty"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q82",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "hard",
+    "question": "Miranda Fricker's 'testimonial injustice' refers to:",
+    "options": [
+      "False testimony in court",
+      "A credibility deficit given to a speaker due to identity prejudice — a form of epistemic injustice",
+      "The unreliability of testimony generally",
+      "Legal exclusion of certain witnesses"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q83",
+    "paper": 2,
+    "topic": "A posteriori",
+    "difficulty": "hard",
+    "question": "Kripke's distinction between necessity and a priority shows some truths are necessary yet a posteriori, such as:",
+    "options": [
+      "Mathematical truths",
+      "'Hesperus is Phosphorus' (both names refer to Venus)",
+      "Logical tautologies",
+      "Moral truths"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q84",
+    "paper": 2,
+    "topic": "Truth",
+    "difficulty": "hard",
+    "question": "The liar paradox most directly threatens:",
+    "options": [
+      "The coherence theory",
+      "Any theory that treats truth as a predicate applicable to all sentences — leading to contradictions via Tarski's undefinability theorem",
+      "Pragmatism about truth",
+      "Deflationism"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q85",
+    "paper": 2,
+    "topic": "Knowledge",
+    "difficulty": "hard",
+    "question": "Sosa's 'animal knowledge' vs 'reflective knowledge' maps onto a two-tiered virtue epistemology where reflective knowledge requires:",
+    "options": [
+      "Propositional and procedural knowledge",
+      "Understanding why one's belief is reliably formed",
+      "Externalism and internalism",
+      "A priori and a posteriori knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q86",
+    "paper": 2,
+    "topic": "Empiricism",
+    "difficulty": "hard",
+    "question": "Carnap's 'internal vs external questions' distinction holds that questions about the existence of numbers or the external world:",
+    "options": [
+      "Are all meaningless",
+      "Are meaningful only internally to a linguistic framework; external questions have no factual content",
+      "Have definitive a priori answers",
+      "Must be resolved empirically"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q87",
+    "paper": 2,
+    "topic": "Skepticism",
+    "difficulty": "hard",
+    "question": "The 'closure principle' of knowledge is contested because:",
+    "options": [
+      "It validates knowledge too broadly",
+      "The skeptic exploits it to argue that since we don't know we're not brains-in-vats, we can't know ordinary things",
+      "It implies skepticism is true",
+      "It is logically invalid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q88",
+    "paper": 2,
+    "topic": "Justification",
+    "difficulty": "hard",
+    "question": "Stewart Cohen's contextualist response to the lottery problem holds that:",
+    "options": [
+      "Lottery beliefs can never be knowledge",
+      "Standards for knowledge attributions shift with context — in everyday contexts we can know, in philosophical contexts we cannot",
+      "Probabilistic beliefs cannot be knowledge in any context",
+      "The lottery case dissolves under analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q89",
+    "paper": 2,
+    "topic": "Rationalism",
+    "difficulty": "hard",
+    "question": "Kant's transcendental deduction attempts to show the categories are legitimate by arguing:",
+    "options": [
+      "They are logically self-evident",
+      "They are the necessary conditions for any possible experience whatsoever",
+      "They are innate and unlearned",
+      "They are derived from empirical generalizations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q90",
+    "paper": 2,
+    "topic": "Belief",
+    "difficulty": "hard",
+    "question": "Epistemic akrasia refers to:",
+    "options": [
+      "Believing without evidence",
+      "Believing P while simultaneously believing that one lacks sufficient evidence for P",
+      "Changing one's beliefs too readily",
+      "Holding contradictory beliefs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u7q91",
+    "paper": 2,
+    "topic": "Sources of Knowledge",
+    "difficulty": "hard",
+    "question": "Tyler Burge's 'content preservation' thesis about testimony holds that:",
+    "options": [
+      "Testimony preserves exact content",
+      "Hearers are a priori entitled to accept a speaker's testimony unless there are positive defeating reasons not to",
+      "Testimony requires corroboration",
+      "Content is always altered in transmission"
+    ],
+    "answer": 1
+  }
+]

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "u10q1",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "easy",
+    "question": "Wittgenstein's early work 'Tractatus Logico-Philosophicus' held that the world consists of:",
+    "options": [
+      "Substances and properties",
+      "Facts, not things",
+      "Language games",
+      "Atoms of meaning"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q2",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "easy",
+    "question": "The concept of 'language games' was introduced by:",
+    "options": [
+      "Russell",
+      "Frege",
+      "Wittgenstein",
+      "Austin"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q3",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "question": "The use theory of meaning (Wittgenstein) holds that meaning is determined by:",
+    "options": [
+      "Mental images",
+      "Reference to objects",
+      "Use in a form of life",
+      "Logical form"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q4",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "easy",
+    "question": "The causal theory of reference holds that names refer through:",
+    "options": [
+      "Descriptions",
+      "Mental associations",
+      "A causal-historical chain linking the name to the original object",
+      "Definitions"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q5",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "easy",
+    "question": "Austin's speech act theory distinguishes performative utterances from:",
+    "options": [
+      "Written statements",
+      "Constative (descriptive) utterances",
+      "Emotional expressions",
+      "Questions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q6",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "easy",
+    "question": "Frege's distinction between 'Sinn' and 'Bedeutung' is the distinction between:",
+    "options": [
+      "Subject and predicate",
+      "Sense (mode of presentation) and reference (object referred to)",
+      "Type and token",
+      "Sign and symbol"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q7",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "easy",
+    "question": "Russell's theory of descriptions analyses 'the present King of France' as:",
+    "options": [
+      "A referring term",
+      "Logically complex quantified claims, not simple referring expressions",
+      "A meaningless expression",
+      "A definite description with fixed reference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q8",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "question": "The referential theory of meaning holds that the meaning of a word is:",
+    "options": [
+      "Its use in language",
+      "The object it refers to",
+      "The mental image it evokes",
+      "Its position in a logical system"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q9",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "easy",
+    "question": "The verification theory of meaning holds that a sentence is meaningful only if:",
+    "options": [
+      "It is grammatically correct",
+      "It can be verified or falsified by experience",
+      "It is logically consistent",
+      "It is understood by speakers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q10",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "easy",
+    "question": "The later Wittgenstein's 'Philosophical Investigations' focuses on:",
+    "options": [
+      "Logical form of language",
+      "Language as a social practice and form of life",
+      "Reference and truth",
+      "Mathematical logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q11",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "easy",
+    "question": "Austin is best known for developing the theory of:",
+    "options": [
+      "Language games",
+      "Definite descriptions",
+      "Speech acts",
+      "Logical atomism"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q12",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "easy",
+    "question": "Frege's puzzle about identity arises from the fact that 'Hesperus is Phosphorus' is:",
+    "options": [
+      "Trivially true like 'a=a'",
+      "Informative though both names refer to the same object (Venus)",
+      "False",
+      "Meaningless"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q13",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "question": "Semantics is the study of:",
+    "options": [
+      "The sounds of language",
+      "The structure and rules of language",
+      "The meaning of linguistic expressions",
+      "Language acquisition"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q14",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "easy",
+    "question": "'I promise to pay you back' is an example of a:",
+    "options": [
+      "Constative utterance",
+      "Performative utterance",
+      "Descriptive claim",
+      "Locutionary act only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q15",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "easy",
+    "question": "For Frege, the reference (Bedeutung) of a sentence is its:",
+    "options": [
+      "Sense",
+      "Meaning",
+      "Truth value",
+      "Logical form"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q16",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "easy",
+    "question": "Russell's logical atomism held that the world is composed of:",
+    "options": [
+      "Substances",
+      "Facts corresponding to atomic propositions",
+      "Language games",
+      "Forms of life"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q17",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "easy",
+    "question": "Wittgenstein's 'form of life' indicates that language is:",
+    "options": [
+      "Purely formal",
+      "Embedded in shared human practices and activities",
+      "Determined by biology",
+      "Conventional only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q18",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "easy",
+    "question": "Pragmatics studies:",
+    "options": [
+      "Sound patterns",
+      "Sentence structure",
+      "How context affects meaning and use",
+      "Word meanings in isolation"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q19",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "easy",
+    "question": "Ayer's 'strong' verification principle requires that a statement be:",
+    "options": [
+      "Conclusively verified by experience",
+      "Consistent with other beliefs",
+      "Derivable from logic alone",
+      "Practically useful"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u10q20",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "easy",
+    "question": "A performative utterance is one that:",
+    "options": [
+      "Describes a state of affairs",
+      "Performs an action in its very utterance (e.g., 'I do' in a wedding)",
+      "Questions a fact",
+      "Expresses an emotion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q21",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's context principle holds that a word has meaning only:",
+    "options": [
+      "In isolation",
+      "In the context of a proposition",
+      "In a dictionary definition",
+      "In relation to its reference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q22",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "medium",
+    "question": "Russell's theory of descriptions solves the puzzle about 'the present King of France is bald' by:",
+    "options": [
+      "Saying such sentences are meaningless",
+      "Showing such statements are false — they assert existence and uniqueness, which is false",
+      "Making them analytic truths",
+      "Treating names as abbreviations of descriptions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q23",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'picture theory of meaning' holds that propositions represent reality by:",
+    "options": [
+      "Corresponding to facts through logical form they share with the world",
+      "Being defined by their truth conditions",
+      "Being verified by observation",
+      "Being used in communication"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u10q24",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'family resemblance' concept holds that terms like 'game' have:",
+    "options": [
+      "A single essential definition",
+      "No definition — only overlapping and crisscrossing similarities among instances",
+      "A core necessary and sufficient set of features",
+      "A definition that changes with culture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q25",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "Searle extended Austin's theory by distinguishing between propositional content and:",
+    "options": [
+      "Locution",
+      "Illocutionary force — the type of act performed with that content",
+      "Perlocutionary effect",
+      "Constative dimension"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q26",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Grice's 'non-natural meaning' (meaning-nn) requires:",
+    "options": [
+      "Causal connection to what is meant",
+      "Communicative intention — the speaker intends to produce a belief by means of the hearer's recognition of that intention",
+      "Conventional code",
+      "Logical entailment"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q27",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "Kripke's 'rigid designator' is a term that refers to the same object in:",
+    "options": [
+      "All actual contexts of use",
+      "All possible worlds",
+      "All languages",
+      "All historical periods"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q28",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "medium",
+    "question": "Ayer's 'weak' verification principle requires that a statement be:",
+    "options": [
+      "Conclusively verified",
+      "Such that experience is relevant to determining its probability",
+      "Falsifiable",
+      "Logically derivable from observation sentences"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q29",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "The private language argument argues that there cannot be a language only one person could understand because:",
+    "options": [
+      "Languages are public by definition",
+      "Meaning requires criteria of correct use that must be public — there can be no purely private criterion of correctness",
+      "Communication requires at least two people",
+      "Language is social by evolutionary origin"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q30",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's logicism was the project of showing that:",
+    "options": [
+      "Logic is a branch of mathematics",
+      "Mathematics is reducible to logic alone",
+      "Philosophy is logic",
+      "Arithmetic is empirical"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q31",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "medium",
+    "question": "Russell's paradox motivated:",
+    "options": [
+      "Frege's logicism",
+      "The need for a type theory to restrict set formation and avoid paradoxes",
+      "Wittgenstein's picture theory",
+      "The verification principle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q32",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'rule-following considerations' raise the puzzle that:",
+    "options": [
+      "Rules are unnecessary",
+      "No rule determines its own application — for any rule, interpretations can make any action accord with it",
+      "Rules are always explicit",
+      "Following a rule is purely psychological"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q33",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "Searle's 'Declaration' is special because:",
+    "options": [
+      "It describes a state of affairs",
+      "Its successful performance brings about the state of affairs it represents (e.g., declaring war)",
+      "It expresses the speaker's state",
+      "It commits the speaker to a future action"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q34",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Semantic holism holds that the meaning of any expression depends on:",
+    "options": [
+      "Its use in a single sentence",
+      "Its role in the entire language or web of beliefs",
+      "The intentions of speakers",
+      "Its reference alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q35",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "The descriptivist theory of names (Frege, Russell, early Searle) holds that names refer via:",
+    "options": [
+      "Causal chains",
+      "A cluster of associated descriptions",
+      "Direct acquaintance",
+      "Social conventions alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q36",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "medium",
+    "question": "Austin's 'felicity conditions' are conditions that must be met for a speech act to:",
+    "options": [
+      "Have meaning",
+      "Succeed (be 'happy') — appropriate context, procedure, persons, and execution are required",
+      "Be grammatically correct",
+      "Be understood"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q37",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "For Frege, numbers are:",
+    "options": [
+      "Mental constructs",
+      "Physical objects",
+      "Logical objects (extensions of concepts)",
+      "Purely formal symbols"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q38",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "The 'therapeutic' conception of philosophy in Wittgenstein's later work holds that philosophy should:",
+    "options": [
+      "Produce new philosophical theories",
+      "Dissolve philosophical problems by returning words from their metaphysical to their everyday use",
+      "Systematize knowledge",
+      "Provide logical analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q39",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "medium",
+    "question": "The verification principle faces the self-refutation objection because:",
+    "options": [
+      "Not all verified statements are meaningful",
+      "The principle itself is neither analytic nor empirically verifiable",
+      "Verification is subjective",
+      "It excludes mathematical truths"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q40",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "Indirect speech acts (Searle) occur when:",
+    "options": [
+      "The speaker is lying",
+      "The literal illocutionary act differs from the intended one (e.g., 'can you pass the salt?' as a request)",
+      "Speech is grammatically ambiguous",
+      "Context is unclear"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q41",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "Putnam's 'Twin Earth' thought experiment shows that:",
+    "options": [
+      "Meaning is in the head",
+      "Meanings are not in the head — 'water' refers to H₂O even for speakers who don't know its chemical composition",
+      "Reference is determined by descriptions",
+      "Identical psychological states yield identical meanings"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q42",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "medium",
+    "question": "The 'beetle in the box' thought experiment (Wittgenstein) argues that:",
+    "options": [
+      "The word 'pain' would refer to private sensation",
+      "What is in the box cancels out — 'pain' gets its meaning from public criteria, not private experience",
+      "Private language is possible for sensations",
+      "Introspection is reliable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q43",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Davidson's 'principle of charity' holds that we should interpret speakers as:",
+    "options": [
+      "Maximally irrational",
+      "Mostly rational and holding mostly true beliefs, to make interpretation possible",
+      "Saying exactly what they mean literally",
+      "Using language games of their own culture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q44",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's 'compositionality' principle holds that the meaning of a complex expression is:",
+    "options": [
+      "The sum of its word-tokens",
+      "A function of the meanings of its parts and the way they are composed",
+      "Fixed by convention",
+      "Indeterminate without context"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q45",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "medium",
+    "question": "Russell's distinction between 'knowledge by acquaintance' and 'knowledge by description' implies that:",
+    "options": [
+      "We can refer to anything we describe",
+      "We can only have logically proper names for what we are directly acquainted with; everything else is described",
+      "Acquaintance is more reliable than description",
+      "Descriptions are more certain than acquaintance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q46",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "medium",
+    "question": "Falsificationism (Popper) is offered as an alternative to verificationism because:",
+    "options": [
+      "Falsification is stronger than verification",
+      "A universal statement can never be verified but can be falsified by a single counter-instance",
+      "Popper was a logical positivist",
+      "Falsification avoids the demarcation problem"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q47",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "Performative utterances can go wrong in two ways: 'misfires' and:",
+    "options": [
+      "Mistakes and errors",
+      "Abuses — the procedure is invoked but the speaker lacks the requisite thoughts or intentions",
+      "Fallacies",
+      "Violations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q48",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "Kripke's argument against descriptivism uses the 'Gödel' case to show:",
+    "options": [
+      "Gödel was misidentified",
+      "If our descriptions associated with 'Gödel' are false, we would still refer to Gödel, not Schmidt",
+      "Names are descriptions in disguise",
+      "Reference is always accurate"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q49",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'depth grammar' contrasts with 'surface grammar' in that:",
+    "options": [
+      "They are identical for trained logicians",
+      "Surface grammar misleads — the logical (depth) grammar of expressions differs from their apparent grammatical form",
+      "Depth grammar is unconscious",
+      "Surface grammar is primary"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q50",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Quine's 'indeterminacy of translation' thesis holds that:",
+    "options": [
+      "Translation is always possible",
+      "There is no unique correct translation of one language into another — multiple incompatible schemes are equally correct",
+      "Meaning is language-relative",
+      "Translation requires cultural knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q51",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "medium",
+    "question": "Austin's distinction between 'primary' and 'secondary' (explicit) performatives maps onto:",
+    "options": [
+      "Implicit and explicit performatives — 'I'll be there' vs 'I promise I'll be there'",
+      "True and false performatives",
+      "Sincere and insincere performatives",
+      "Direct and indirect performatives"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u10q52",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's sense (Sinn) is a 'mode of presentation' because:",
+    "options": [
+      "It presents the reference to the mind in a particular way",
+      "It is a visual image of the object",
+      "It is how speakers present their intentions",
+      "It is the descriptive content speakers associate with a term"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u10q53",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "medium",
+    "question": "Wittgenstein says 'if a lion could speak, we could not understand him' because:",
+    "options": [
+      "Lions lack vocal anatomy for human speech",
+      "The lion's form of life is so different that its language game would be incomprehensible to us",
+      "Translation would be too difficult",
+      "Animals lack intentionality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q54",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "Evans' 'descriptivist' response to Kripke argues that names are associated with:",
+    "options": [
+      "A single description",
+      "A 'dossier' of information grounding the use of the name",
+      "No descriptions at all",
+      "Rigid designators"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q55",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Relevance theory (Sperber and Wilson) holds that communication is governed by:",
+    "options": [
+      "Gricean maxims",
+      "A single meta-principle of relevance — maximum cognitive effect for minimum processing effort",
+      "Truth conditions",
+      "Semantic rules alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q56",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "'Whereof one cannot speak, thereof one must be silent' (Tractatus 7) refers to:",
+    "options": [
+      "Political censorship",
+      "The ineffable logical form that can be shown but not said",
+      "Empirically unknowable facts",
+      "Moral discretion"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q57",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "medium",
+    "question": "The 'theory-ladenness of observation' (Hanson, Kuhn) challenges logical positivism because:",
+    "options": [
+      "Observation is always reliable",
+      "What we observe is already shaped by theoretical commitments — there is no neutral observational language",
+      "All observation terms are theoretical",
+      "Theories never influence perception"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q58",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "Habermas distinguishes 'communicative action' (oriented toward mutual understanding) from 'strategic action' (oriented toward):",
+    "options": [
+      "Personal success and manipulation",
+      "Emotional expression",
+      "Efficiency and effectiveness",
+      "Ethical obligation"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "u10q59",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "medium",
+    "question": "Russell's analysis of 'Scott is the author of Waverley' into an existential/uniqueness claim solves the problem that:",
+    "options": [
+      "Identity statements are always uninformative",
+      "If Scott wrote nothing, the sentence is not meaningless but false",
+      "The sentence has no logical form",
+      "Names cannot appear in identity statements"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q60",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Conceptual role semantics holds that the meaning of a term is its:",
+    "options": [
+      "Extension (the set of things it applies to)",
+      "Role in the conceptual/inferential network — what it licenses in reasoning",
+      "Causal history",
+      "Dictionary definition"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q61",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "The 'qua problem' for the causal theory of reference arises because:",
+    "options": [
+      "There are too many causal chains",
+      "A causal link to an object underdetermines which aspect of the object is being referred to",
+      "The original baptism may be mistaken",
+      "Reference requires description"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q62",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "medium",
+    "question": "Wittgenstein's 'forms of life' resist philosophical explanation because they are:",
+    "options": [
+      "Too simple to analyze",
+      "The bedrock — what lies at the end of the chain of justifications is ungrounded behaviour in the practice of life",
+      "Empirically determinable",
+      "Reducible to biology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q63",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's 'Basic Law V' led to Russell's paradox because:",
+    "options": [
+      "It was logically inconsistent on its own",
+      "It allowed any predicate to define an extension (set), and the predicate 'x is not a member of x' yields a contradictory set",
+      "It assumed all predicates are meaningful",
+      "It conflated sense and reference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q64",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "medium",
+    "question": "Austin's 'ordinary language philosophy' proposed that many philosophical puzzles arise from:",
+    "options": [
+      "Inadequate logic",
+      "Ignoring the rich distinctions embedded in ordinary language use",
+      "Lack of empirical data",
+      "Over-reliance on formal logic"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q65",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Two-dimensional semantics (Stalnaker, Kaplan) separates meaning into:",
+    "options": [
+      "Syntax and semantics",
+      "Character (how reference depends on context of utterance) and content (what is said once reference is fixed)",
+      "Sense and force",
+      "Meaning and reference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q66",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "medium",
+    "question": "The distinction between sincere and performative assertion (Searle) is important for understanding:",
+    "options": [
+      "Lying and deception theory",
+      "Fiction, theatrical performance, and hypothetical reasoning involving assertions that don't commit the speaker to truth",
+      "Defining illocution",
+      "Distinguishing assertion from other speech acts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q67",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "medium",
+    "question": "Schlick and Carnap disagreed on protocol sentences in that Carnap allowed:",
+    "options": [
+      "Only purely logical syntax",
+      "Protocol sentences to be revisable in light of theoretical requirements rather than fixed observation reports",
+      "No observation sentences at all",
+      "All sentences to be verified simultaneously"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q68",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "medium",
+    "question": "Natural kind terms such as 'water', 'tiger', and 'gold' (Kripke, Putnam) are rigid because:",
+    "options": [
+      "They are defined by descriptions",
+      "They refer to the underlying nature of the kind (its essence) in all possible worlds",
+      "Their reference can change over time",
+      "They are defined by experts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q69",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "medium",
+    "question": "The 'Augustinian picture of language' criticized in PI §1 is the idea that:",
+    "options": [
+      "Language is a picture of the world",
+      "Every word is a name and language works by associating names with objects",
+      "Meaning is use",
+      "Language games are diverse"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q70",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "medium",
+    "question": "Frege's 'predicate/argument' analysis is significant because it:",
+    "options": [
+      "Mirrors subject/predicate grammar",
+      "Allows analysis of multiple generality (quantification) in a way that traditional subject/predicate logic cannot",
+      "Simplifies logical analysis",
+      "Introduces the concept of sense"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q71",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "medium",
+    "question": "Austin's essay 'A Plea for Excuses' illustrates ordinary language philosophy by showing how:",
+    "options": [
+      "Excuses are morally justified",
+      "Careful analysis of excuse language illuminates the structure of human action and responsibility",
+      "Excuse language is systematically ambiguous",
+      "Logic applies to excuse-giving"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q72",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "medium",
+    "question": "Dummett's challenge to realist truth-conditional semantics is based on the claim that:",
+    "options": [
+      "Truth conditions are sufficient for meaning",
+      "We cannot always recognize the truth conditions of statements — meaning must be in terms of verification/proof conditions we can recognize",
+      "All statements have determinate truth values",
+      "Classical logic is universally correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q73",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "hard",
+    "question": "The 'concept horse' problem (Frege) arises because when we say 'the concept horse is a concept':",
+    "options": [
+      "We make a grammatical error",
+      "'The concept horse' is a name, hence refers to an object, not a concept — showing a fundamental tension in Frege's semantics",
+      "We speak of horse-concepts",
+      "The predicate 'is a concept' is ill-formed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q74",
+    "paper": 2,
+    "topic": "Russell",
+    "difficulty": "hard",
+    "question": "Russell's distinction between 'primary' and 'secondary' occurrence of definite descriptions matters for:",
+    "options": [
+      "Grammatical analysis only",
+      "Scope — in modal or belief contexts, different scope yields different truth conditions",
+      "Reference only",
+      "Avoiding paradox"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q75",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "hard",
+    "question": "McDowell's 'Russellian' singular thought holds that the content of a genuine thought about an individual:",
+    "options": [
+      "Is a descriptive condition",
+      "Essentially involves the individual itself — if the individual does not exist, there is no thought with that content",
+      "Is the same for any co-referring terms",
+      "Can be specified without mentioning the individual"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q76",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "hard",
+    "question": "Kripke's 'Wittgenstein on Rules and Private Language' (1982) offers a 'sceptical solution' meaning:",
+    "options": [
+      "The paradox is dissolved",
+      "The paradox is real but rule-following has a communitarian justification rather than a fact-based one",
+      "Following a rule is a private matter",
+      "The paradox only applies to mathematics"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q77",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "hard",
+    "question": "Quine's 'inscrutability of reference' (ontological relativity) shows that which objects a theory refers to:",
+    "options": [
+      "Is fixed by the theory's terms",
+      "Is only determined relative to a background language or theory — reference is not absolute",
+      "Can be read off from observation sentences",
+      "Is determined by causal relations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q78",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "hard",
+    "question": "Derrida's critique of Searle about iterability implies that:",
+    "options": [
+      "Speech acts are impossible",
+      "The conditions of possibility of communication (iterability) also constitute conditions of its impossibility (dissemination of meaning beyond original context and intention)",
+      "Searle's taxonomy is incomplete",
+      "Performatives require intentions strictly"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q79",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "hard",
+    "question": "McDowell's 'quietist' reading of Wittgenstein's rule-following holds that:",
+    "options": [
+      "No answer to the sceptic is needed",
+      "We should not try to explain how rule-following is possible by appeal to something outside practice — the practice is self-standing",
+      "Rules are purely conventional",
+      "Scepticism about rules is correct"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q80",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "hard",
+    "question": "The 'Newman objection' to structural theories of meaning holds that:",
+    "options": [
+      "Structures are unobservable",
+      "Any set of objects satisfying cardinality conditions will satisfy any structure — structural claims are empirically empty unless we specify what the relations are",
+      "Scientific theories are always underdetermined",
+      "Verification is impossible in principle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q81",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "hard",
+    "question": "Neo-logicism (Wright, Hale) revives Frege's logicism by showing that Hume's Principle is:",
+    "options": [
+      "Provably consistent",
+      "A second-order logical truth",
+      "Analytic and can serve as a foundation for arithmetic without the problematic Basic Law V",
+      "Empirically justified"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "u10q82",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "hard",
+    "question": "Burge's social externalism shows that even for non-natural-kind terms:",
+    "options": [
+      "Meaning is determined by the individual's mind",
+      "The content of mental states is partly determined by the social and linguistic community, not just the individual's psychology",
+      "Social norms fix reference only for natural kinds",
+      "Meaning and reference are always in the head"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q83",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "hard",
+    "question": "Evans' 'generality constraint' on genuine content holds that to have a thought with the content 'Fa':",
+    "options": [
+      "One need only use the term 'F'",
+      "One must be able to think both 'Fa', 'Fb', etc. and 'Ga', 'Ha', etc. — genuine conceptual ability must be generalisable across combinations",
+      "One must be able to verify 'Fa'",
+      "One must have the concept of identity"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q84",
+    "paper": 2,
+    "topic": "Austin",
+    "difficulty": "hard",
+    "question": "Austin ultimately abandoned the performative/constative distinction because:",
+    "options": [
+      "The distinction was not useful",
+      "All utterances are both — constatives also do something (assert) and performatives have truth-like conditions (felicity/success conditions)",
+      "Constatives are a subset of performatives",
+      "The distinction is grammatically based"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q85",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "hard",
+    "question": "Recanati's contextualism about semantic content holds that truth-conditional content:",
+    "options": [
+      "Is always the same as the literal meaning",
+      "Is always enriched by context beyond what is explicitly encoded — free pragmatic enrichment can determine content even without linguistically mandated slots",
+      "Is fixed by grammar alone",
+      "Requires speaker intentions to be fully explicit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q86",
+    "paper": 2,
+    "topic": "Language Games",
+    "difficulty": "hard",
+    "question": "Cavell's reading of Wittgenstein on criteria holds that criteria:",
+    "options": [
+      "Give certain knowledge of the application of a concept",
+      "Express our form of life's commitment to judge certain things as a concept's manifestation — they can be met while the thing is not what we expected",
+      "Are merely conventional stipulations",
+      "Are identical to analytic truths"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q87",
+    "paper": 2,
+    "topic": "Frege",
+    "difficulty": "hard",
+    "question": "Dummett's interpretation of Frege holds that the context principle implies an 'anti-realist' reading because:",
+    "options": [
+      "Frege denied the existence of numbers",
+      "The priority of sentence-meaning over word-meaning means understanding an expression is a matter of grasping its inferential role, not its contact with non-linguistic reality",
+      "Frege rejected correspondence theory",
+      "Context determines reference"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q88",
+    "paper": 2,
+    "topic": "Reference",
+    "difficulty": "hard",
+    "question": "The 'qua problem' and 'problem of the many' together challenge causal theories because:",
+    "options": [
+      "There are too few causal chains",
+      "The causal chain alone does not determine the referent or the sortal under which it is picked out — additional constraints must be imposed",
+      "Causation is insufficient for existence",
+      "Reference requires intention as well as causation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q89",
+    "paper": 2,
+    "topic": "Meaning",
+    "difficulty": "hard",
+    "question": "Chomsky's internalist semantics holds that natural language expressions do not refer to external objects because:",
+    "options": [
+      "Language is purely syntactic",
+      "Semantic competence is a property of the I-language — reference is to intentional objects, not mind-independent reality",
+      "Reference is indeterminate",
+      "Natural language is ambiguous"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q90",
+    "paper": 2,
+    "topic": "Wittgenstein",
+    "difficulty": "hard",
+    "question": "The 'resolute reading' of the Tractatus (Diamond, Conant) holds that:",
+    "options": [
+      "The propositions of the Tractatus are obviously true",
+      "The reader should recognize through the text that there is no coherent 'ineffable truth' to be gestured at — the attempt to say the unsayable shows only that the attempt itself is confused",
+      "They are pragmatically useful fictions",
+      "They are logically valid"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q91",
+    "paper": 2,
+    "topic": "Speech Acts",
+    "difficulty": "hard",
+    "question": "Alston's 'illocutionary act potential' (IAP) theory grounds meaning in:",
+    "options": [
+      "Truth conditions directly",
+      "The repertoire of illocutionary acts a sentence can be used to perform — meaning as illocutionary potential rather than propositional content",
+      "Conventional implicature",
+      "Causal role in communication"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "u10q92",
+    "paper": 2,
+    "topic": "Verification",
+    "difficulty": "hard",
+    "question": "Carnap's 'linguistic frameworks' allow that ontological questions are:",
+    "options": [
+      "Always substantive",
+      "Internal (answered within a framework) or external (pragmatic questions about which framework to adopt — not factual questions about reality)",
+      "Always meaningless",
+      "Answerable only by science"
+    ],
+    "answer": 1
+  }
+]
